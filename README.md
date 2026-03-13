@@ -6,7 +6,7 @@ Local breed tournament site built from the AKC dog breed directory at `https://w
 
 - Scrapes every paginated AKC breed listing page.
 - Downloads the breed card images locally.
-- Generates `site/data/breeds.json` and `site/data/breeds.js`.
+- Generates `docs/data/breeds.json` and `docs/data/breeds.js`.
 - Runs a local browser bracket where you choose between two dogs until one champion remains.
 
 ## Run the scraper
@@ -15,11 +15,11 @@ Local breed tournament site built from the AKC dog breed directory at `https://w
 python3 scripts/scrape_akc_breeds.py
 ```
 
-The scraper writes image assets into `site/assets/images/` and data files into `site/data/`.
+The scraper writes image assets into `docs/assets/images/` and data files into `docs/data/`.
 
 ## Open the site
 
-You can open `site/index.html` directly, since the generated breed data is loaded from a local JavaScript file.
+You can open `docs/index.html` directly, since the generated breed data is loaded from a local JavaScript file.
 
 If you prefer serving it over HTTP instead:
 
@@ -27,7 +27,7 @@ If you prefer serving it over HTTP instead:
 python3 -m http.server 8000
 ```
 
-Then open `http://127.0.0.1:8000/site/`.
+Then open `http://127.0.0.1:8000/docs/`.
 
 ## Notes
 

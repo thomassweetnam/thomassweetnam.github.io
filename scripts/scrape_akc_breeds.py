@@ -6,7 +6,6 @@ from __future__ import annotations
 import argparse
 import json
 import re
-import shutil
 import sys
 import time
 from html.parser import HTMLParser
@@ -87,8 +86,8 @@ def parse_args() -> argparse.Namespace:
     )
     parser.add_argument(
         "--output-root",
-        default="site",
-        help="Directory where the local site and generated data live. Default: site",
+        default="docs",
+        help="Directory where the local site and generated data live. Default: docs",
     )
     parser.add_argument(
         "--delay-seconds",
