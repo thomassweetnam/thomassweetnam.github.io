@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Dog Picker Showdown</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="page-shell">
+    <header class="hero">
+      <p class="eyebrow">Local AKC Breed Tournament</p>
+      <h1>Pick your champion one head-to-head matchup at a time.</h1>
+      <p class="lede">
+        This bracket uses the breed names and images scraped from AKC's dog breed directory and keeps narrowing the field until one dog wins your vote.
+      </p>
+      <div class="hero-meta">
+        <div class="stat-chip">
+          <span class="stat-chip__label">Breeds loaded</span>
+          <strong id="breed-count">0</strong>
+        </div>
+        <div class="stat-chip">
+          <span class="stat-chip__label">Total picks</span>
+          <strong id="total-picks">0</strong>
+        </div>
+        <div class="stat-chip">
+          <span class="stat-chip__label">Picks left</span>
+          <strong id="picks-left">0</strong>
+        </div>
+      </div>
+      <div class="hero-actions">
+        <button id="new-bracket-button" class="button button--primary" type="button">New shuffled bracket</button>
+      </div>
+      <p id="error-message" class="error-message" hidden></p>
+    </header>
+
+    <main class="arena">
+      <section class="status-panel" aria-live="polite">
+        <div class="status-row">
+          <p class="status-label">Round status</p>
+          <strong id="round-label">Waiting for data</strong>
+        </div>
+        <div class="progress-bar" aria-hidden="true">
+          <div id="progress-fill" class="progress-bar__fill"></div>
+        </div>
+        <p id="progress-text" class="progress-text">0 of 0 picks complete</p>
+        <p id="bye-note" class="bye-note"></p>
+      </section>
+
+      <section id="matchup-panel" class="matchup-panel">
+        <button class="dog-card" type="button" data-pick="left" aria-label="Choose left dog">
+          <span class="dog-card__frame">
+            <img class="dog-card__image" data-role="image" alt="">
+          </span>
+          <span class="dog-card__content">
+            <span class="dog-card__name" data-role="name"></span>
+            <span class="dog-card__cta">Advance this breed</span>
+          </span>
+        </button>
+
+        <div class="versus-badge" aria-hidden="true">VS</div>
+
+        <button class="dog-card" type="button" data-pick="right" aria-label="Choose right dog">
+          <span class="dog-card__frame">
+            <img class="dog-card__image" data-role="image" alt="">
+          </span>
+          <span class="dog-card__content">
+            <span class="dog-card__name" data-role="name"></span>
+            <span class="dog-card__cta">Advance this breed</span>
+          </span>
+        </button>
+      </section>
+
+      <section id="champion-panel" class="champion-panel" hidden>
+        <p class="eyebrow">Your top dog</p>
+        <img id="champion-image" class="champion-panel__image" alt="">
+        <h2 id="champion-name"></h2>
+        <p id="champion-summary" class="champion-panel__summary"></p>
+        <div class="champion-panel__actions">
+          <a id="champion-link" class="button button--ghost" href="#" target="_blank" rel="noreferrer">Open AKC breed page</a>
+          <button id="play-again-button" class="button button--primary" type="button">Run another bracket</button>
+        </div>
+      </section>
+
+      <aside class="history-panel">
+        <div class="history-panel__header">
+          <p class="status-label">Recent movement</p>
+          <strong>Who just advanced</strong>
+        </div>
+        <ul id="history-list" class="history-list"></ul>
+      </aside>
+    </main>
+  </div>
+
+  <script src="data/breeds.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
