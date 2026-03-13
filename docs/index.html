@@ -12,12 +12,16 @@
       <p class="eyebrow">Local AKC Breed Tournament</p>
       <h1>Pick your champion one head-to-head matchup at a time.</h1>
       <p class="lede">
-        This bracket uses the breed names and images scraped from AKC's dog breed directory and keeps narrowing the field until one dog wins your vote.
+        Filter the AKC breed pool first, then start a head-to-head bracket from the dogs that actually match your vibe.
       </p>
       <div class="hero-meta">
         <div class="stat-chip">
           <span class="stat-chip__label">Breeds loaded</span>
           <strong id="breed-count">0</strong>
+        </div>
+        <div class="stat-chip">
+          <span class="stat-chip__label">Breed pool</span>
+          <strong id="pool-count">0</strong>
         </div>
         <div class="stat-chip">
           <span class="stat-chip__label">Total picks</span>
@@ -29,13 +33,110 @@
         </div>
       </div>
       <div class="hero-actions">
-        <button id="new-bracket-button" class="button button--primary" type="button">New shuffled bracket</button>
+        <button id="change-filters-button" class="button button--ghost" type="button" hidden>Change filters</button>
+        <button id="new-bracket-button" class="button button--primary" type="button" hidden>Shuffle this bracket</button>
       </div>
       <p id="error-message" class="error-message" hidden></p>
     </header>
 
     <main class="arena">
-      <section class="status-panel" aria-live="polite">
+      <section id="setup-panel" class="setup-panel">
+        <div class="setup-panel__header">
+          <p class="eyebrow">Step 1</p>
+          <h2>Build your bracket pool</h2>
+          <p class="setup-panel__lede">
+            These filters are built from AKC breed profile traits so you can start with little dogs, big dogs, fluffy coats, calmer breeds, family-friendly breeds, and more.
+          </p>
+        </div>
+
+        <div class="filter-grid">
+          <section class="filter-card">
+            <div class="filter-card__header">
+              <p class="status-label">Size</p>
+              <strong>Little, medium, or big</strong>
+            </div>
+            <div id="size-filter" class="choice-row"></div>
+          </section>
+
+          <section class="filter-card">
+            <div class="filter-card__header">
+              <p class="status-label">Fluffy</p>
+              <strong>Yes, no, or anything</strong>
+            </div>
+            <div id="fluffy-filter" class="choice-row"></div>
+          </section>
+
+          <section class="filter-card">
+            <div class="filter-card__header">
+              <p class="status-label">Breed Group</p>
+              <strong>Mix and match AKC groups</strong>
+            </div>
+            <div id="group-filter" class="choice-row choice-row--wrap"></div>
+          </section>
+
+          <section class="filter-card">
+            <div class="filter-card__header">
+              <p class="status-label">Coat Length</p>
+              <strong>Short, medium, or long</strong>
+            </div>
+            <div id="coat-length-filter" class="choice-row choice-row--wrap"></div>
+          </section>
+
+          <section class="filter-card">
+            <div class="filter-card__header">
+              <p class="status-label">Coat Type</p>
+              <strong>Smooth, double, curly, wavy, and more</strong>
+            </div>
+            <div id="coat-type-filter" class="choice-row choice-row--wrap"></div>
+          </section>
+
+          <section class="filter-card">
+            <div class="filter-card__header">
+              <p class="status-label">Shedding</p>
+              <strong>How much fur is flying around</strong>
+            </div>
+            <div id="shedding-filter" class="choice-row"></div>
+          </section>
+
+          <section class="filter-card">
+            <div class="filter-card__header">
+              <p class="status-label">Energy</p>
+              <strong>Chill or go-go-go</strong>
+            </div>
+            <div id="energy-filter" class="choice-row"></div>
+          </section>
+
+          <section class="filter-card">
+            <div class="filter-card__header">
+              <p class="status-label">With Kids</p>
+              <strong>Family-friendliness</strong>
+            </div>
+            <div id="kids-filter" class="choice-row"></div>
+          </section>
+
+          <section class="filter-card">
+            <div class="filter-card__header">
+              <p class="status-label">With Dogs</p>
+              <strong>How social with other dogs</strong>
+            </div>
+            <div id="dogs-filter" class="choice-row"></div>
+          </section>
+        </div>
+
+        <div class="setup-panel__footer">
+          <div class="setup-panel__summary">
+            <p class="status-label">Selected pool</p>
+            <strong id="match-count">0 breeds match</strong>
+            <p id="filter-summary" class="filter-summary">All breeds are currently included.</p>
+          </div>
+          <div class="setup-panel__actions">
+            <button id="reset-filters-button" class="button button--ghost" type="button">Reset filters</button>
+            <button id="start-tournament-button" class="button button--primary" type="button">Start tournament</button>
+          </div>
+        </div>
+      </section>
+
+      <section id="status-panel" class="status-panel" aria-live="polite" hidden>
         <div class="status-row">
           <p class="status-label">Round status</p>
           <strong id="round-label">Waiting for data</strong>
@@ -44,10 +145,11 @@
           <div id="progress-fill" class="progress-bar__fill"></div>
         </div>
         <p id="progress-text" class="progress-text">0 of 0 picks complete</p>
+        <p id="active-filter-summary" class="filter-summary"></p>
         <p id="bye-note" class="bye-note"></p>
       </section>
 
-      <section id="matchup-panel" class="matchup-panel">
+      <section id="matchup-panel" class="matchup-panel" hidden>
         <button class="dog-card" type="button" data-pick="left" aria-label="Choose left dog">
           <span class="dog-card__frame">
             <img class="dog-card__image" data-role="image" alt="">
@@ -82,7 +184,7 @@
         </div>
       </section>
 
-      <aside class="history-panel">
+      <aside id="history-panel" class="history-panel" hidden>
         <div class="history-panel__header">
           <p class="status-label">Recent movement</p>
           <strong>Who just advanced</strong>

@@ -4,6 +4,7 @@
 from __future__ import annotations
 
 import argparse
+import html
 import json
 import re
 import sys
@@ -16,6 +17,12 @@ from urllib.request import Request, urlopen
 
 
 BASE_URL = "https://www.akc.org/dog-breeds/"
+BREED_PAGE_PROPS_PATTERN = re.compile(
+    r'<div data-js-component="breedPage" data-js-props="(.*?)">',
+    re.DOTALL,
+)
+HEIGHT_PATTERN = re.compile(r'<Attribute name="height">([^<]+)</Attribute>')
+WEIGHT_PATTERN = re.compile(r'<Attribute name="weight">([^<]+)</Attribute>')
 USER_AGENT = (
     "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 "
     "(KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"
@@ -168,6 +175,114 @@ def write_js_data(path: Path, breeds: list[dict[str, Any]]) -> None:
     path.write_text("\n".join(lines), encoding="utf-8")
 
 
+def parse_attribute_value(page_html: str, pattern: re.Pattern[str], prefix: str) -> str:
+    match = pattern.search(page_html)
+    if not match:
+        return ""
+    value = html.unescape(match.group(1)).strip()
+    if value.startswith(prefix):
+        value = value[len(prefix):]
+    return value
+
+
+def parse_weight_numbers(weight_text: str) -> list[float]:
+    return [float(value) for value in re.findall(r"\d+(?:\.\d+)?", weight_text)]
+
+
+def derive_size_category(weight_text: str) -> str:
+    values = parse_weight_numbers(weight_text)
+    if not values:
+        return "unknown"
+
+    max_weight = max(values)
+    if max_weight <= 20:
+        return "small"
+    if max_weight <= 50:
+        return "medium"
+    return "large"
+
+
+def derive_fluffy(coat_length: list[str], coat_type: list[str]) -> bool:
+    lengths = set(coat_length)
+    types = set(coat_type)
+
+    if "Hairless" in types:
+        return False
+    if "Long" in lengths:
+        return True
+    if "Double" in types:
+        return True
+    if lengths.intersection({"Medium", "Long"}) and types.intersection({"Rough", "Curly", "Wavy", "Corded"}):
+        return True
+    return False
+
+
+def parse_breed_profile(page_html: str) -> dict[str, Any]:
+    props_match = BREED_PAGE_PROPS_PATTERN.search(page_html)
+    if not props_match:
+        raise RuntimeError("Could not locate breedPage props on breed profile.")
+
+    props = json.loads(html.unescape(props_match.group(1)))
+    current_breed = props["settings"]["current_breed"]
+    breed_data = props["settings"]["breed_data"]
+    basics = breed_data["basics"][current_breed]
+    traits_block = breed_data["traits"][current_breed]
+    traits = traits_block.get("traits", {})
+
+    def trait_score(trait_key: str) -> int | None:
+        score = traits.get(trait_key, {}).get("score")
+        return int(score) if score is not None else None
+
+    def trait_selected(trait_key: str) -> list[str]:
+        selected = traits.get(trait_key, {}).get("selected") or []
+        return [
+            str(value)
+            for value in selected
+            if str(value).strip() and str(value).strip() != "0"
+        ]
+
+    related_characteristics = [
+        item.strip()
+        for item in (basics.get("related_groups_characteristics") or "").split(",")
+        if item.strip()
+    ]
+    coat_length = trait_selected("coat_length")
+    coat_type = trait_selected("coat_type")
+    height = parse_attribute_value(page_html, HEIGHT_PATTERN, "Height: ")
+    weight = parse_attribute_value(page_html, WEIGHT_PATTERN, "Weight: ")
+    size_category = derive_size_category(weight)
+
+    return {
+        "breedGroup": basics.get("breed_group", ""),
+        "origin": basics.get("origin", ""),
+        "temperament": traits_block.get("temperament", ""),
+        "lifeExpectancy": basics.get("life_expectancy", ""),
+        "height": height,
+        "weight": weight,
+        "relatedCharacteristics": related_characteristics,
+        "traits": {
+            "adaptabilityLevel": trait_score("adaptability_level"),
+            "affectionateWithFamily": trait_score("affectionate_with_family"),
+            "barkingLevel": trait_score("barking_level"),
+            "coatGroomingFrequency": trait_score("coat_grooming_frequency"),
+            "coatLength": coat_length,
+            "coatType": coat_type,
+            "droolingLevel": trait_score("drooling_level"),
+            "energyLevel": trait_score("energy_level"),
+            "goodWithOtherDogs": trait_score("good_with_other_dogs"),
+            "goodWithYoungChildren": trait_score("good_with_young_children"),
+            "mentalStimulationNeeds": trait_score("mental_stimulation_needs"),
+            "opennessToStrangers": trait_score("openness_to_strangers"),
+            "playfulnessLevel": trait_score("playfulness_level"),
+            "sheddingLevel": trait_score("shedding_level"),
+            "trainabilityLevel": trait_score("trainability_level"),
+            "watchdogProtectiveNature": trait_score("watchdogprotective_nature"),
+        },
+        "sizeCategory": size_category,
+        "isFluffy": derive_fluffy(coat_length, coat_type),
+    }
+
+
 def download_image(image_url: str, destination: Path, timeout_seconds: float, delay_seconds: float) -> None:
     destination.parent.mkdir(parents=True, exist_ok=True)
     temp_path = destination.with_suffix(destination.suffix + ".part")
@@ -219,14 +334,18 @@ def materialize_dataset(
     timeout_seconds: float,
     delay_seconds: float,
     force_images: bool,
-) -> list[dict[str, str]]:
+) -> list[dict[str, Any]]:
     images_dir = output_root / "assets" / "images"
-    finalized: list[dict[str, str]] = []
+    finalized: list[dict[str, Any]] = []
 
     for index, breed in enumerate(breeds, start=1):
         extension = image_suffix(breed["imageUrl"])
         filename = f"{breed['slug']}{extension}"
         image_path = images_dir / filename
+
+        print(f"Fetching breed profile {index}/{len(breeds)}: {breed['name']}", file=sys.stderr)
+        profile_html = fetch_text(breed["breedUrl"], timeout_seconds, delay_seconds)
+        profile = parse_breed_profile(profile_html)
 
         if force_images or not image_path.exists() or image_path.stat().st_size == 0:
             print(f"Downloading image {index}/{len(breeds)}: {breed['name']}", file=sys.stderr)
@@ -241,6 +360,16 @@ def materialize_dataset(
                 "imageUrl": breed["imageUrl"],
                 "imageAlt": breed["imageAlt"],
                 "imagePath": f"assets/images/{filename}",
+                "breedGroup": profile["breedGroup"],
+                "origin": profile["origin"],
+                "temperament": profile["temperament"],
+                "lifeExpectancy": profile["lifeExpectancy"],
+                "height": profile["height"],
+                "weight": profile["weight"],
+                "relatedCharacteristics": profile["relatedCharacteristics"],
+                "traits": profile["traits"],
+                "sizeCategory": profile["sizeCategory"],
+                "isFluffy": profile["isFluffy"],
             }
         )
 

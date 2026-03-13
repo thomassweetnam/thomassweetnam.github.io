@@ -7,7 +7,43 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/affenpinscher/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2017/11/Affenpinscher-running-outdoors-400x267.jpg",
     "imageAlt": "Affenpinscher",
-    "imagePath": "assets/images/affenpinscher.jpg"
+    "imagePath": "assets/images/affenpinscher.jpg",
+    "breedGroup": "Toy Group",
+    "origin": "Germany",
+    "temperament": "confident / famously funny / fearless",
+    "lifeExpectancy": "12-15 years",
+    "height": "9-11.5 inches",
+    "weight": "7-10 pounds",
+    "relatedCharacteristics": [
+      "Smallest Dog Breeds",
+      "Hypoallergenic Dogs",
+      "Best Dogs for Apartment Dwellers"
+    ],
+    "traits": {
+      "adaptabilityLevel": 4,
+      "affectionateWithFamily": 3,
+      "barkingLevel": 3,
+      "coatGroomingFrequency": 3,
+      "coatLength": [
+        "Short",
+        "Medium"
+      ],
+      "coatType": [
+        "Wiry"
+      ],
+      "droolingLevel": 1,
+      "energyLevel": 3,
+      "goodWithOtherDogs": 3,
+      "goodWithYoungChildren": 3,
+      "mentalStimulationNeeds": 3,
+      "opennessToStrangers": 5,
+      "playfulnessLevel": 3,
+      "sheddingLevel": 3,
+      "trainabilityLevel": 3,
+      "watchdogProtectiveNature": 3
+    },
+    "sizeCategory": "small",
+    "isFluffy": false
   },
   {
     "akcId": "23209",
@@ -16,7 +52,41 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/afghan-hound/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2017/11/Afghan-Hound-standing-in-a-garden-400x267.jpg",
     "imageAlt": "Afghan Hound",
-    "imagePath": "assets/images/afghan-hound.jpg"
+    "imagePath": "assets/images/afghan-hound.jpg",
+    "breedGroup": "Hound Group",
+    "origin": "Afghanistan",
+    "temperament": "independent / sweet",
+    "lifeExpectancy": "12-18 years",
+    "height": "25-27 inches",
+    "weight": "50-60 pounds",
+    "relatedCharacteristics": [
+      "Hypoallergenic Dogs",
+      "Largest Dog Breeds"
+    ],
+    "traits": {
+      "adaptabilityLevel": 3,
+      "affectionateWithFamily": 3,
+      "barkingLevel": 3,
+      "coatGroomingFrequency": 4,
+      "coatLength": [
+        "Long"
+      ],
+      "coatType": [
+        "Silky"
+      ],
+      "droolingLevel": 1,
+      "energyLevel": 4,
+      "goodWithOtherDogs": 3,
+      "goodWithYoungChildren": 3,
+      "mentalStimulationNeeds": 3,
+      "opennessToStrangers": 3,
+      "playfulnessLevel": 3,
+      "sheddingLevel": 1,
+      "trainabilityLevel": 1,
+      "watchdogProtectiveNature": 3
+    },
+    "sizeCategory": "large",
+    "isFluffy": true
   },
   {
     "akcId": "23224",
@@ -25,7 +95,42 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/airedale-terrier/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2017/11/Airedale-Terrier-standing-stacked-outdoors-400x267.jpg",
     "imageAlt": "Airedale Terrier",
-    "imagePath": "assets/images/airedale-terrier.jpg"
+    "imagePath": "assets/images/airedale-terrier.jpg",
+    "breedGroup": "Terrier Group",
+    "origin": "England",
+    "temperament": "friendly / courageous / clever",
+    "lifeExpectancy": "11-14 years",
+    "height": "23 inches",
+    "weight": "50-70 pounds",
+    "relatedCharacteristics": [
+      "Best Family Dogs",
+      "Medium Dog Breeds"
+    ],
+    "traits": {
+      "adaptabilityLevel": 3,
+      "affectionateWithFamily": 3,
+      "barkingLevel": 3,
+      "coatGroomingFrequency": 3,
+      "coatLength": [
+        "Short",
+        "Medium"
+      ],
+      "coatType": [
+        "Wiry"
+      ],
+      "droolingLevel": 1,
+      "energyLevel": 3,
+      "goodWithOtherDogs": 3,
+      "goodWithYoungChildren": 3,
+      "mentalStimulationNeeds": 3,
+      "opennessToStrangers": 3,
+      "playfulnessLevel": 3,
+      "sheddingLevel": 1,
+      "trainabilityLevel": 3,
+      "watchdogProtectiveNature": 5
+    },
+    "sizeCategory": "large",
+    "isFluffy": false
   },
   {
     "akcId": "23239",
@@ -34,7 +139,41 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/akita/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2017/11/Akita-standing-outdoors-in-the-summer-400x267.jpg",
     "imageAlt": "Akita",
-    "imagePath": "assets/images/akita.jpg"
+    "imagePath": "assets/images/akita.jpg",
+    "breedGroup": "Working Group",
+    "origin": "Japan",
+    "temperament": "dignified / courageous / profoundly loyal",
+    "lifeExpectancy": "10-14 years",
+    "height": "26-28 inches (male), 24-26 inches (female)",
+    "weight": "100-130 pounds (male), 70-100 pounds (female)",
+    "relatedCharacteristics": [
+      "Largest Dog Breeds",
+      "Best Guard Dogs"
+    ],
+    "traits": {
+      "adaptabilityLevel": 3,
+      "affectionateWithFamily": 3,
+      "barkingLevel": 2,
+      "coatGroomingFrequency": 3,
+      "coatLength": [
+        "Medium"
+      ],
+      "coatType": [
+        "Double"
+      ],
+      "droolingLevel": 1,
+      "energyLevel": 4,
+      "goodWithOtherDogs": 1,
+      "goodWithYoungChildren": 3,
+      "mentalStimulationNeeds": 3,
+      "opennessToStrangers": 2,
+      "playfulnessLevel": 3,
+      "sheddingLevel": 3,
+      "trainabilityLevel": 3,
+      "watchdogProtectiveNature": 5
+    },
+    "sizeCategory": "large",
+    "isFluffy": true
   },
   {
     "akcId": "121466",
@@ -43,7 +182,42 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/alaskan-klee-kai/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2021/01/Alaskan-Klee-Kai-standing-in-the-snow-attached-to-a-harness1-400x267.jpg",
     "imageAlt": "Alaskan Klee Kai",
-    "imagePath": "assets/images/alaskan-klee-kai.jpg"
+    "imagePath": "assets/images/alaskan-klee-kai.jpg",
+    "breedGroup": "Miscellaneous Class",
+    "origin": "United States",
+    "temperament": "loyal / intelligent / vigilant",
+    "lifeExpectancy": "13-16 years",
+    "height": "12 - 17 inches",
+    "weight": "6 - 25 lbs",
+    "relatedCharacteristics": [
+      "smallest dog breeds",
+      "smartest breeds of dogs",
+      "medium dog breeds"
+    ],
+    "traits": {
+      "adaptabilityLevel": 3,
+      "affectionateWithFamily": 3,
+      "barkingLevel": 3,
+      "coatGroomingFrequency": 3,
+      "coatLength": [
+        "Medium"
+      ],
+      "coatType": [
+        "Double"
+      ],
+      "droolingLevel": 1,
+      "energyLevel": 3,
+      "goodWithOtherDogs": 5,
+      "goodWithYoungChildren": 3,
+      "mentalStimulationNeeds": 3,
+      "opennessToStrangers": 1,
+      "playfulnessLevel": 3,
+      "sheddingLevel": 3,
+      "trainabilityLevel": 3,
+      "watchdogProtectiveNature": 3
+    },
+    "sizeCategory": "medium",
+    "isFluffy": true
   },
   {
     "akcId": "23249",
@@ -52,7 +226,41 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/alaskan-malamute/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2017/11/Alaskan-Malamute-standing-in-the-grass1-400x267.jpg",
     "imageAlt": "Alaskan Malamute",
-    "imagePath": "assets/images/alaskan-malamute.jpg"
+    "imagePath": "assets/images/alaskan-malamute.jpg",
+    "breedGroup": "Working Group",
+    "origin": "Alaska",
+    "temperament": "loyal / playful / affectionate",
+    "lifeExpectancy": "10-14 years",
+    "height": "25 inches (male), 23 inches (female)",
+    "weight": "85 pounds (male), 75 pounds (female)",
+    "relatedCharacteristics": [
+      "Best Family Dogs",
+      "Largest Dog Breeds"
+    ],
+    "traits": {
+      "adaptabilityLevel": 3,
+      "affectionateWithFamily": 3,
+      "barkingLevel": 3,
+      "coatGroomingFrequency": 3,
+      "coatLength": [
+        "Medium"
+      ],
+      "coatType": [
+        "Double"
+      ],
+      "droolingLevel": 1,
+      "energyLevel": 4,
+      "goodWithOtherDogs": 3,
+      "goodWithYoungChildren": 3,
+      "mentalStimulationNeeds": 3,
+      "opennessToStrangers": 3,
+      "playfulnessLevel": 3,
+      "sheddingLevel": 3,
+      "trainabilityLevel": 5,
+      "watchdogProtectiveNature": 4
+    },
+    "sizeCategory": "large",
+    "isFluffy": true
   },
   {
     "akcId": "96298",
@@ -61,7 +269,40 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/american-bulldog/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2020/01/American-Bulldog-standing-in-three-quarter-view-400x267.jpg",
     "imageAlt": "American Bulldog",
-    "imagePath": "assets/images/american-bulldog.jpg"
+    "imagePath": "assets/images/american-bulldog.jpg",
+    "breedGroup": "Foundation Stock Service",
+    "origin": "United States",
+    "temperament": "loyal / self-confident",
+    "lifeExpectancy": "10-12 years",
+    "height": "22-25 inches (males); 20-23 inches (females)",
+    "weight": "75-100 pounds (males); 60-80 pounds (females)",
+    "relatedCharacteristics": [
+      "Large Dog Breeds"
+    ],
+    "traits": {
+      "adaptabilityLevel": 0,
+      "affectionateWithFamily": 3,
+      "barkingLevel": 1,
+      "coatGroomingFrequency": 2,
+      "coatLength": [
+        "Short"
+      ],
+      "coatType": [
+        "Smooth"
+      ],
+      "droolingLevel": 0,
+      "energyLevel": 3,
+      "goodWithOtherDogs": 3,
+      "goodWithYoungChildren": 3,
+      "mentalStimulationNeeds": 0,
+      "opennessToStrangers": 2,
+      "playfulnessLevel": 2,
+      "sheddingLevel": 2,
+      "trainabilityLevel": 4,
+      "watchdogProtectiveNature": 0
+    },
+    "sizeCategory": "large",
+    "isFluffy": false
   },
   {
     "akcId": "23264",
@@ -70,7 +311,40 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/american-english-coonhound/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2017/11/American-English-Coonhound-howling-in-a-field1-400x267.jpg",
     "imageAlt": "American English Coonhound",
-    "imagePath": "assets/images/american-english-coonhound.jpg"
+    "imagePath": "assets/images/american-english-coonhound.jpg",
+    "breedGroup": "Hound Group",
+    "origin": "United States",
+    "temperament": "sociable / sweet / mellow",
+    "lifeExpectancy": "11-12 years",
+    "height": "24-26 inches (male), 23-25 inches (female)",
+    "weight": "45-65 pounds",
+    "relatedCharacteristics": [
+      "Medium Dog Breeds"
+    ],
+    "traits": {
+      "adaptabilityLevel": 3,
+      "affectionateWithFamily": 3,
+      "barkingLevel": 4,
+      "coatGroomingFrequency": 1,
+      "coatLength": [
+        "Short"
+      ],
+      "coatType": [
+        "Smooth"
+      ],
+      "droolingLevel": 1,
+      "energyLevel": 4,
+      "goodWithOtherDogs": 5,
+      "goodWithYoungChildren": 3,
+      "mentalStimulationNeeds": 3,
+      "opennessToStrangers": 3,
+      "playfulnessLevel": 3,
+      "sheddingLevel": 2,
+      "trainabilityLevel": 3,
+      "watchdogProtectiveNature": 3
+    },
+    "sizeCategory": "large",
+    "isFluffy": false
   },
   {
     "akcId": "23278",
@@ -79,7 +353,42 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/american-eskimo-dog/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2017/11/American-Eskimo-Dog-standing-in-the-grass-in-bright-sunlight-400x267.jpg",
     "imageAlt": "American Eskimo Dog",
-    "imagePath": "assets/images/american-eskimo-dog.jpg"
+    "imagePath": "assets/images/american-eskimo-dog.jpg",
+    "breedGroup": "Non-Sporting Group",
+    "origin": "United States",
+    "temperament": "Loyal / Smart / Versatile",
+    "lifeExpectancy": "13-15 years",
+    "height": "9-12 inches (toy), 12-15 inches (miniature), 15-19 inches (Standard)",
+    "weight": "6-10 pounds (toy), 10-20 pounds (miniature), 25-35 pounds (standard)",
+    "relatedCharacteristics": [
+      "Smallest Dog Breeds",
+      "Best Family Dogs",
+      "Best Dogs for Apartment Dwellers"
+    ],
+    "traits": {
+      "adaptabilityLevel": 4,
+      "affectionateWithFamily": 5,
+      "barkingLevel": 3,
+      "coatGroomingFrequency": 3,
+      "coatLength": [
+        "Medium"
+      ],
+      "coatType": [
+        "Double"
+      ],
+      "droolingLevel": 1,
+      "energyLevel": 4,
+      "goodWithOtherDogs": 3,
+      "goodWithYoungChildren": 5,
+      "mentalStimulationNeeds": 3,
+      "opennessToStrangers": 5,
+      "playfulnessLevel": 3,
+      "sheddingLevel": 3,
+      "trainabilityLevel": 4,
+      "watchdogProtectiveNature": 3
+    },
+    "sizeCategory": "medium",
+    "isFluffy": true
   },
   {
     "akcId": "23292",
@@ -88,7 +397,40 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/american-foxhound/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2020/05/american-foxhound-pair-looking-up-400x267.jpg",
     "imageAlt": "American Foxhound",
-    "imagePath": "assets/images/american-foxhound.jpg"
+    "imagePath": "assets/images/american-foxhound.jpg",
+    "breedGroup": "Hound Group",
+    "origin": "United States",
+    "temperament": "independent / easy-going / sweet-tempered",
+    "lifeExpectancy": "11-13 years",
+    "height": "22-25 inches (male), 21-24 inches (female)",
+    "weight": "65-70 pounds (male), 60-65 pounds (female)",
+    "relatedCharacteristics": [
+      "Medium Dog Breeds"
+    ],
+    "traits": {
+      "adaptabilityLevel": 3,
+      "affectionateWithFamily": 3,
+      "barkingLevel": 5,
+      "coatGroomingFrequency": 1,
+      "coatLength": [
+        "Short"
+      ],
+      "coatType": [
+        "Smooth"
+      ],
+      "droolingLevel": 1,
+      "energyLevel": 4,
+      "goodWithOtherDogs": 5,
+      "goodWithYoungChildren": 5,
+      "mentalStimulationNeeds": 3,
+      "opennessToStrangers": 3,
+      "playfulnessLevel": 3,
+      "sheddingLevel": 3,
+      "trainabilityLevel": 3,
+      "watchdogProtectiveNature": 3
+    },
+    "sizeCategory": "large",
+    "isFluffy": false
   },
   {
     "akcId": "23307",
@@ -97,7 +439,43 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/american-hairless-terrier/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2017/11/American-Hairless-Terrier-standing-in-the-grass-on-lead-400x267.jpg",
     "imageAlt": "American Hairless Terrier",
-    "imagePath": "assets/images/american-hairless-terrier.jpg"
+    "imagePath": "assets/images/american-hairless-terrier.jpg",
+    "breedGroup": "Terrier Group",
+    "origin": "United States",
+    "temperament": "alert / curious / energetic",
+    "lifeExpectancy": "14-16 years",
+    "height": "12-16 inches",
+    "weight": "12-28 pounds",
+    "relatedCharacteristics": [
+      "Smallest Dog Breeds",
+      "Hypoallergenic Dogs",
+      "Best Dogs for Apartment Dwellers",
+      "Hairless Dog Breeds"
+    ],
+    "traits": {
+      "adaptabilityLevel": 5,
+      "affectionateWithFamily": 5,
+      "barkingLevel": 3,
+      "coatGroomingFrequency": 1,
+      "coatLength": [
+        "Short"
+      ],
+      "coatType": [
+        "Hairless"
+      ],
+      "droolingLevel": 1,
+      "energyLevel": 3,
+      "goodWithOtherDogs": 3,
+      "goodWithYoungChildren": 5,
+      "mentalStimulationNeeds": 3,
+      "opennessToStrangers": 3,
+      "playfulnessLevel": 3,
+      "sheddingLevel": 1,
+      "trainabilityLevel": 5,
+      "watchdogProtectiveNature": 3
+    },
+    "sizeCategory": "medium",
+    "isFluffy": false
   },
   {
     "akcId": "23322",
@@ -106,7 +484,42 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/american-leopard-hound/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2017/11/American-Leopard-Hound-On-White-01-400x267.jpg",
     "imageAlt": "American Leopard Hound",
-    "imagePath": "assets/images/american-leopard-hound.jpg"
+    "imagePath": "assets/images/american-leopard-hound.jpg",
+    "breedGroup": "Foundation Stock Service",
+    "origin": "Mexico",
+    "temperament": "intelligent / sociable / energetic",
+    "lifeExpectancy": "12-15 years",
+    "height": "22 - 27 males, 21 - 25 females",
+    "weight": "45 - 75 lbs males, 35 - 65 lbs females",
+    "relatedCharacteristics": [
+      "Best Family Dogs",
+      "Medium Dog Breeds",
+      "Smartest Breeds of Dog"
+    ],
+    "traits": {
+      "adaptabilityLevel": 5,
+      "affectionateWithFamily": 3,
+      "barkingLevel": 5,
+      "coatGroomingFrequency": 1,
+      "coatLength": [
+        "Short"
+      ],
+      "coatType": [
+        "Smooth"
+      ],
+      "droolingLevel": 1,
+      "energyLevel": 4,
+      "goodWithOtherDogs": 5,
+      "goodWithYoungChildren": 5,
+      "mentalStimulationNeeds": 5,
+      "opennessToStrangers": 1,
+      "playfulnessLevel": 3,
+      "sheddingLevel": 3,
+      "trainabilityLevel": 3,
+      "watchdogProtectiveNature": 5
+    },
+    "sizeCategory": "large",
+    "isFluffy": false
   },
   {
     "akcId": "23324",
@@ -115,7 +528,42 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/american-staffordshire-terrier/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2017/11/AmStaff.01-400x267.jpg",
     "imageAlt": "American Staffordshire Terrier",
-    "imagePath": "assets/images/american-staffordshire-terrier.jpg"
+    "imagePath": "assets/images/american-staffordshire-terrier.jpg",
+    "breedGroup": "Terrier Group",
+    "origin": "United States",
+    "temperament": "good-natured / confident / smart",
+    "lifeExpectancy": "12-16 years",
+    "height": "18-19 inches (male), 17-18 inches (female)",
+    "weight": "55-70 pounds (male), 40-55 pounds (female)",
+    "relatedCharacteristics": [
+      "Best Family Dogs",
+      "Smartest Breeds of Dogs",
+      "Medium Dog Breeds"
+    ],
+    "traits": {
+      "adaptabilityLevel": 3,
+      "affectionateWithFamily": 5,
+      "barkingLevel": 3,
+      "coatGroomingFrequency": 1,
+      "coatLength": [
+        "Short"
+      ],
+      "coatType": [
+        "Smooth"
+      ],
+      "droolingLevel": 1,
+      "energyLevel": 3,
+      "goodWithOtherDogs": 3,
+      "goodWithYoungChildren": 3,
+      "mentalStimulationNeeds": 3,
+      "opennessToStrangers": 4,
+      "playfulnessLevel": 3,
+      "sheddingLevel": 2,
+      "trainabilityLevel": 3,
+      "watchdogProtectiveNature": 5
+    },
+    "sizeCategory": "large",
+    "isFluffy": false
   },
   {
     "akcId": "23339",
@@ -124,7 +572,41 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/american-water-spaniel/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2017/11/American-Water-Spaniel.1-400x267.jpg",
     "imageAlt": "American Water Spaniel",
-    "imagePath": "assets/images/american-water-spaniel.jpg"
+    "imagePath": "assets/images/american-water-spaniel.jpg",
+    "breedGroup": "Sporting Group",
+    "origin": "United States",
+    "temperament": "charming / eager / happy",
+    "lifeExpectancy": "10-14 years",
+    "height": "15-18 inches",
+    "weight": "30-45 pounds (male), 25-40 pounds (female)",
+    "relatedCharacteristics": [
+      "Medium Dog Breeds"
+    ],
+    "traits": {
+      "adaptabilityLevel": 3,
+      "affectionateWithFamily": 3,
+      "barkingLevel": 3,
+      "coatGroomingFrequency": 3,
+      "coatLength": [
+        "Medium"
+      ],
+      "coatType": [
+        "Curly",
+        "Double"
+      ],
+      "droolingLevel": 1,
+      "energyLevel": 3,
+      "goodWithOtherDogs": 3,
+      "goodWithYoungChildren": 3,
+      "mentalStimulationNeeds": 3,
+      "opennessToStrangers": 3,
+      "playfulnessLevel": 3,
+      "sheddingLevel": 1,
+      "trainabilityLevel": 5,
+      "watchdogProtectiveNature": 3
+    },
+    "sizeCategory": "medium",
+    "isFluffy": true
   },
   {
     "akcId": "23354",
@@ -133,7 +615,41 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/anatolian-shepherd-dog/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2017/11/Anatolian-Shepherd-Dog-On-White-01-400x267.jpg",
     "imageAlt": "Anatolian Shepherd Dog",
-    "imagePath": "assets/images/anatolian-shepherd-dog.jpg"
+    "imagePath": "assets/images/anatolian-shepherd-dog.jpg",
+    "breedGroup": "Working Group",
+    "origin": "Turkey",
+    "temperament": "reserved / independent / loyal",
+    "lifeExpectancy": "11-13 years",
+    "height": "29 inches (male), 27 inches (female)",
+    "weight": "110-150 pounds (male), 80-120 pounds (female)",
+    "relatedCharacteristics": [
+      "Largest Dog Breeds",
+      "Best Guard Dogs"
+    ],
+    "traits": {
+      "adaptabilityLevel": 3,
+      "affectionateWithFamily": 1,
+      "barkingLevel": 3,
+      "coatGroomingFrequency": 2,
+      "coatLength": [
+        "Short"
+      ],
+      "coatType": [
+        "Smooth"
+      ],
+      "droolingLevel": 1,
+      "energyLevel": 3,
+      "goodWithOtherDogs": 3,
+      "goodWithYoungChildren": 3,
+      "mentalStimulationNeeds": 3,
+      "opennessToStrangers": 1,
+      "playfulnessLevel": 3,
+      "sheddingLevel": 3,
+      "trainabilityLevel": 2,
+      "watchdogProtectiveNature": 5
+    },
+    "sizeCategory": "large",
+    "isFluffy": false
   },
   {
     "akcId": "23363",
@@ -142,7 +658,40 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/appenzeller-sennenhund/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2017/11/AdobeStock_11176134-400x267.jpg",
     "imageAlt": "Appenzeller Sennenhund",
-    "imagePath": "assets/images/appenzeller-sennenhund.jpg"
+    "imagePath": "assets/images/appenzeller-sennenhund.jpg",
+    "breedGroup": "Foundation Stock Service",
+    "origin": "Switzerland",
+    "temperament": "versatile / agile / lively",
+    "lifeExpectancy": "13-15 years",
+    "height": "20 -22 inches",
+    "weight": "48-70 pounds",
+    "relatedCharacteristics": [
+      "Smartest Breeds of Dogs",
+      "Medium Dog Breeds",
+      "Best Guard Dogs"
+    ],
+    "traits": {
+      "adaptabilityLevel": 5,
+      "affectionateWithFamily": 5,
+      "barkingLevel": 5,
+      "coatGroomingFrequency": 3,
+      "coatLength": [
+        "Short"
+      ],
+      "coatType": [],
+      "droolingLevel": 3,
+      "energyLevel": 5,
+      "goodWithOtherDogs": 5,
+      "goodWithYoungChildren": 3,
+      "mentalStimulationNeeds": 5,
+      "opennessToStrangers": 1,
+      "playfulnessLevel": 3,
+      "sheddingLevel": 3,
+      "trainabilityLevel": 5,
+      "watchdogProtectiveNature": 5
+    },
+    "sizeCategory": "large",
+    "isFluffy": false
   },
   {
     "akcId": "23364",
@@ -151,7 +700,42 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/australian-cattle-dog/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2017/11/Australian-Cattle-Dog-laying-down-in-the-grass-400x267.jpg",
     "imageAlt": "Australian Cattle Dog",
-    "imagePath": "assets/images/australian-cattle-dog.jpg"
+    "imagePath": "assets/images/australian-cattle-dog.jpg",
+    "breedGroup": "Herding Group",
+    "origin": "Australia",
+    "temperament": "Loyal / Intelligent / Tenacious",
+    "lifeExpectancy": "12-16 years",
+    "height": "18-20 inches (male), 17-19 inches (female)",
+    "weight": "35-50 pounds",
+    "relatedCharacteristics": [
+      "Smartest Breeds of Dogs",
+      "Medium Dog Breeds"
+    ],
+    "traits": {
+      "adaptabilityLevel": 3,
+      "affectionateWithFamily": 3,
+      "barkingLevel": 1,
+      "coatGroomingFrequency": 1,
+      "coatLength": [
+        "Short"
+      ],
+      "coatType": [
+        "Double",
+        "Smooth"
+      ],
+      "droolingLevel": 1,
+      "energyLevel": 5,
+      "goodWithOtherDogs": 3,
+      "goodWithYoungChildren": 3,
+      "mentalStimulationNeeds": 4,
+      "opennessToStrangers": 3,
+      "playfulnessLevel": 3,
+      "sheddingLevel": 3,
+      "trainabilityLevel": 4,
+      "watchdogProtectiveNature": 4
+    },
+    "sizeCategory": "medium",
+    "isFluffy": true
   },
   {
     "akcId": "23377",
@@ -160,7 +744,42 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/australian-kelpie/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2017/11/Australian-Kelpie-herding-sheep-400x267.jpg",
     "imageAlt": "Australian Kelpie",
-    "imagePath": "assets/images/australian-kelpie.jpg"
+    "imagePath": "assets/images/australian-kelpie.jpg",
+    "breedGroup": "Foundation Stock Service",
+    "origin": "United States",
+    "temperament": "alert / loyal / intelligent",
+    "lifeExpectancy": "10-13 years",
+    "height": "17-20 inches",
+    "weight": "35-50 lbs",
+    "relatedCharacteristics": [
+      "Smartest Breeds of Dogs",
+      "Medium Dog Breeds"
+    ],
+    "traits": {
+      "adaptabilityLevel": 3,
+      "affectionateWithFamily": 3,
+      "barkingLevel": 1,
+      "coatGroomingFrequency": 1,
+      "coatLength": [
+        "Short"
+      ],
+      "coatType": [
+        "Double",
+        "Smooth"
+      ],
+      "droolingLevel": 1,
+      "energyLevel": 5,
+      "goodWithOtherDogs": 3,
+      "goodWithYoungChildren": 3,
+      "mentalStimulationNeeds": 4,
+      "opennessToStrangers": 3,
+      "playfulnessLevel": 3,
+      "sheddingLevel": 3,
+      "trainabilityLevel": 4,
+      "watchdogProtectiveNature": 4
+    },
+    "sizeCategory": "medium",
+    "isFluffy": true
   },
   {
     "akcId": "23378",
@@ -169,7 +788,42 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/australian-shepherd/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2017/11/Australian-Shepherd.1-400x267.jpg",
     "imageAlt": "Australian Shepherd",
-    "imagePath": "assets/images/australian-shepherd.jpg"
+    "imagePath": "assets/images/australian-shepherd.jpg",
+    "breedGroup": "Herding Group",
+    "origin": "Australia",
+    "temperament": "smart / work-oriented / exuberant",
+    "lifeExpectancy": "12-15 years",
+    "height": "20-23 inches (male), 18-21 inches (female)",
+    "weight": "50-65 pounds (male), 40-55 pounds (female)",
+    "relatedCharacteristics": [
+      "Smartest Breeds of Dogs",
+      "Medium Dog Breeds",
+      "Best Guard Dogs"
+    ],
+    "traits": {
+      "adaptabilityLevel": 3,
+      "affectionateWithFamily": 3,
+      "barkingLevel": 3,
+      "coatGroomingFrequency": 2,
+      "coatLength": [
+        "Medium"
+      ],
+      "coatType": [
+        "Double"
+      ],
+      "droolingLevel": 1,
+      "energyLevel": 5,
+      "goodWithOtherDogs": 3,
+      "goodWithYoungChildren": 5,
+      "mentalStimulationNeeds": 5,
+      "opennessToStrangers": 3,
+      "playfulnessLevel": 4,
+      "sheddingLevel": 3,
+      "trainabilityLevel": 5,
+      "watchdogProtectiveNature": 3
+    },
+    "sizeCategory": "large",
+    "isFluffy": true
   },
   {
     "akcId": "57316",
@@ -178,7 +832,40 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/australian-stumpy-tail-cattle-dog/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2018/07/GettyImages-454288321-400x267.jpg",
     "imageAlt": "Australian Stumpy Tail Cattle Dog",
-    "imagePath": "assets/images/australian-stumpy-tail-cattle-dog.jpg"
+    "imagePath": "assets/images/australian-stumpy-tail-cattle-dog.jpg",
+    "breedGroup": "Foundation Stock Service",
+    "origin": "Australia",
+    "temperament": "alert / active / bidable",
+    "lifeExpectancy": "12-15 years",
+    "height": "18-20 inches (males), 17-19 inches (females)",
+    "weight": "38-45 lbs (males), 32-35 lbs (females)",
+    "relatedCharacteristics": [
+      "Medium Dog Breeds"
+    ],
+    "traits": {
+      "adaptabilityLevel": 3,
+      "affectionateWithFamily": 1,
+      "barkingLevel": 1,
+      "coatGroomingFrequency": 3,
+      "coatLength": [
+        "Short"
+      ],
+      "coatType": [
+        "Double"
+      ],
+      "droolingLevel": 1,
+      "energyLevel": 5,
+      "goodWithOtherDogs": 1,
+      "goodWithYoungChildren": 3,
+      "mentalStimulationNeeds": 5,
+      "opennessToStrangers": 1,
+      "playfulnessLevel": 3,
+      "sheddingLevel": 3,
+      "trainabilityLevel": 3,
+      "watchdogProtectiveNature": 3
+    },
+    "sizeCategory": "medium",
+    "isFluffy": true
   },
   {
     "akcId": "23399",
@@ -187,7 +874,43 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/australian-terrier/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2017/11/Australian-Terrier-standing-in-the-garden-400x267.jpg",
     "imageAlt": "Australian Terrier",
-    "imagePath": "assets/images/australian-terrier.jpg"
+    "imagePath": "assets/images/australian-terrier.jpg",
+    "breedGroup": "Terrier Group",
+    "origin": "Australia",
+    "temperament": "courageous / affectionate / spirited",
+    "lifeExpectancy": "11-15 years",
+    "height": "10-11 inches",
+    "weight": "15-20 pounds",
+    "relatedCharacteristics": [
+      "Smallest Dog Breeds",
+      "Best Dog Breeds for Kids",
+      "Best Dogs for Apartment Dwellers"
+    ],
+    "traits": {
+      "adaptabilityLevel": 4,
+      "affectionateWithFamily": 4,
+      "barkingLevel": 3,
+      "coatGroomingFrequency": 2,
+      "coatLength": [
+        "Medium"
+      ],
+      "coatType": [
+        "Double",
+        "Rough"
+      ],
+      "droolingLevel": 1,
+      "energyLevel": 3,
+      "goodWithOtherDogs": 3,
+      "goodWithYoungChildren": 5,
+      "mentalStimulationNeeds": 3,
+      "opennessToStrangers": 3,
+      "playfulnessLevel": 3,
+      "sheddingLevel": 1,
+      "trainabilityLevel": 4,
+      "watchdogProtectiveNature": 4
+    },
+    "sizeCategory": "small",
+    "isFluffy": true
   },
   {
     "akcId": "23414",
@@ -196,7 +919,41 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/azawakh/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2017/11/Azawakh_178091272-400x267.jpg",
     "imageAlt": "Azawakh",
-    "imagePath": "assets/images/azawakh.jpg"
+    "imagePath": "assets/images/azawakh.jpg",
+    "breedGroup": "Hound Group",
+    "origin": "Sahel Region",
+    "temperament": "independent / loyal / deeply affectionate",
+    "lifeExpectancy": "12-15 years",
+    "height": "25-29 inches (male), 23.5-27.5 inches (female)",
+    "weight": "44-55 pounds (male), 33-44 pounds (female)",
+    "relatedCharacteristics": [
+      "Smartest Breeds of Dogs",
+      "Largest Dog Breeds"
+    ],
+    "traits": {
+      "adaptabilityLevel": 3,
+      "affectionateWithFamily": 3,
+      "barkingLevel": 1,
+      "coatGroomingFrequency": 2,
+      "coatLength": [
+        "Short"
+      ],
+      "coatType": [
+        "Smooth"
+      ],
+      "droolingLevel": 1,
+      "energyLevel": 3,
+      "goodWithOtherDogs": 3,
+      "goodWithYoungChildren": 3,
+      "mentalStimulationNeeds": 3,
+      "opennessToStrangers": 1,
+      "playfulnessLevel": 3,
+      "sheddingLevel": 2,
+      "trainabilityLevel": 2,
+      "watchdogProtectiveNature": 3
+    },
+    "sizeCategory": "large",
+    "isFluffy": false
   },
   {
     "akcId": "123084",
@@ -205,7 +962,41 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/barbado-da-terceira/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2021/02/Barbado-da-Terceira-standing-backyard-400x267.jpg",
     "imageAlt": "Barbado da Terceira",
-    "imagePath": "assets/images/barbado-da-terceira.jpg"
+    "imagePath": "assets/images/barbado-da-terceira.jpg",
+    "breedGroup": "Foundation Stock Service",
+    "origin": "Portugal",
+    "temperament": "Loyal / Intelligent / Joyful",
+    "lifeExpectancy": "12-14 years",
+    "height": "20 1/2 - 22 inches (males), 19 - 21 inches (females)",
+    "weight": "55-60 lbs (males), 46-57 lbs (females)",
+    "relatedCharacteristics": [
+      "Smartest Breeds of Dogs",
+      "Hypoallergenic Dogs",
+      "Medium Dog Breeds",
+      "Best Guard Dogs"
+    ],
+    "traits": {
+      "adaptabilityLevel": 5,
+      "affectionateWithFamily": 5,
+      "barkingLevel": 1,
+      "coatGroomingFrequency": 3,
+      "coatLength": [
+        "Medium"
+      ],
+      "coatType": [],
+      "droolingLevel": 1,
+      "energyLevel": 5,
+      "goodWithOtherDogs": 3,
+      "goodWithYoungChildren": 3,
+      "mentalStimulationNeeds": 5,
+      "opennessToStrangers": 1,
+      "playfulnessLevel": 5,
+      "sheddingLevel": 1,
+      "trainabilityLevel": 5,
+      "watchdogProtectiveNature": 5
+    },
+    "sizeCategory": "large",
+    "isFluffy": false
   },
   {
     "akcId": "23417",
@@ -214,7 +1005,45 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/barbet/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2017/11/Barbet-standing-in-the-snow-400x267.jpg",
     "imageAlt": "Barbet",
-    "imagePath": "assets/images/barbet.jpg"
+    "imagePath": "assets/images/barbet.jpg",
+    "breedGroup": "Sporting Group",
+    "origin": "France",
+    "temperament": "friendly / bright / sweet-natured",
+    "lifeExpectancy": "12-14 years",
+    "height": "19-24.5 inches",
+    "weight": "35-65 pounds",
+    "relatedCharacteristics": [
+      "Smartest Breeds of Dogs",
+      "Hypoallergenic Dogs",
+      "Best Dogs for Apartment Dwellers",
+      "Medium Dog Breeds"
+    ],
+    "traits": {
+      "adaptabilityLevel": 3,
+      "affectionateWithFamily": 4,
+      "barkingLevel": 3,
+      "coatGroomingFrequency": 5,
+      "coatLength": [
+        "Medium",
+        "Long"
+      ],
+      "coatType": [
+        "Wavy",
+        "Curly"
+      ],
+      "droolingLevel": 1,
+      "energyLevel": 3,
+      "goodWithOtherDogs": 3,
+      "goodWithYoungChildren": 3,
+      "mentalStimulationNeeds": 3,
+      "opennessToStrangers": 3,
+      "playfulnessLevel": 3,
+      "sheddingLevel": 1,
+      "trainabilityLevel": 4,
+      "watchdogProtectiveNature": 3
+    },
+    "sizeCategory": "large",
+    "isFluffy": true
   },
   {
     "akcId": "23420",
@@ -223,7 +1052,41 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/basenji/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2017/11/Basenji-running-through-a-field-400x267.jpg",
     "imageAlt": "Basenji",
-    "imagePath": "assets/images/basenji.jpg"
+    "imagePath": "assets/images/basenji.jpg",
+    "breedGroup": "Hound Group",
+    "origin": "Central Africa",
+    "temperament": "independent / smart / poised",
+    "lifeExpectancy": "13-14 years",
+    "height": "17 inches (male), 16 inches (female)",
+    "weight": "24 pounds (male), 22 pounds (female)",
+    "relatedCharacteristics": [
+      "Smallest Dog Breeds",
+      "Best Dogs for Apartment Dwellers"
+    ],
+    "traits": {
+      "adaptabilityLevel": 3,
+      "affectionateWithFamily": 3,
+      "barkingLevel": 1,
+      "coatGroomingFrequency": 1,
+      "coatLength": [
+        "Short"
+      ],
+      "coatType": [
+        "Smooth"
+      ],
+      "droolingLevel": 1,
+      "energyLevel": 4,
+      "goodWithOtherDogs": 3,
+      "goodWithYoungChildren": 3,
+      "mentalStimulationNeeds": 4,
+      "opennessToStrangers": 3,
+      "playfulnessLevel": 3,
+      "sheddingLevel": 2,
+      "trainabilityLevel": 2,
+      "watchdogProtectiveNature": 3
+    },
+    "sizeCategory": "medium",
+    "isFluffy": false
   },
   {
     "akcId": "23435",
@@ -232,7 +1095,44 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/basset-fauve-de-bretagne/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2017/11/AdobeStock_23183632-400x267.jpg",
     "imageAlt": "Basset Fauve de Bretagne",
-    "imagePath": "assets/images/basset-fauve-de-bretagne.jpg"
+    "imagePath": "assets/images/basset-fauve-de-bretagne.jpg",
+    "breedGroup": "Hound Group",
+    "origin": "France",
+    "temperament": "sociable / lively / smart",
+    "lifeExpectancy": "13-16 years",
+    "height": "12.5-15.5 inches",
+    "weight": "23-39 pounds",
+    "relatedCharacteristics": [
+      "Best Family Dogs",
+      "Best Dog Breeds for Kids",
+      "Best Dogs for Apartment Dwellers",
+      "Medium Dog Breeds"
+    ],
+    "traits": {
+      "adaptabilityLevel": 5,
+      "affectionateWithFamily": 3,
+      "barkingLevel": 3,
+      "coatGroomingFrequency": 1,
+      "coatLength": [
+        "Medium"
+      ],
+      "coatType": [
+        "Double",
+        "Wiry"
+      ],
+      "droolingLevel": 1,
+      "energyLevel": 4,
+      "goodWithOtherDogs": 5,
+      "goodWithYoungChildren": 5,
+      "mentalStimulationNeeds": 5,
+      "opennessToStrangers": 5,
+      "playfulnessLevel": 3,
+      "sheddingLevel": 3,
+      "trainabilityLevel": 1,
+      "watchdogProtectiveNature": 1
+    },
+    "sizeCategory": "medium",
+    "isFluffy": true
   },
   {
     "akcId": "23436",
@@ -241,7 +1141,41 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/basset-hound/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2017/11/Basset-Hound-standing-in-the-garden-400x267.jpg",
     "imageAlt": "Basset Hound",
-    "imagePath": "assets/images/basset-hound.jpg"
+    "imagePath": "assets/images/basset-hound.jpg",
+    "breedGroup": "Hound Group",
+    "origin": "France",
+    "temperament": "charming / patient / low-key",
+    "lifeExpectancy": "12-13 years",
+    "height": "up to 15 inches",
+    "weight": "40-65 pounds",
+    "relatedCharacteristics": [
+      "Best Dogs for Apartment Dwellers",
+      "Medium Dog Breeds"
+    ],
+    "traits": {
+      "adaptabilityLevel": 3,
+      "affectionateWithFamily": 3,
+      "barkingLevel": 4,
+      "coatGroomingFrequency": 3,
+      "coatLength": [
+        "Short"
+      ],
+      "coatType": [
+        "Smooth"
+      ],
+      "droolingLevel": 4,
+      "energyLevel": 2,
+      "goodWithOtherDogs": 5,
+      "goodWithYoungChildren": 5,
+      "mentalStimulationNeeds": 3,
+      "opennessToStrangers": 3,
+      "playfulnessLevel": 3,
+      "sheddingLevel": 2,
+      "trainabilityLevel": 3,
+      "watchdogProtectiveNature": 3
+    },
+    "sizeCategory": "large",
+    "isFluffy": false
   },
   {
     "akcId": "23451",
@@ -250,7 +1184,40 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/bavarian-mountain-scent-hound/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2017/11/Bavarian.190758538-400x267.jpg",
     "imageAlt": "Bavarian Mountain Scent Hound",
-    "imagePath": "assets/images/bavarian-mountain-scent-hound.jpg"
+    "imagePath": "assets/images/bavarian-mountain-scent-hound.jpg",
+    "breedGroup": "Foundation Stock Service",
+    "origin": "Germany",
+    "temperament": "loyal / reserved with strangers / versatile",
+    "lifeExpectancy": "12-15 years",
+    "height": "17-20.5 inches",
+    "weight": "37-66 pounds",
+    "relatedCharacteristics": [
+      "Medium Dog Breeds"
+    ],
+    "traits": {
+      "adaptabilityLevel": 3,
+      "affectionateWithFamily": 3,
+      "barkingLevel": 2,
+      "coatGroomingFrequency": 2,
+      "coatLength": [
+        "Short"
+      ],
+      "coatType": [
+        "Smooth"
+      ],
+      "droolingLevel": 2,
+      "energyLevel": 4,
+      "goodWithOtherDogs": 3,
+      "goodWithYoungChildren": 3,
+      "mentalStimulationNeeds": 4,
+      "opennessToStrangers": 3,
+      "playfulnessLevel": 3,
+      "sheddingLevel": 3,
+      "trainabilityLevel": 4,
+      "watchdogProtectiveNature": 3
+    },
+    "sizeCategory": "large",
+    "isFluffy": false
   },
   {
     "akcId": "23453",
@@ -259,7 +1226,41 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/beagle/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2017/11/Beagles-standing-in-a-frosty-field-on-a-cold-morning-400x267.jpg",
     "imageAlt": "Beagle",
-    "imagePath": "assets/images/beagle.jpg"
+    "imagePath": "assets/images/beagle.jpg",
+    "breedGroup": "Hound Group",
+    "origin": "England",
+    "temperament": "curious / friendly / merry",
+    "lifeExpectancy": "10-15 years",
+    "height": "13 inches & under, 13-15 inches",
+    "weight": "under 20 pounds (13 inches & under), 20-30 pounds (13-15 inches)",
+    "relatedCharacteristics": [
+      "Best Family Dogs",
+      "Best Dog Breeds for Kids"
+    ],
+    "traits": {
+      "adaptabilityLevel": 4,
+      "affectionateWithFamily": 3,
+      "barkingLevel": 4,
+      "coatGroomingFrequency": 2,
+      "coatLength": [
+        "Short"
+      ],
+      "coatType": [
+        "Smooth"
+      ],
+      "droolingLevel": 1,
+      "energyLevel": 4,
+      "goodWithOtherDogs": 5,
+      "goodWithYoungChildren": 5,
+      "mentalStimulationNeeds": 4,
+      "opennessToStrangers": 3,
+      "playfulnessLevel": 4,
+      "sheddingLevel": 3,
+      "trainabilityLevel": 3,
+      "watchdogProtectiveNature": 2
+    },
+    "sizeCategory": "medium",
+    "isFluffy": false
   },
   {
     "akcId": "23474",
@@ -268,7 +1269,41 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/bearded-collie/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2017/11/Bearded-Collie-standing-in-the-grass-400x267.jpg",
     "imageAlt": "Bearded Collie",
-    "imagePath": "assets/images/bearded-collie.jpg"
+    "imagePath": "assets/images/bearded-collie.jpg",
+    "breedGroup": "Herding Group",
+    "origin": "Scotland",
+    "temperament": "smart / bouncy / charismatic",
+    "lifeExpectancy": "12-14 years",
+    "height": "21-22 inches (male), 20-21 inches (female)",
+    "weight": "45-55 pounds",
+    "relatedCharacteristics": [
+      "Best Family Dogs",
+      "Medium Dog Breeds"
+    ],
+    "traits": {
+      "adaptabilityLevel": 4,
+      "affectionateWithFamily": 4,
+      "barkingLevel": 5,
+      "coatGroomingFrequency": 4,
+      "coatLength": [
+        "Long"
+      ],
+      "coatType": [
+        "Silky"
+      ],
+      "droolingLevel": 1,
+      "energyLevel": 4,
+      "goodWithOtherDogs": 5,
+      "goodWithYoungChildren": 5,
+      "mentalStimulationNeeds": 3,
+      "opennessToStrangers": 4,
+      "playfulnessLevel": 4,
+      "sheddingLevel": 3,
+      "trainabilityLevel": 3,
+      "watchdogProtectiveNature": 3
+    },
+    "sizeCategory": "large",
+    "isFluffy": true
   },
   {
     "akcId": "23489",
@@ -277,7 +1312,43 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/beauceron/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2017/11/Beauceron-On-White-03-400x267.jpg",
     "imageAlt": "Beauceron",
-    "imagePath": "assets/images/beauceron.jpg"
+    "imagePath": "assets/images/beauceron.jpg",
+    "breedGroup": "Herding Group",
+    "origin": "France",
+    "temperament": "faithful / gentle / obedient",
+    "lifeExpectancy": "10-12 years",
+    "height": "25.5-27.5 inches (male), 24-26.5 inches (female)",
+    "weight": "70-110 pounds",
+    "relatedCharacteristics": [
+      "Best Dog Breeds for Kids",
+      "Largest Dog Breeds",
+      "Best Guard Dogs"
+    ],
+    "traits": {
+      "adaptabilityLevel": 3,
+      "affectionateWithFamily": 3,
+      "barkingLevel": 3,
+      "coatGroomingFrequency": 3,
+      "coatLength": [
+        "Short"
+      ],
+      "coatType": [
+        "Double",
+        "Smooth"
+      ],
+      "droolingLevel": 1,
+      "energyLevel": 5,
+      "goodWithOtherDogs": 3,
+      "goodWithYoungChildren": 3,
+      "mentalStimulationNeeds": 3,
+      "opennessToStrangers": 2,
+      "playfulnessLevel": 3,
+      "sheddingLevel": 4,
+      "trainabilityLevel": 3,
+      "watchdogProtectiveNature": 4
+    },
+    "sizeCategory": "large",
+    "isFluffy": true
   },
   {
     "akcId": "23504",
@@ -286,7 +1357,42 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/bedlington-terrier/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2017/11/Bedlington-Terrier-standing-outdoors-400x267.jpg",
     "imageAlt": "Bedlington Terrier",
-    "imagePath": "assets/images/bedlington-terrier.jpg"
+    "imagePath": "assets/images/bedlington-terrier.jpg",
+    "breedGroup": "Terrier Group",
+    "origin": "England",
+    "temperament": "loyal / charming / frollicking",
+    "lifeExpectancy": "11-16 years",
+    "height": "15-17.5 inches",
+    "weight": "17-23 pounds",
+    "relatedCharacteristics": [
+      "Smallest Dog Breeds",
+      "Hypoallergenic Dogs",
+      "Best Dogs for Apartment Dwellers"
+    ],
+    "traits": {
+      "adaptabilityLevel": 3,
+      "affectionateWithFamily": 3,
+      "barkingLevel": 3,
+      "coatGroomingFrequency": 3,
+      "coatLength": [
+        "Medium"
+      ],
+      "coatType": [
+        "Curly"
+      ],
+      "droolingLevel": 1,
+      "energyLevel": 4,
+      "goodWithOtherDogs": 3,
+      "goodWithYoungChildren": 3,
+      "mentalStimulationNeeds": 3,
+      "opennessToStrangers": 3,
+      "playfulnessLevel": 3,
+      "sheddingLevel": 1,
+      "trainabilityLevel": 3,
+      "watchdogProtectiveNature": 4
+    },
+    "sizeCategory": "medium",
+    "isFluffy": true
   },
   {
     "akcId": "23519",
@@ -295,7 +1401,42 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/belgian-laekenois/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2017/11/Belgian-Laekenois-standing-in-profile-in-a-field-400x267.jpg",
     "imageAlt": "Belgian Laekenois",
-    "imagePath": "assets/images/belgian-laekenois.jpg"
+    "imagePath": "assets/images/belgian-laekenois.jpg",
+    "breedGroup": "Herding Group",
+    "origin": "Belgium",
+    "temperament": "alert / intelligent / affectionate",
+    "lifeExpectancy": "10-12 years",
+    "height": "24-26 inches (male), 22-24 inches (female)",
+    "weight": "55-65 pounds",
+    "relatedCharacteristics": [
+      "Largest Dog Breeds",
+      "Best Guard Dogs"
+    ],
+    "traits": {
+      "adaptabilityLevel": 3,
+      "affectionateWithFamily": 3,
+      "barkingLevel": 3,
+      "coatGroomingFrequency": 2,
+      "coatLength": [
+        "Medium"
+      ],
+      "coatType": [
+        "Rough",
+        "Wiry"
+      ],
+      "droolingLevel": 1,
+      "energyLevel": 4,
+      "goodWithOtherDogs": 3,
+      "goodWithYoungChildren": 3,
+      "mentalStimulationNeeds": 4,
+      "opennessToStrangers": 3,
+      "playfulnessLevel": 3,
+      "sheddingLevel": 3,
+      "trainabilityLevel": 5,
+      "watchdogProtectiveNature": 4
+    },
+    "sizeCategory": "large",
+    "isFluffy": true
   },
   {
     "akcId": "23522",
@@ -304,7 +1445,40 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/belgian-malinois/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2017/11/Belgian-Malinois-On-White-01-400x267.jpg",
     "imageAlt": "Belgian Malinois",
-    "imagePath": "assets/images/belgian-malinois.jpg"
+    "imagePath": "assets/images/belgian-malinois.jpg",
+    "breedGroup": "Herding Group",
+    "origin": "Belgium",
+    "temperament": "confident / smart / hardworking",
+    "lifeExpectancy": "14-16 years",
+    "height": "24-26 inches (male), 22-24 inches (female)",
+    "weight": "60-80 pounds (male), 40-60 pounds (female)",
+    "relatedCharacteristics": [
+      "Largest Dog Breeds"
+    ],
+    "traits": {
+      "adaptabilityLevel": 3,
+      "affectionateWithFamily": 3,
+      "barkingLevel": 3,
+      "coatGroomingFrequency": 2,
+      "coatLength": [
+        "Short"
+      ],
+      "coatType": [
+        "Smooth"
+      ],
+      "droolingLevel": 1,
+      "energyLevel": 4,
+      "goodWithOtherDogs": 3,
+      "goodWithYoungChildren": 3,
+      "mentalStimulationNeeds": 4,
+      "opennessToStrangers": 3,
+      "playfulnessLevel": 3,
+      "sheddingLevel": 3,
+      "trainabilityLevel": 5,
+      "watchdogProtectiveNature": 4
+    },
+    "sizeCategory": "large",
+    "isFluffy": false
   },
   {
     "akcId": "23537",
@@ -313,7 +1487,40 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/belgian-sheepdog/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2017/11/Belgian-Sheepdog-standing-in-a-field-400x267.jpg",
     "imageAlt": "Belgian Sheepdog",
-    "imagePath": "assets/images/belgian-sheepdog.jpg"
+    "imagePath": "assets/images/belgian-sheepdog.jpg",
+    "breedGroup": "Herding Group",
+    "origin": "Belgium",
+    "temperament": "bright / watchful / serious-minded",
+    "lifeExpectancy": "12-14 years",
+    "height": "24-26 inches (male), 22-24 inches (female)",
+    "weight": "55-75 pounds (male), 45-60 pounds (female)",
+    "relatedCharacteristics": [
+      "Largest Dog Breeds"
+    ],
+    "traits": {
+      "adaptabilityLevel": 3,
+      "affectionateWithFamily": 3,
+      "barkingLevel": 3,
+      "coatGroomingFrequency": 2,
+      "coatLength": [
+        "Medium"
+      ],
+      "coatType": [
+        "Double"
+      ],
+      "droolingLevel": 1,
+      "energyLevel": 4,
+      "goodWithOtherDogs": 3,
+      "goodWithYoungChildren": 3,
+      "mentalStimulationNeeds": 4,
+      "opennessToStrangers": 3,
+      "playfulnessLevel": 3,
+      "sheddingLevel": 3,
+      "trainabilityLevel": 5,
+      "watchdogProtectiveNature": 4
+    },
+    "sizeCategory": "large",
+    "isFluffy": true
   },
   {
     "akcId": "23552",
@@ -322,7 +1529,41 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/belgian-tervuren/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2017/11/Belgian-Tervuren.3-400x267.jpg",
     "imageAlt": "Belgian Tervuren",
-    "imagePath": "assets/images/belgian-tervuren.jpg"
+    "imagePath": "assets/images/belgian-tervuren.jpg",
+    "breedGroup": "Herding Group",
+    "origin": "Belgium",
+    "temperament": "alert / intelligent / courageous",
+    "lifeExpectancy": "12-14 years",
+    "height": "24-26 inches (male), 22-24 inches (female)",
+    "weight": "55-75 pounds (male), 45-60 pounds (female)",
+    "relatedCharacteristics": [
+      "Smartest Breeds of Dogs",
+      "Largest Dog Breeds"
+    ],
+    "traits": {
+      "adaptabilityLevel": 3,
+      "affectionateWithFamily": 3,
+      "barkingLevel": 3,
+      "coatGroomingFrequency": 2,
+      "coatLength": [
+        "Medium"
+      ],
+      "coatType": [
+        "Double"
+      ],
+      "droolingLevel": 1,
+      "energyLevel": 4,
+      "goodWithOtherDogs": 3,
+      "goodWithYoungChildren": 3,
+      "mentalStimulationNeeds": 4,
+      "opennessToStrangers": 3,
+      "playfulnessLevel": 3,
+      "sheddingLevel": 3,
+      "trainabilityLevel": 5,
+      "watchdogProtectiveNature": 4
+    },
+    "sizeCategory": "large",
+    "isFluffy": true
   },
   {
     "akcId": "23567",
@@ -331,7 +1572,42 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/bergamasco-sheepdog/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2017/11/Bergamasco-Sheepdog-standing-in-a-field-in-the-mountains-400x267.jpg",
     "imageAlt": "Bergamasco Sheepdog",
-    "imagePath": "assets/images/bergamasco-sheepdog.jpg"
+    "imagePath": "assets/images/bergamasco-sheepdog.jpg",
+    "breedGroup": "Herding Group",
+    "origin": "Italy",
+    "temperament": "independent / intelligent / sociable",
+    "lifeExpectancy": "13-15 years",
+    "height": "23.5 inches (male), 22 inches (female)",
+    "weight": "70-84 pounds (male), 57-71 pounds (female)",
+    "relatedCharacteristics": [
+      "Best Family Dogs",
+      "Medium Dog Breeds",
+      "Best Guard Dogs"
+    ],
+    "traits": {
+      "adaptabilityLevel": 3,
+      "affectionateWithFamily": 3,
+      "barkingLevel": 1,
+      "coatGroomingFrequency": 1,
+      "coatLength": [
+        "Long"
+      ],
+      "coatType": [
+        "Corded"
+      ],
+      "droolingLevel": 2,
+      "energyLevel": 3,
+      "goodWithOtherDogs": 3,
+      "goodWithYoungChildren": 3,
+      "mentalStimulationNeeds": 3,
+      "opennessToStrangers": 3,
+      "playfulnessLevel": 3,
+      "sheddingLevel": 1,
+      "trainabilityLevel": 3,
+      "watchdogProtectiveNature": 4
+    },
+    "sizeCategory": "large",
+    "isFluffy": true
   },
   {
     "akcId": "23569",
@@ -340,7 +1616,40 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/berger-picard/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2017/11/Berger-Picard-standing-in-a-field-400x267.jpg",
     "imageAlt": "Berger Picard",
-    "imagePath": "assets/images/berger-picard.jpg"
+    "imagePath": "assets/images/berger-picard.jpg",
+    "breedGroup": "Herding Group",
+    "origin": "France",
+    "temperament": "loyal / good-natured / observant",
+    "lifeExpectancy": "12-13 years",
+    "height": "23.5-25.5 inches (male), 21.5-23.5 inches (female)",
+    "weight": "50-70 pounds",
+    "relatedCharacteristics": [
+      "Largest Dog Breeds"
+    ],
+    "traits": {
+      "adaptabilityLevel": 3,
+      "affectionateWithFamily": 3,
+      "barkingLevel": 2,
+      "coatGroomingFrequency": 1,
+      "coatLength": [
+        "Medium"
+      ],
+      "coatType": [
+        "Wiry"
+      ],
+      "droolingLevel": 1,
+      "energyLevel": 4,
+      "goodWithOtherDogs": 3,
+      "goodWithYoungChildren": 3,
+      "mentalStimulationNeeds": 4,
+      "opennessToStrangers": 3,
+      "playfulnessLevel": 3,
+      "sheddingLevel": 3,
+      "trainabilityLevel": 4,
+      "watchdogProtectiveNature": 4
+    },
+    "sizeCategory": "large",
+    "isFluffy": false
   },
   {
     "akcId": "23582",
@@ -349,7 +1658,41 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/bernese-mountain-dog/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2017/11/Bernese-Mountain-Dog-On-White-01-400x267.jpg",
     "imageAlt": "Bernese Mountain Dog",
-    "imagePath": "assets/images/bernese-mountain-dog.jpg"
+    "imagePath": "assets/images/bernese-mountain-dog.jpg",
+    "breedGroup": "Working Group",
+    "origin": "Switzerland",
+    "temperament": "good-natured / calm / strong",
+    "lifeExpectancy": "7-10 years",
+    "height": "25-27.5 inches (male), 23-26 inches (female)",
+    "weight": "80-115 pounds (male), 70-95 pounds (female)",
+    "relatedCharacteristics": [
+      "Best Family Dogs",
+      "Largest Dog Breeds"
+    ],
+    "traits": {
+      "adaptabilityLevel": 4,
+      "affectionateWithFamily": 5,
+      "barkingLevel": 3,
+      "coatGroomingFrequency": 3,
+      "coatLength": [
+        "Medium"
+      ],
+      "coatType": [
+        "Double"
+      ],
+      "droolingLevel": 3,
+      "energyLevel": 4,
+      "goodWithOtherDogs": 5,
+      "goodWithYoungChildren": 5,
+      "mentalStimulationNeeds": 3,
+      "opennessToStrangers": 4,
+      "playfulnessLevel": 4,
+      "sheddingLevel": 5,
+      "trainabilityLevel": 4,
+      "watchdogProtectiveNature": 3
+    },
+    "sizeCategory": "large",
+    "isFluffy": true
   },
   {
     "akcId": "23597",
@@ -358,7 +1701,43 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/bichon-frise/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2017/11/Bichon-Frise-On-White-03-400x267.jpg",
     "imageAlt": "Bichon Frise",
-    "imagePath": "assets/images/bichon-frise.jpg"
+    "imagePath": "assets/images/bichon-frise.jpg",
+    "breedGroup": "Non-Sporting Group",
+    "origin": "The Mediterranean",
+    "temperament": "curious / playful / peppy",
+    "lifeExpectancy": "14-15 years",
+    "height": "9.5-11.5 inches",
+    "weight": "12-18 pounds",
+    "relatedCharacteristics": [
+      "Smallest Dog Breeds",
+      "Hypoallergenic Dogs",
+      "Best Dogs for Apartment Dwellers"
+    ],
+    "traits": {
+      "adaptabilityLevel": 4,
+      "affectionateWithFamily": 5,
+      "barkingLevel": 3,
+      "coatGroomingFrequency": 5,
+      "coatLength": [
+        "Long"
+      ],
+      "coatType": [
+        "Curly",
+        "Double"
+      ],
+      "droolingLevel": 1,
+      "energyLevel": 4,
+      "goodWithOtherDogs": 5,
+      "goodWithYoungChildren": 5,
+      "mentalStimulationNeeds": 3,
+      "opennessToStrangers": 5,
+      "playfulnessLevel": 4,
+      "sheddingLevel": 1,
+      "trainabilityLevel": 4,
+      "watchdogProtectiveNature": 2
+    },
+    "sizeCategory": "small",
+    "isFluffy": true
   },
   {
     "akcId": "23608",
@@ -367,7 +1746,42 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/biewer-terrier/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2017/11/Biewer-Terrier-standing-on-a-white-background1-400x267.jpg",
     "imageAlt": "Biewer Terrier",
-    "imagePath": "assets/images/biewer-terrier.jpg"
+    "imagePath": "assets/images/biewer-terrier.jpg",
+    "breedGroup": "Toy Group",
+    "origin": "Germany",
+    "temperament": "intelligent / devoted / amusing",
+    "lifeExpectancy": "16 years",
+    "height": "7-11 inches",
+    "weight": "4-8 pounds",
+    "relatedCharacteristics": [
+      "Smallest Dog Breeds",
+      "Best Family Dogs",
+      "Best Dogs for Apartment Dwellers"
+    ],
+    "traits": {
+      "adaptabilityLevel": 3,
+      "affectionateWithFamily": 5,
+      "barkingLevel": 3,
+      "coatGroomingFrequency": 3,
+      "coatLength": [
+        "Long"
+      ],
+      "coatType": [
+        "Silky"
+      ],
+      "droolingLevel": 1,
+      "energyLevel": 3,
+      "goodWithOtherDogs": 5,
+      "goodWithYoungChildren": 3,
+      "mentalStimulationNeeds": 3,
+      "opennessToStrangers": 3,
+      "playfulnessLevel": 4,
+      "sheddingLevel": 1,
+      "trainabilityLevel": 3,
+      "watchdogProtectiveNature": 2
+    },
+    "sizeCategory": "small",
+    "isFluffy": true
   },
   {
     "akcId": "23610",
@@ -376,7 +1790,40 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/black-and-tan-coonhound/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2017/11/Black-and-Tan-Coonhound-On-White-031-400x267.jpg",
     "imageAlt": "Black and Tan Coonhound",
-    "imagePath": "assets/images/black-and-tan-coonhound.jpg"
+    "imagePath": "assets/images/black-and-tan-coonhound.jpg",
+    "breedGroup": "Hound Group",
+    "origin": "United States",
+    "temperament": "easy-going / bright / brave",
+    "lifeExpectancy": "10-12 years",
+    "height": "25-27 inches (male), 23-25 inches (female)",
+    "weight": "65-110 pounds",
+    "relatedCharacteristics": [
+      "Largest Dog Breeds"
+    ],
+    "traits": {
+      "adaptabilityLevel": 4,
+      "affectionateWithFamily": 4,
+      "barkingLevel": 4,
+      "coatGroomingFrequency": 2,
+      "coatLength": [
+        "Short"
+      ],
+      "coatType": [
+        "Smooth"
+      ],
+      "droolingLevel": 3,
+      "energyLevel": 3,
+      "goodWithOtherDogs": 5,
+      "goodWithYoungChildren": 5,
+      "mentalStimulationNeeds": 3,
+      "opennessToStrangers": 3,
+      "playfulnessLevel": 3,
+      "sheddingLevel": 3,
+      "trainabilityLevel": 3,
+      "watchdogProtectiveNature": 2
+    },
+    "sizeCategory": "large",
+    "isFluffy": false
   },
   {
     "akcId": "23622",
@@ -385,7 +1832,42 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/black-russian-terrier/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2017/11/Black-Russian-Terrier-standing-outdoors-400x267.jpg",
     "imageAlt": "Black Russian Terrier",
-    "imagePath": "assets/images/black-russian-terrier.jpg"
+    "imagePath": "assets/images/black-russian-terrier.jpg",
+    "breedGroup": "Working Group",
+    "origin": "Russia",
+    "temperament": "intelligent / calm / powerful",
+    "lifeExpectancy": "10-12 years",
+    "height": "27-30 inches (male), 26-29 inches (female)",
+    "weight": "80-130 pounds",
+    "relatedCharacteristics": [
+      "Largest Dog Breeds"
+    ],
+    "traits": {
+      "adaptabilityLevel": 4,
+      "affectionateWithFamily": 3,
+      "barkingLevel": 3,
+      "coatGroomingFrequency": 4,
+      "coatLength": [
+        "Medium",
+        "Long"
+      ],
+      "coatType": [
+        "Curly",
+        "Double"
+      ],
+      "droolingLevel": 3,
+      "energyLevel": 4,
+      "goodWithOtherDogs": 3,
+      "goodWithYoungChildren": 3,
+      "mentalStimulationNeeds": 4,
+      "opennessToStrangers": 2,
+      "playfulnessLevel": 3,
+      "sheddingLevel": 3,
+      "trainabilityLevel": 4,
+      "watchdogProtectiveNature": 5
+    },
+    "sizeCategory": "large",
+    "isFluffy": true
   },
   {
     "akcId": "23636",
@@ -394,7 +1876,41 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/bloodhound/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2017/11/Bloodhound-on-a-scent-in-the-woods-400x267.jpg",
     "imageAlt": "Bloodhound",
-    "imagePath": "assets/images/bloodhound.jpg"
+    "imagePath": "assets/images/bloodhound.jpg",
+    "breedGroup": "Hound Group",
+    "origin": "Western Europe",
+    "temperament": "independent / friendly / inquisitive",
+    "lifeExpectancy": "10-12 years",
+    "height": "25-27 inches (male), 23-25 inches (female)",
+    "weight": "90-110 pounds (male), 80-100 pounds (female)",
+    "relatedCharacteristics": [
+      "Smartest Breeds of Dogs",
+      "Largest Dog Breeds"
+    ],
+    "traits": {
+      "adaptabilityLevel": 3,
+      "affectionateWithFamily": 4,
+      "barkingLevel": 5,
+      "coatGroomingFrequency": 2,
+      "coatLength": [
+        "Short"
+      ],
+      "coatType": [
+        "Smooth"
+      ],
+      "droolingLevel": 5,
+      "energyLevel": 3,
+      "goodWithOtherDogs": 3,
+      "goodWithYoungChildren": 3,
+      "mentalStimulationNeeds": 3,
+      "opennessToStrangers": 3,
+      "playfulnessLevel": 3,
+      "sheddingLevel": 3,
+      "trainabilityLevel": 4,
+      "watchdogProtectiveNature": 2
+    },
+    "sizeCategory": "large",
+    "isFluffy": false
   },
   {
     "akcId": "192757",
@@ -403,7 +1919,34 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/blue-picardy-spaniel/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2024/07/Blue-Picardy-Spaniel-standing-outdoors-400x267.jpg",
     "imageAlt": "Blue Picardy Spaniel",
-    "imagePath": "assets/images/blue-picardy-spaniel.jpg"
+    "imagePath": "assets/images/blue-picardy-spaniel.jpg",
+    "breedGroup": "Foundation Stock Service",
+    "origin": "France",
+    "temperament": "Friendly / Mellow / Merry",
+    "lifeExpectancy": "11-12 years",
+    "height": "22 - 24 inches male, 21 - 23 inches female",
+    "weight": "50-55 lbs males, 45-50 lbs females",
+    "relatedCharacteristics": [],
+    "traits": {
+      "adaptabilityLevel": 5,
+      "affectionateWithFamily": 3,
+      "barkingLevel": 3,
+      "coatGroomingFrequency": 1,
+      "coatLength": [],
+      "coatType": [],
+      "droolingLevel": 1,
+      "energyLevel": 3,
+      "goodWithOtherDogs": 5,
+      "goodWithYoungChildren": 5,
+      "mentalStimulationNeeds": 1,
+      "opennessToStrangers": 1,
+      "playfulnessLevel": 3,
+      "sheddingLevel": 3,
+      "trainabilityLevel": 5,
+      "watchdogProtectiveNature": 3
+    },
+    "sizeCategory": "large",
+    "isFluffy": false
   },
   {
     "akcId": "23651",
@@ -412,7 +1955,40 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/bluetick-coonhound/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2017/11/Bluetick-Coonhound-400x267.jpg",
     "imageAlt": "Bluetick Coonhound",
-    "imagePath": "assets/images/bluetick-coonhound.jpg"
+    "imagePath": "assets/images/bluetick-coonhound.jpg",
+    "breedGroup": "Hound Group",
+    "origin": "United States",
+    "temperament": "devoted / smart / tenacious",
+    "lifeExpectancy": "11-12 years",
+    "height": "22-27 inches (male), 21-25 inches (female)",
+    "weight": "55-80 pounds (male), 45-65 pounds (female)",
+    "relatedCharacteristics": [
+      "Medium Dog Breeds"
+    ],
+    "traits": {
+      "adaptabilityLevel": 3,
+      "affectionateWithFamily": 3,
+      "barkingLevel": 4,
+      "coatGroomingFrequency": 2,
+      "coatLength": [
+        "Short"
+      ],
+      "coatType": [
+        "Smooth"
+      ],
+      "droolingLevel": 2,
+      "energyLevel": 4,
+      "goodWithOtherDogs": 5,
+      "goodWithYoungChildren": 3,
+      "mentalStimulationNeeds": 3,
+      "opennessToStrangers": 3,
+      "playfulnessLevel": 3,
+      "sheddingLevel": 3,
+      "trainabilityLevel": 4,
+      "watchdogProtectiveNature": 2
+    },
+    "sizeCategory": "large",
+    "isFluffy": false
   },
   {
     "akcId": "23666",
@@ -421,7 +1997,41 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/boerboel/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2017/11/Boerboel-On-White-01-400x267.jpg",
     "imageAlt": "Boerboel",
-    "imagePath": "assets/images/boerboel.jpg"
+    "imagePath": "assets/images/boerboel.jpg",
+    "breedGroup": "Working Group",
+    "origin": "South Africa",
+    "temperament": "intelligent / confident / calm",
+    "lifeExpectancy": "9-11 years",
+    "height": "24-27 inches (male), 22-25 inches (female)",
+    "weight": "150-200 pounds",
+    "relatedCharacteristics": [
+      "Largest Dog Breeds",
+      "Best Guard Dogs"
+    ],
+    "traits": {
+      "adaptabilityLevel": 3,
+      "affectionateWithFamily": 5,
+      "barkingLevel": 3,
+      "coatGroomingFrequency": 2,
+      "coatLength": [
+        "Short"
+      ],
+      "coatType": [
+        "Smooth"
+      ],
+      "droolingLevel": 3,
+      "energyLevel": 3,
+      "goodWithOtherDogs": 2,
+      "goodWithYoungChildren": 4,
+      "mentalStimulationNeeds": 4,
+      "opennessToStrangers": 3,
+      "playfulnessLevel": 3,
+      "sheddingLevel": 3,
+      "trainabilityLevel": 4,
+      "watchdogProtectiveNature": 5
+    },
+    "sizeCategory": "large",
+    "isFluffy": false
   },
   {
     "akcId": "81748",
@@ -430,7 +2040,41 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/bohemian-shepherd/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2019/06/Bohemian-Shepherd-standing-in-profile-in-a-field-of-tall-brown-grasses-400x267.jpg",
     "imageAlt": "Bohemian Shepherd",
-    "imagePath": "assets/images/bohemian-shepherd.jpg"
+    "imagePath": "assets/images/bohemian-shepherd.jpg",
+    "breedGroup": "Foundation Stock Service",
+    "origin": "Czech Republic",
+    "temperament": "friendly, devoted, alert and intelligent",
+    "lifeExpectancy": "12-15 years",
+    "height": "20.5-21.7 inches (males), 19.3-20.5 inches (females)",
+    "weight": "41-60 pounds (males), 37-53 pounds (females)",
+    "relatedCharacteristics": [
+      "Medium Dog Breeds"
+    ],
+    "traits": {
+      "adaptabilityLevel": 4,
+      "affectionateWithFamily": 4,
+      "barkingLevel": 4,
+      "coatGroomingFrequency": 2,
+      "coatLength": [
+        "Medium"
+      ],
+      "coatType": [
+        "Wavy",
+        "Double"
+      ],
+      "droolingLevel": 1,
+      "energyLevel": 4,
+      "goodWithOtherDogs": 4,
+      "goodWithYoungChildren": 4,
+      "mentalStimulationNeeds": 4,
+      "opennessToStrangers": 3,
+      "playfulnessLevel": 4,
+      "sheddingLevel": 3,
+      "trainabilityLevel": 4,
+      "watchdogProtectiveNature": 4
+    },
+    "sizeCategory": "large",
+    "isFluffy": true
   },
   {
     "akcId": "23681",
@@ -439,7 +2083,42 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/bolognese/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2017/11/Bolognese-standing-in-profile-outdoors-400x267.jpg",
     "imageAlt": "Bolognese",
-    "imagePath": "assets/images/bolognese.jpg"
+    "imagePath": "assets/images/bolognese.jpg",
+    "breedGroup": "Miscellaneous Class",
+    "origin": "Italy",
+    "temperament": "playful / easy-going / devoted",
+    "lifeExpectancy": "12-14 years",
+    "height": "10-12 inches",
+    "weight": "6-10 pounds",
+    "relatedCharacteristics": [
+      "Smallest Dog Breeds",
+      "Hypoallergenic Dogs",
+      "Best Dogs for Apartment Dwellers"
+    ],
+    "traits": {
+      "adaptabilityLevel": 5,
+      "affectionateWithFamily": 3,
+      "barkingLevel": 1,
+      "coatGroomingFrequency": 3,
+      "coatLength": [
+        "Long"
+      ],
+      "coatType": [
+        "Wavy"
+      ],
+      "droolingLevel": 1,
+      "energyLevel": 1,
+      "goodWithOtherDogs": 3,
+      "goodWithYoungChildren": 3,
+      "mentalStimulationNeeds": 1,
+      "opennessToStrangers": 5,
+      "playfulnessLevel": 1,
+      "sheddingLevel": 1,
+      "trainabilityLevel": 5,
+      "watchdogProtectiveNature": 1
+    },
+    "sizeCategory": "small",
+    "isFluffy": true
   },
   {
     "akcId": "23684",
@@ -448,7 +2127,41 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/border-collie/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2017/11/Border-Collie-On-White-01-400x267.jpg",
     "imageAlt": "Border Collie",
-    "imagePath": "assets/images/border-collie.jpg"
+    "imagePath": "assets/images/border-collie.jpg",
+    "breedGroup": "Herding Group",
+    "origin": "England/Scotland",
+    "temperament": "energetic / affectionate / smart",
+    "lifeExpectancy": "12-15 years",
+    "height": "19-22 inches (male), 18-21 inches (female)",
+    "weight": "30-55 pounds",
+    "relatedCharacteristics": [
+      "Smartest Breeds of Dogs"
+    ],
+    "traits": {
+      "adaptabilityLevel": 5,
+      "affectionateWithFamily": 5,
+      "barkingLevel": 4,
+      "coatGroomingFrequency": 3,
+      "coatLength": [
+        "Medium"
+      ],
+      "coatType": [
+        "Wavy",
+        "Double"
+      ],
+      "droolingLevel": 1,
+      "energyLevel": 5,
+      "goodWithOtherDogs": 3,
+      "goodWithYoungChildren": 3,
+      "mentalStimulationNeeds": 5,
+      "opennessToStrangers": 4,
+      "playfulnessLevel": 5,
+      "sheddingLevel": 3,
+      "trainabilityLevel": 5,
+      "watchdogProtectiveNature": 3
+    },
+    "sizeCategory": "large",
+    "isFluffy": true
   },
   {
     "akcId": "23699",
@@ -457,7 +2170,43 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/border-terrier/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2017/11/Border-Terrier-On-White-03-400x267.jpg",
     "imageAlt": "Border Terrier",
-    "imagePath": "assets/images/border-terrier.jpg"
+    "imagePath": "assets/images/border-terrier.jpg",
+    "breedGroup": "Terrier Group",
+    "origin": "England/Scotland",
+    "temperament": "affectionate / happy / plucky",
+    "lifeExpectancy": "12-15 years",
+    "height": "12-15 inches",
+    "weight": "13-15.5 pounds (male), 11.5-14 pounds (female)",
+    "relatedCharacteristics": [
+      "Smallest Dog Breeds",
+      "Best Family Dogs",
+      "Best Dog Breeds for Kids",
+      "Best Dogs for Apartment Dwellers"
+    ],
+    "traits": {
+      "adaptabilityLevel": 4,
+      "affectionateWithFamily": 4,
+      "barkingLevel": 3,
+      "coatGroomingFrequency": 2,
+      "coatLength": [
+        "Short"
+      ],
+      "coatType": [
+        "Wiry"
+      ],
+      "droolingLevel": 1,
+      "energyLevel": 3,
+      "goodWithOtherDogs": 3,
+      "goodWithYoungChildren": 5,
+      "mentalStimulationNeeds": 3,
+      "opennessToStrangers": 4,
+      "playfulnessLevel": 4,
+      "sheddingLevel": 2,
+      "trainabilityLevel": 4,
+      "watchdogProtectiveNature": 3
+    },
+    "sizeCategory": "small",
+    "isFluffy": false
   },
   {
     "akcId": "23714",
@@ -466,7 +2215,42 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/borzoi/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2017/11/Borzoi-running-outdoors-400x267.jpg",
     "imageAlt": "Borzoi",
-    "imagePath": "assets/images/borzoi.jpg"
+    "imagePath": "assets/images/borzoi.jpg",
+    "breedGroup": "Hound Group",
+    "origin": "Russia",
+    "temperament": "loyal / affectionate / regally dignified",
+    "lifeExpectancy": "9-14 years",
+    "height": "28 inches & up (male), 26 inches & up (female)",
+    "weight": "75-105 pounds (male), 60-85 pounds (female)",
+    "relatedCharacteristics": [
+      "Best Family Dogs",
+      "Largest Dog Breeds"
+    ],
+    "traits": {
+      "adaptabilityLevel": 3,
+      "affectionateWithFamily": 3,
+      "barkingLevel": 2,
+      "coatGroomingFrequency": 2,
+      "coatLength": [
+        "Medium"
+      ],
+      "coatType": [
+        "Silky",
+        "Curly"
+      ],
+      "droolingLevel": 1,
+      "energyLevel": 4,
+      "goodWithOtherDogs": 3,
+      "goodWithYoungChildren": 3,
+      "mentalStimulationNeeds": 4,
+      "opennessToStrangers": 3,
+      "playfulnessLevel": 3,
+      "sheddingLevel": 3,
+      "trainabilityLevel": 2,
+      "watchdogProtectiveNature": 3
+    },
+    "sizeCategory": "large",
+    "isFluffy": true
   },
   {
     "akcId": "23729",
@@ -475,7 +2259,40 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/boston-terrier/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2017/11/Boston-Terrier-head-portrait-outdoors1-400x267.jpg",
     "imageAlt": "Boston Terrier",
-    "imagePath": "assets/images/boston-terrier.jpg"
+    "imagePath": "assets/images/boston-terrier.jpg",
+    "breedGroup": "Non-Sporting Group",
+    "origin": "United States",
+    "temperament": "friendly / bright / amusing",
+    "lifeExpectancy": "11-13 years",
+    "height": "10-12 inches",
+    "weight": "12-25 pounds",
+    "relatedCharacteristics": [
+      "Smallest Dog Breeds"
+    ],
+    "traits": {
+      "adaptabilityLevel": 3,
+      "affectionateWithFamily": 5,
+      "barkingLevel": 2,
+      "coatGroomingFrequency": 2,
+      "coatLength": [
+        "Short"
+      ],
+      "coatType": [
+        "Smooth"
+      ],
+      "droolingLevel": 1,
+      "energyLevel": 4,
+      "goodWithOtherDogs": 4,
+      "goodWithYoungChildren": 5,
+      "mentalStimulationNeeds": 3,
+      "opennessToStrangers": 5,
+      "playfulnessLevel": 5,
+      "sheddingLevel": 2,
+      "trainabilityLevel": 4,
+      "watchdogProtectiveNature": 3
+    },
+    "sizeCategory": "medium",
+    "isFluffy": false
   },
   {
     "akcId": "192754",
@@ -484,7 +2301,37 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/bouvier-de-ardennes/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2024/07/Bouvier-des-Ardennes_standing_outdoors1-400x267.jpg",
     "imageAlt": "Bouvier des Ardennes",
-    "imagePath": "assets/images/bouvier-de-ardennes.jpg"
+    "imagePath": "assets/images/bouvier-de-ardennes.jpg",
+    "breedGroup": "Foundation Stock Service",
+    "origin": "Belguium",
+    "temperament": "Playful / Hardy / Obstinate",
+    "lifeExpectancy": "12-16 years",
+    "height": "Male 22 - 24.5 inches Female 20.5 - 22 inches",
+    "weight": "Male 61.5 - 77.5 lbs Female 48.5 - 62 lbs",
+    "relatedCharacteristics": [
+      "Medium Dog Breeds",
+      "Smartest Breeds of Dog"
+    ],
+    "traits": {
+      "adaptabilityLevel": 5,
+      "affectionateWithFamily": 5,
+      "barkingLevel": 5,
+      "coatGroomingFrequency": 1,
+      "coatLength": [],
+      "coatType": [],
+      "droolingLevel": 1,
+      "energyLevel": 5,
+      "goodWithOtherDogs": 3,
+      "goodWithYoungChildren": 3,
+      "mentalStimulationNeeds": 5,
+      "opennessToStrangers": 3,
+      "playfulnessLevel": 3,
+      "sheddingLevel": 3,
+      "trainabilityLevel": 5,
+      "watchdogProtectiveNature": 5
+    },
+    "sizeCategory": "large",
+    "isFluffy": false
   },
   {
     "akcId": "23743",
@@ -493,7 +2340,42 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/bouvier-des-flandres/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2017/11/Bouvier-des-Flandres-standing-atop-a-hill-400x267.jpg",
     "imageAlt": "Bouvier des Flandres",
-    "imagePath": "assets/images/bouvier-des-flandres.jpg"
+    "imagePath": "assets/images/bouvier-des-flandres.jpg",
+    "breedGroup": "Herding Group",
+    "origin": "Flanders (France, Belgium, Netherlands)",
+    "temperament": "strong-willed / courageous / affectionate",
+    "lifeExpectancy": "10-12 years",
+    "height": "24.5-27.5 inches (male), 23.5-26.5 inches (female)",
+    "weight": "70-110 pounds",
+    "relatedCharacteristics": [
+      "Largest Dog Breeds",
+      "Best Guard Dogs"
+    ],
+    "traits": {
+      "adaptabilityLevel": 3,
+      "affectionateWithFamily": 3,
+      "barkingLevel": 3,
+      "coatGroomingFrequency": 4,
+      "coatLength": [
+        "Medium"
+      ],
+      "coatType": [
+        "Double",
+        "Rough"
+      ],
+      "droolingLevel": 2,
+      "energyLevel": 4,
+      "goodWithOtherDogs": 3,
+      "goodWithYoungChildren": 3,
+      "mentalStimulationNeeds": 3,
+      "opennessToStrangers": 3,
+      "playfulnessLevel": 3,
+      "sheddingLevel": 3,
+      "trainabilityLevel": 4,
+      "watchdogProtectiveNature": 4
+    },
+    "sizeCategory": "large",
+    "isFluffy": true
   },
   {
     "akcId": "23758",
@@ -502,7 +2384,41 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/boxer/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2017/11/Boxer.1-400x267.jpg",
     "imageAlt": "Boxer",
-    "imagePath": "assets/images/boxer.jpg"
+    "imagePath": "assets/images/boxer.jpg",
+    "breedGroup": "Working Group",
+    "origin": "Germany",
+    "temperament": "active / bright / fun-loving",
+    "lifeExpectancy": "10-12 years",
+    "height": "23-25 inches (male), 21.5-23.5 inches (female)",
+    "weight": "65-80 pounds (male), females are about 15 pounds less than male",
+    "relatedCharacteristics": [
+      "Best Dog Breeds for Kids",
+      "Largest Dog Breeds"
+    ],
+    "traits": {
+      "adaptabilityLevel": 3,
+      "affectionateWithFamily": 4,
+      "barkingLevel": 3,
+      "coatGroomingFrequency": 2,
+      "coatLength": [
+        "Short"
+      ],
+      "coatType": [
+        "Smooth"
+      ],
+      "droolingLevel": 3,
+      "energyLevel": 4,
+      "goodWithOtherDogs": 3,
+      "goodWithYoungChildren": 5,
+      "mentalStimulationNeeds": 4,
+      "opennessToStrangers": 4,
+      "playfulnessLevel": 4,
+      "sheddingLevel": 2,
+      "trainabilityLevel": 4,
+      "watchdogProtectiveNature": 4
+    },
+    "sizeCategory": "large",
+    "isFluffy": false
   },
   {
     "akcId": "23779",
@@ -511,7 +2427,41 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/boykin-spaniel/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2017/11/Boykin-Spaniel-holding-a-dummy-toy-400x267.jpg",
     "imageAlt": "Boykin Spaniel",
-    "imagePath": "assets/images/boykin-spaniel.jpg"
+    "imagePath": "assets/images/boykin-spaniel.jpg",
+    "breedGroup": "Sporting Group",
+    "origin": "United States",
+    "temperament": "friendly / eager / lovable",
+    "lifeExpectancy": "10-15 years",
+    "height": "15.5-18 inches (male), 14-16.5 inches (female)",
+    "weight": "30-40 pounds (male), 25-35 pounds (female)",
+    "relatedCharacteristics": [
+      "Medium Dog Breeds"
+    ],
+    "traits": {
+      "adaptabilityLevel": 4,
+      "affectionateWithFamily": 3,
+      "barkingLevel": 3,
+      "coatGroomingFrequency": 3,
+      "coatLength": [
+        "Medium"
+      ],
+      "coatType": [
+        "Wavy",
+        "Double"
+      ],
+      "droolingLevel": 1,
+      "energyLevel": 4,
+      "goodWithOtherDogs": 5,
+      "goodWithYoungChildren": 5,
+      "mentalStimulationNeeds": 3,
+      "opennessToStrangers": 3,
+      "playfulnessLevel": 4,
+      "sheddingLevel": 3,
+      "trainabilityLevel": 4,
+      "watchdogProtectiveNature": 3
+    },
+    "sizeCategory": "medium",
+    "isFluffy": true
   },
   {
     "akcId": "23794",
@@ -520,7 +2470,41 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/bracco-italiano/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2017/11/Bracco.7-400x267.jpg",
     "imageAlt": "Bracco Italiano",
-    "imagePath": "assets/images/bracco-italiano.jpg"
+    "imagePath": "assets/images/bracco-italiano.jpg",
+    "breedGroup": "Sporting Group",
+    "origin": "Italy",
+    "temperament": "intelligent / affectionate / enthusiastic",
+    "lifeExpectancy": "10-14 years",
+    "height": "21-27 inches",
+    "weight": "55-90 pounds",
+    "relatedCharacteristics": [
+      "Best Dog Breeds for Kids",
+      "Largest Dog Breeds"
+    ],
+    "traits": {
+      "adaptabilityLevel": 3,
+      "affectionateWithFamily": 3,
+      "barkingLevel": 2,
+      "coatGroomingFrequency": 1,
+      "coatLength": [
+        "Short"
+      ],
+      "coatType": [
+        "Smooth"
+      ],
+      "droolingLevel": 2,
+      "energyLevel": 4,
+      "goodWithOtherDogs": 4,
+      "goodWithYoungChildren": 4,
+      "mentalStimulationNeeds": 3,
+      "opennessToStrangers": 3,
+      "playfulnessLevel": 3,
+      "sheddingLevel": 2,
+      "trainabilityLevel": 5,
+      "watchdogProtectiveNature": 3
+    },
+    "sizeCategory": "large",
+    "isFluffy": false
   },
   {
     "akcId": "23797",
@@ -529,7 +2513,40 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/braque-du-bourbonnais/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2017/11/Bourbonnais-400x267.jpg",
     "imageAlt": "Braque du Bourbonnais",
-    "imagePath": "assets/images/braque-du-bourbonnais.jpg"
+    "imagePath": "assets/images/braque-du-bourbonnais.jpg",
+    "breedGroup": "Foundation Stock Service",
+    "origin": "France",
+    "temperament": "affectionate / gentle / adaptable",
+    "lifeExpectancy": "10-12 years",
+    "height": "19-22.5 inches",
+    "weight": "35-53 pounds",
+    "relatedCharacteristics": [
+      "Medium Dog Breeds"
+    ],
+    "traits": {
+      "adaptabilityLevel": 3,
+      "affectionateWithFamily": 3,
+      "barkingLevel": 2,
+      "coatGroomingFrequency": 1,
+      "coatLength": [
+        "Short"
+      ],
+      "coatType": [
+        "Smooth"
+      ],
+      "droolingLevel": 2,
+      "energyLevel": 4,
+      "goodWithOtherDogs": 4,
+      "goodWithYoungChildren": 3,
+      "mentalStimulationNeeds": 3,
+      "opennessToStrangers": 3,
+      "playfulnessLevel": 3,
+      "sheddingLevel": 2,
+      "trainabilityLevel": 5,
+      "watchdogProtectiveNature": 3
+    },
+    "sizeCategory": "large",
+    "isFluffy": false
   },
   {
     "akcId": "23799",
@@ -538,7 +2555,40 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/braque-francais-pyrenean/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2017/11/Braque-Francais-Pyrenean-400x267.jpg",
     "imageAlt": "Braque Francais Pyrenean",
-    "imagePath": "assets/images/braque-francais-pyrenean.jpg"
+    "imagePath": "assets/images/braque-francais-pyrenean.jpg",
+    "breedGroup": "Foundation Stock Service",
+    "origin": "France",
+    "temperament": "friendly / smart / willing to please",
+    "lifeExpectancy": "12-15 years",
+    "height": "18.5-23 inches",
+    "weight": "40-55 pounds",
+    "relatedCharacteristics": [
+      "Medium Dog Breeds"
+    ],
+    "traits": {
+      "adaptabilityLevel": 3,
+      "affectionateWithFamily": 3,
+      "barkingLevel": 3,
+      "coatGroomingFrequency": 1,
+      "coatLength": [
+        "Short"
+      ],
+      "coatType": [
+        "Smooth"
+      ],
+      "droolingLevel": 2,
+      "energyLevel": 5,
+      "goodWithOtherDogs": 5,
+      "goodWithYoungChildren": 5,
+      "mentalStimulationNeeds": 3,
+      "opennessToStrangers": 3,
+      "playfulnessLevel": 3,
+      "sheddingLevel": 3,
+      "trainabilityLevel": 3,
+      "watchdogProtectiveNature": 3
+    },
+    "sizeCategory": "large",
+    "isFluffy": false
   },
   {
     "akcId": "173124",
@@ -547,7 +2597,34 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/braque-saint-germain/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2023/07/Braque-Saint-Germain-standing-profile-outdoors-400x267.jpg",
     "imageAlt": "Braque Saint-Germain",
-    "imagePath": "assets/images/braque-saint-germain.jpg"
+    "imagePath": "assets/images/braque-saint-germain.jpg",
+    "breedGroup": "Foundation Stock Service",
+    "origin": "France",
+    "temperament": "Affectionate / Loyal / Easily Trained",
+    "lifeExpectancy": "12-15 years",
+    "height": "22-24 inches males, 21-23 females",
+    "weight": "40 - 58 lbs",
+    "relatedCharacteristics": [],
+    "traits": {
+      "adaptabilityLevel": 3,
+      "affectionateWithFamily": 3,
+      "barkingLevel": 2,
+      "coatGroomingFrequency": 3,
+      "coatLength": [],
+      "coatType": [],
+      "droolingLevel": 1,
+      "energyLevel": 3,
+      "goodWithOtherDogs": 5,
+      "goodWithYoungChildren": 5,
+      "mentalStimulationNeeds": 3,
+      "opennessToStrangers": 4,
+      "playfulnessLevel": 3,
+      "sheddingLevel": 3,
+      "trainabilityLevel": 4,
+      "watchdogProtectiveNature": 2
+    },
+    "sizeCategory": "large",
+    "isFluffy": false
   },
   {
     "akcId": "173113",
@@ -556,7 +2633,38 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/brazilian-terrier/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2023/07/Brazilian-Terrier-standing-in-the-yard-outdoors-400x267.jpg",
     "imageAlt": "Brazilian Terrier",
-    "imagePath": "assets/images/brazilian-terrier.jpg"
+    "imagePath": "assets/images/brazilian-terrier.jpg",
+    "breedGroup": "Foundation Stock Service",
+    "origin": "Brazil",
+    "temperament": "loving / courageous / affectionate",
+    "lifeExpectancy": "12-14 years",
+    "height": "Males 13.7 - 15.7 inches, Females 12.9 - 14.9 inches",
+    "weight": "22 lbs",
+    "relatedCharacteristics": [
+      "Best Family Dogs",
+      "Best Dog Breeds for Kids",
+      "Medium Dog Breeds"
+    ],
+    "traits": {
+      "adaptabilityLevel": 5,
+      "affectionateWithFamily": 5,
+      "barkingLevel": 3,
+      "coatGroomingFrequency": 1,
+      "coatLength": [],
+      "coatType": [],
+      "droolingLevel": 1,
+      "energyLevel": 5,
+      "goodWithOtherDogs": 3,
+      "goodWithYoungChildren": 5,
+      "mentalStimulationNeeds": 5,
+      "opennessToStrangers": 1,
+      "playfulnessLevel": 3,
+      "sheddingLevel": 3,
+      "trainabilityLevel": 5,
+      "watchdogProtectiveNature": 5
+    },
+    "sizeCategory": "medium",
+    "isFluffy": false
   },
   {
     "akcId": "23800",
@@ -565,7 +2673,43 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/briard/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2017/11/Briard-standing-in-the-grass-400x267.jpg",
     "imageAlt": "Briard",
-    "imagePath": "assets/images/briard.jpg"
+    "imagePath": "assets/images/briard.jpg",
+    "breedGroup": "Herding Group",
+    "origin": "France",
+    "temperament": "confident / smart / faithful",
+    "lifeExpectancy": "12 years",
+    "height": "23-27 inches (male), 22-25.5 inches (female)",
+    "weight": "55-100 pounds",
+    "relatedCharacteristics": [
+      "Smartest Breeds of Dogs",
+      "Largest Dog Breeds",
+      "Best Guard Dogs"
+    ],
+    "traits": {
+      "adaptabilityLevel": 3,
+      "affectionateWithFamily": 3,
+      "barkingLevel": 1,
+      "coatGroomingFrequency": 4,
+      "coatLength": [
+        "Long"
+      ],
+      "coatType": [
+        "Wavy",
+        "Double"
+      ],
+      "droolingLevel": 2,
+      "energyLevel": 3,
+      "goodWithOtherDogs": 3,
+      "goodWithYoungChildren": 3,
+      "mentalStimulationNeeds": 3,
+      "opennessToStrangers": 3,
+      "playfulnessLevel": 3,
+      "sheddingLevel": 1,
+      "trainabilityLevel": 3,
+      "watchdogProtectiveNature": 4
+    },
+    "sizeCategory": "large",
+    "isFluffy": true
   },
   {
     "akcId": "23814",
@@ -574,7 +2718,41 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/brittany/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2017/11/Brittany-1-400x267.jpg",
     "imageAlt": "Brittany",
-    "imagePath": "assets/images/brittany.jpg"
+    "imagePath": "assets/images/brittany.jpg",
+    "breedGroup": "Sporting Group",
+    "origin": "France",
+    "temperament": "bright / fun-loving / upbeat",
+    "lifeExpectancy": "12-14 years",
+    "height": "17.5-20.5 inches",
+    "weight": "30-40 pounds",
+    "relatedCharacteristics": [
+      "Medium Dog Breeds"
+    ],
+    "traits": {
+      "adaptabilityLevel": 3,
+      "affectionateWithFamily": 3,
+      "barkingLevel": 3,
+      "coatGroomingFrequency": 3,
+      "coatLength": [
+        "Short"
+      ],
+      "coatType": [
+        "Wavy",
+        "Double"
+      ],
+      "droolingLevel": 1,
+      "energyLevel": 5,
+      "goodWithOtherDogs": 4,
+      "goodWithYoungChildren": 4,
+      "mentalStimulationNeeds": 4,
+      "opennessToStrangers": 3,
+      "playfulnessLevel": 4,
+      "sheddingLevel": 3,
+      "trainabilityLevel": 5,
+      "watchdogProtectiveNature": 3
+    },
+    "sizeCategory": "medium",
+    "isFluffy": true
   },
   {
     "akcId": "23829",
@@ -583,7 +2761,41 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/broholmer/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2017/11/Broholmer-laying-down-in-the-park-400x267.jpg",
     "imageAlt": "Broholmer",
-    "imagePath": "assets/images/broholmer.jpg"
+    "imagePath": "assets/images/broholmer.jpg",
+    "breedGroup": "Foundation Stock Service",
+    "origin": "Denmark",
+    "temperament": "friendly / loving / watchful",
+    "lifeExpectancy": "8-10 years",
+    "height": "27.5-29.5 inches",
+    "weight": "90-150 pounds",
+    "relatedCharacteristics": [
+      "Best Family Dogs",
+      "Largest Dog Breeds"
+    ],
+    "traits": {
+      "adaptabilityLevel": 3,
+      "affectionateWithFamily": 3,
+      "barkingLevel": 1,
+      "coatGroomingFrequency": 1,
+      "coatLength": [
+        "Short"
+      ],
+      "coatType": [
+        "Smooth"
+      ],
+      "droolingLevel": 3,
+      "energyLevel": 2,
+      "goodWithOtherDogs": 3,
+      "goodWithYoungChildren": 3,
+      "mentalStimulationNeeds": 3,
+      "opennessToStrangers": 3,
+      "playfulnessLevel": 3,
+      "sheddingLevel": 3,
+      "trainabilityLevel": 3,
+      "watchdogProtectiveNature": 4
+    },
+    "sizeCategory": "large",
+    "isFluffy": false
   },
   {
     "akcId": "23832",
@@ -592,7 +2804,44 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/brussels-griffon/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2017/11/Brussels-Griffon-sitting-outdoors-400x267.jpg",
     "imageAlt": "Brussels Griffon",
-    "imagePath": "assets/images/brussels-griffon.jpg"
+    "imagePath": "assets/images/brussels-griffon.jpg",
+    "breedGroup": "Toy Group",
+    "origin": "Belgium",
+    "temperament": "alert / curious / loyal",
+    "lifeExpectancy": "12-15 years",
+    "height": "7-10 inches",
+    "weight": "8-10 pounds",
+    "relatedCharacteristics": [
+      "Smallest Dog Breeds",
+      "Best Family Dogs"
+    ],
+    "traits": {
+      "adaptabilityLevel": 4,
+      "affectionateWithFamily": 4,
+      "barkingLevel": 4,
+      "coatGroomingFrequency": 3,
+      "coatLength": [
+        "Short",
+        "Medium"
+      ],
+      "coatType": [
+        "Double",
+        "Smooth",
+        "Wiry"
+      ],
+      "droolingLevel": 1,
+      "energyLevel": 3,
+      "goodWithOtherDogs": 3,
+      "goodWithYoungChildren": 3,
+      "mentalStimulationNeeds": 3,
+      "opennessToStrangers": 4,
+      "playfulnessLevel": 4,
+      "sheddingLevel": 3,
+      "trainabilityLevel": 4,
+      "watchdogProtectiveNature": 3
+    },
+    "sizeCategory": "small",
+    "isFluffy": true
   },
   {
     "akcId": "23840",
@@ -601,7 +2850,41 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/bull-terrier/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2017/11/bull-terrier-on-white-10-400x267.jpg",
     "imageAlt": "Bull Terrier",
-    "imagePath": "assets/images/bull-terrier.jpg"
+    "imagePath": "assets/images/bull-terrier.jpg",
+    "breedGroup": "Terrier Group",
+    "origin": "England",
+    "temperament": "playful / charming / mischievous",
+    "lifeExpectancy": "12-13 years",
+    "height": "21-22 inches",
+    "weight": "50-70 pounds",
+    "relatedCharacteristics": [
+      "Best Dog Breeds for Kids",
+      "Medium Dog Breeds"
+    ],
+    "traits": {
+      "adaptabilityLevel": 3,
+      "affectionateWithFamily": 4,
+      "barkingLevel": 3,
+      "coatGroomingFrequency": 2,
+      "coatLength": [
+        "Short"
+      ],
+      "coatType": [
+        "Smooth"
+      ],
+      "droolingLevel": 1,
+      "energyLevel": 4,
+      "goodWithOtherDogs": 1,
+      "goodWithYoungChildren": 3,
+      "mentalStimulationNeeds": 4,
+      "opennessToStrangers": 4,
+      "playfulnessLevel": 4,
+      "sheddingLevel": 3,
+      "trainabilityLevel": 3,
+      "watchdogProtectiveNature": 3
+    },
+    "sizeCategory": "large",
+    "isFluffy": false
   },
   {
     "akcId": "23854",
@@ -610,7 +2893,42 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/bulldog/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2017/11/Bulldog-standing-in-the-grass-400x267.jpg",
     "imageAlt": "Bulldog",
-    "imagePath": "assets/images/bulldog.jpg"
+    "imagePath": "assets/images/bulldog.jpg",
+    "breedGroup": "Non-Sporting Group",
+    "origin": "England",
+    "temperament": "friendly / courageous / calm",
+    "lifeExpectancy": "8-10 years",
+    "height": "14-15 inches",
+    "weight": "50 pounds (male), 40 pounds (female)",
+    "relatedCharacteristics": [
+      "Best Family Dogs",
+      "Best Dogs for Apartment Dwellers",
+      "Medium Dog Breeds"
+    ],
+    "traits": {
+      "adaptabilityLevel": 3,
+      "affectionateWithFamily": 4,
+      "barkingLevel": 2,
+      "coatGroomingFrequency": 3,
+      "coatLength": [
+        "Short"
+      ],
+      "coatType": [
+        "Smooth"
+      ],
+      "droolingLevel": 3,
+      "energyLevel": 3,
+      "goodWithOtherDogs": 3,
+      "goodWithYoungChildren": 3,
+      "mentalStimulationNeeds": 3,
+      "opennessToStrangers": 4,
+      "playfulnessLevel": 4,
+      "sheddingLevel": 3,
+      "trainabilityLevel": 4,
+      "watchdogProtectiveNature": 3
+    },
+    "sizeCategory": "medium",
+    "isFluffy": false
   },
   {
     "akcId": "23875",
@@ -619,7 +2937,41 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/bullmastiff/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2017/11/Bullmastiff-standing-in-a-field-400x267.jpg",
     "imageAlt": "Bullmastiff",
-    "imagePath": "assets/images/bullmastiff.jpg"
+    "imagePath": "assets/images/bullmastiff.jpg",
+    "breedGroup": "Working Group",
+    "origin": "England",
+    "temperament": "loyal / affectionate / brave",
+    "lifeExpectancy": "7-9 years",
+    "height": "25-27 inches (male), 24-26 inches (female)",
+    "weight": "110-130 pounds (male), 100-120 pounds (female)",
+    "relatedCharacteristics": [
+      "Largest Dog Breeds",
+      "Best Guard Dogs"
+    ],
+    "traits": {
+      "adaptabilityLevel": 3,
+      "affectionateWithFamily": 4,
+      "barkingLevel": 1,
+      "coatGroomingFrequency": 1,
+      "coatLength": [
+        "Short"
+      ],
+      "coatType": [
+        "Smooth"
+      ],
+      "droolingLevel": 3,
+      "energyLevel": 4,
+      "goodWithOtherDogs": 3,
+      "goodWithYoungChildren": 3,
+      "mentalStimulationNeeds": 4,
+      "opennessToStrangers": 3,
+      "playfulnessLevel": 3,
+      "sheddingLevel": 3,
+      "trainabilityLevel": 4,
+      "watchdogProtectiveNature": 5
+    },
+    "sizeCategory": "large",
+    "isFluffy": false
   },
   {
     "akcId": "23890",
@@ -628,7 +2980,42 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/cairn-terrier/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2017/11/Cairn-Terrier-sitting-in-the-grass-400x267.jpg",
     "imageAlt": "Cairn Terrier",
-    "imagePath": "assets/images/cairn-terrier.jpg"
+    "imagePath": "assets/images/cairn-terrier.jpg",
+    "breedGroup": "Terrier Group",
+    "origin": "Scotland",
+    "temperament": "alert / cheerful / busy",
+    "lifeExpectancy": "13-15 years",
+    "height": "10 inches (male), 9.5 inches (female)",
+    "weight": "14 pounds (male), 13 pounds (female)",
+    "relatedCharacteristics": [
+      "Smallest Dog Breeds",
+      "Best Dogs for Apartment Dwellers"
+    ],
+    "traits": {
+      "adaptabilityLevel": 3,
+      "affectionateWithFamily": 4,
+      "barkingLevel": 4,
+      "coatGroomingFrequency": 2,
+      "coatLength": [
+        "Medium"
+      ],
+      "coatType": [
+        "Double",
+        "Wiry"
+      ],
+      "droolingLevel": 1,
+      "energyLevel": 3,
+      "goodWithOtherDogs": 3,
+      "goodWithYoungChildren": 3,
+      "mentalStimulationNeeds": 3,
+      "opennessToStrangers": 3,
+      "playfulnessLevel": 4,
+      "sheddingLevel": 2,
+      "trainabilityLevel": 3,
+      "watchdogProtectiveNature": 4
+    },
+    "sizeCategory": "small",
+    "isFluffy": true
   },
   {
     "akcId": "200502",
@@ -637,7 +3024,37 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/calupoh/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2025/02/Calupoh-standing-outdoors-400x267.jpg",
     "imageAlt": "Calupoh",
-    "imagePath": "assets/images/calupoh.jpg"
+    "imagePath": "assets/images/calupoh.jpg",
+    "breedGroup": "Foundation Stock Service",
+    "origin": "Mexico",
+    "temperament": "Loyal / Attentive / Even-Tempered",
+    "lifeExpectancy": "11-12 years",
+    "height": "males 24-29 inches; females 22-27 inches",
+    "weight": "70 - 100 lbs",
+    "relatedCharacteristics": [
+      "Smartest Breeds of Dogs",
+      "Best Guard Dogs"
+    ],
+    "traits": {
+      "adaptabilityLevel": 3,
+      "affectionateWithFamily": 5,
+      "barkingLevel": 3,
+      "coatGroomingFrequency": 1,
+      "coatLength": [],
+      "coatType": [],
+      "droolingLevel": 1,
+      "energyLevel": 3,
+      "goodWithOtherDogs": 5,
+      "goodWithYoungChildren": 5,
+      "mentalStimulationNeeds": 1,
+      "opennessToStrangers": 1,
+      "playfulnessLevel": 3,
+      "sheddingLevel": 3,
+      "trainabilityLevel": 3,
+      "watchdogProtectiveNature": 3
+    },
+    "sizeCategory": "large",
+    "isFluffy": false
   },
   {
     "akcId": "23905",
@@ -646,7 +3063,42 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/canaan-dog/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2017/11/Canaan-Dog-On-White-01-400x267.jpg",
     "imageAlt": "Canaan Dog",
-    "imagePath": "assets/images/canaan-dog.jpg"
+    "imagePath": "assets/images/canaan-dog.jpg",
+    "breedGroup": "Herding Group",
+    "origin": "Israel",
+    "temperament": "alert / vigilant / confident",
+    "lifeExpectancy": "12-15 years",
+    "height": "20-24 inches (male), 19-23 inches (female)",
+    "weight": "45-55 pounds (male), 35-45 pounds (female)",
+    "relatedCharacteristics": [
+      "Medium Dog Breeds",
+      "Best Guard Dogs"
+    ],
+    "traits": {
+      "adaptabilityLevel": 3,
+      "affectionateWithFamily": 3,
+      "barkingLevel": 5,
+      "coatGroomingFrequency": 2,
+      "coatLength": [
+        "Short"
+      ],
+      "coatType": [
+        "Double",
+        "Smooth"
+      ],
+      "droolingLevel": 1,
+      "energyLevel": 3,
+      "goodWithOtherDogs": 3,
+      "goodWithYoungChildren": 3,
+      "mentalStimulationNeeds": 3,
+      "opennessToStrangers": 3,
+      "playfulnessLevel": 3,
+      "sheddingLevel": 4,
+      "trainabilityLevel": 4,
+      "watchdogProtectiveNature": 4
+    },
+    "sizeCategory": "large",
+    "isFluffy": true
   },
   {
     "akcId": "198099",
@@ -655,7 +3107,36 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/canadian-eskimo-dog/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2025/01/Canadian-Eskimo-Dog-playing-yard-400x267.jpg",
     "imageAlt": "Canadian Eskimo Dog",
-    "imagePath": "assets/images/canadian-eskimo-dog.jpg"
+    "imagePath": "assets/images/canadian-eskimo-dog.jpg",
+    "breedGroup": "Foundation Stock Service",
+    "origin": "Canada",
+    "temperament": "loyal / intelligent / affectionate",
+    "lifeExpectancy": "10-15 years",
+    "height": "23-27.5 males; 19.5-23.5 females inches",
+    "weight": "66-88 males; 40-66 females",
+    "relatedCharacteristics": [
+      "Best Family Dogs"
+    ],
+    "traits": {
+      "adaptabilityLevel": 3,
+      "affectionateWithFamily": 3,
+      "barkingLevel": 0,
+      "coatGroomingFrequency": 5,
+      "coatLength": [],
+      "coatType": [],
+      "droolingLevel": 1,
+      "energyLevel": 5,
+      "goodWithOtherDogs": 3,
+      "goodWithYoungChildren": 3,
+      "mentalStimulationNeeds": 5,
+      "opennessToStrangers": 5,
+      "playfulnessLevel": 5,
+      "sheddingLevel": 5,
+      "trainabilityLevel": 3,
+      "watchdogProtectiveNature": 1
+    },
+    "sizeCategory": "large",
+    "isFluffy": false
   },
   {
     "akcId": "23914",
@@ -664,7 +3145,40 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/cane-corso/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2017/11/Cane-Corso-AKC-121516-296-400x267.jpg",
     "imageAlt": "Cane Corso",
-    "imagePath": "assets/images/cane-corso.jpg"
+    "imagePath": "assets/images/cane-corso.jpg",
+    "breedGroup": "Working Group",
+    "origin": "Italy",
+    "temperament": "intelligent / affectionate / majestic",
+    "lifeExpectancy": "9-12 years",
+    "height": "25-27.5 inches (male), 23.5-26 inches (female)",
+    "weight": "Proportionate to height",
+    "relatedCharacteristics": [
+      "Largest Dog Breeds"
+    ],
+    "traits": {
+      "adaptabilityLevel": 3,
+      "affectionateWithFamily": 4,
+      "barkingLevel": 3,
+      "coatGroomingFrequency": 1,
+      "coatLength": [
+        "Short"
+      ],
+      "coatType": [
+        "Smooth"
+      ],
+      "droolingLevel": 3,
+      "energyLevel": 4,
+      "goodWithOtherDogs": 3,
+      "goodWithYoungChildren": 3,
+      "mentalStimulationNeeds": 3,
+      "opennessToStrangers": 3,
+      "playfulnessLevel": 3,
+      "sheddingLevel": 2,
+      "trainabilityLevel": 4,
+      "watchdogProtectiveNature": 5
+    },
+    "sizeCategory": "unknown",
+    "isFluffy": false
   },
   {
     "akcId": "23929",
@@ -673,7 +3187,40 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/cardigan-welsh-corgi/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2017/11/Cardigan-Welsh-Corgi-on-White-111-400x267.jpg",
     "imageAlt": "Cardigan Welsh Corgi",
-    "imagePath": "assets/images/cardigan-welsh-corgi.jpg"
+    "imagePath": "assets/images/cardigan-welsh-corgi.jpg",
+    "breedGroup": "Herding Group",
+    "origin": "Wales",
+    "temperament": "loyal / affectionate / smart",
+    "lifeExpectancy": "12-15 years",
+    "height": "10.5-12.5 inches",
+    "weight": "30-38 pounds (male), 25-34 pounds (female)",
+    "relatedCharacteristics": [
+      "Smallest Dog Breeds"
+    ],
+    "traits": {
+      "adaptabilityLevel": 3,
+      "affectionateWithFamily": 4,
+      "barkingLevel": 5,
+      "coatGroomingFrequency": 2,
+      "coatLength": [
+        "Medium"
+      ],
+      "coatType": [
+        "Double"
+      ],
+      "droolingLevel": 1,
+      "energyLevel": 4,
+      "goodWithOtherDogs": 3,
+      "goodWithYoungChildren": 4,
+      "mentalStimulationNeeds": 4,
+      "opennessToStrangers": 4,
+      "playfulnessLevel": 4,
+      "sheddingLevel": 3,
+      "trainabilityLevel": 4,
+      "watchdogProtectiveNature": 3
+    },
+    "sizeCategory": "medium",
+    "isFluffy": true
   },
   {
     "akcId": "23944",
@@ -682,7 +3229,40 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/carolina-dog/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2017/11/Carolina-Dog-standing-outdoors-400x267.jpg",
     "imageAlt": "Carolina Dog",
-    "imagePath": "assets/images/carolina-dog.jpg"
+    "imagePath": "assets/images/carolina-dog.jpg",
+    "breedGroup": "Foundation Stock Service",
+    "origin": "United States",
+    "temperament": "independent / loyal / reserved with strangers",
+    "lifeExpectancy": "12-15 years",
+    "height": "17.75-19.5 inches",
+    "weight": "30-55 pounds",
+    "relatedCharacteristics": [
+      "Medium Dog Breeds"
+    ],
+    "traits": {
+      "adaptabilityLevel": 3,
+      "affectionateWithFamily": 3,
+      "barkingLevel": 3,
+      "coatGroomingFrequency": 1,
+      "coatLength": [
+        "Short"
+      ],
+      "coatType": [
+        "Smooth"
+      ],
+      "droolingLevel": 2,
+      "energyLevel": 3,
+      "goodWithOtherDogs": 3,
+      "goodWithYoungChildren": 3,
+      "mentalStimulationNeeds": 3,
+      "opennessToStrangers": 3,
+      "playfulnessLevel": 3,
+      "sheddingLevel": 3,
+      "trainabilityLevel": 3,
+      "watchdogProtectiveNature": 3
+    },
+    "sizeCategory": "large",
+    "isFluffy": false
   },
   {
     "akcId": "23946",
@@ -691,7 +3271,41 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/catahoula-leopard-dog/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2017/11/Catahoula-Leopard-Dog-on-White-02-400x267.jpg",
     "imageAlt": "Catahoula Leopard Dog",
-    "imagePath": "assets/images/catahoula-leopard-dog.jpg"
+    "imagePath": "assets/images/catahoula-leopard-dog.jpg",
+    "breedGroup": "Foundation Stock Service",
+    "origin": "United States",
+    "temperament": "independent / loyal / watchful",
+    "lifeExpectancy": "10-14 years",
+    "height": "22-24 inches",
+    "weight": "50-95 pounds",
+    "relatedCharacteristics": [
+      "Largest Dog Breeds",
+      "Best Guard Dogs"
+    ],
+    "traits": {
+      "adaptabilityLevel": 3,
+      "affectionateWithFamily": 4,
+      "barkingLevel": 1,
+      "coatGroomingFrequency": 2,
+      "coatLength": [
+        "Short"
+      ],
+      "coatType": [
+        "Smooth"
+      ],
+      "droolingLevel": 2,
+      "energyLevel": 5,
+      "goodWithOtherDogs": 3,
+      "goodWithYoungChildren": 3,
+      "mentalStimulationNeeds": 4,
+      "opennessToStrangers": 3,
+      "playfulnessLevel": 3,
+      "sheddingLevel": 3,
+      "trainabilityLevel": 4,
+      "watchdogProtectiveNature": 4
+    },
+    "sizeCategory": "large",
+    "isFluffy": false
   },
   {
     "akcId": "23949",
@@ -700,7 +3314,41 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/caucasian-shepherd-dog/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2017/11/GettyImages-1095398138-400x267.jpg",
     "imageAlt": "Caucasian Shepherd Dog",
-    "imagePath": "assets/images/caucasian-shepherd-dog.jpg"
+    "imagePath": "assets/images/caucasian-shepherd-dog.jpg",
+    "breedGroup": "Foundation Stock Service",
+    "origin": "Georgia",
+    "temperament": "fearless / bold / kind",
+    "lifeExpectancy": "10-12 years",
+    "height": "23-30 inches",
+    "weight": "99-170 pounds",
+    "relatedCharacteristics": [
+      "Largest Dog Breeds",
+      "Best Guard Dogs"
+    ],
+    "traits": {
+      "adaptabilityLevel": 3,
+      "affectionateWithFamily": 3,
+      "barkingLevel": 2,
+      "coatGroomingFrequency": 3,
+      "coatLength": [
+        "Medium"
+      ],
+      "coatType": [
+        "Double"
+      ],
+      "droolingLevel": 4,
+      "energyLevel": 3,
+      "goodWithOtherDogs": 2,
+      "goodWithYoungChildren": 3,
+      "mentalStimulationNeeds": 3,
+      "opennessToStrangers": 2,
+      "playfulnessLevel": 2,
+      "sheddingLevel": 4,
+      "trainabilityLevel": 3,
+      "watchdogProtectiveNature": 5
+    },
+    "sizeCategory": "large",
+    "isFluffy": true
   },
   {
     "akcId": "23951",
@@ -709,7 +3357,42 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/cavalier-king-charles-spaniel/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2017/11/Cavalier-King-Charles-Spaniel-standing-in-the-grass-400x267.jpg",
     "imageAlt": "Cavalier King Charles Spaniel",
-    "imagePath": "assets/images/cavalier-king-charles-spaniel.jpg"
+    "imagePath": "assets/images/cavalier-king-charles-spaniel.jpg",
+    "breedGroup": "Toy Group",
+    "origin": "England",
+    "temperament": "affectionate / gentle / graceful",
+    "lifeExpectancy": "12-15 years",
+    "height": "12-13 inches",
+    "weight": "13-18 pounds",
+    "relatedCharacteristics": [
+      "Smallest Dog Breeds",
+      "Best Dogs for Apartment Dwellers"
+    ],
+    "traits": {
+      "adaptabilityLevel": 3,
+      "affectionateWithFamily": 5,
+      "barkingLevel": 3,
+      "coatGroomingFrequency": 2,
+      "coatLength": [
+        "Medium"
+      ],
+      "coatType": [
+        "Silky",
+        "Wavy"
+      ],
+      "droolingLevel": 2,
+      "energyLevel": 3,
+      "goodWithOtherDogs": 5,
+      "goodWithYoungChildren": 5,
+      "mentalStimulationNeeds": 3,
+      "opennessToStrangers": 4,
+      "playfulnessLevel": 3,
+      "sheddingLevel": 2,
+      "trainabilityLevel": 4,
+      "watchdogProtectiveNature": 3
+    },
+    "sizeCategory": "small",
+    "isFluffy": true
   },
   {
     "akcId": "23972",
@@ -718,7 +3401,41 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/central-asian-shepherd-dog/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2017/11/Central-Asian-Shepherd-Dog-on-White-02-400x267.jpg",
     "imageAlt": "Central Asian Shepherd Dog",
-    "imagePath": "assets/images/central-asian-shepherd-dog.jpg"
+    "imagePath": "assets/images/central-asian-shepherd-dog.jpg",
+    "breedGroup": "Foundation Stock Service",
+    "origin": "Russia",
+    "temperament": "independent / courageous / self-confident",
+    "lifeExpectancy": " years",
+    "height": "Minimum: 25.5-27.5 inches",
+    "weight": "Minimum: 88-110 pounds",
+    "relatedCharacteristics": [
+      "Largest Dog Breeds",
+      "Best Guard Dogs"
+    ],
+    "traits": {
+      "adaptabilityLevel": 4,
+      "affectionateWithFamily": 3,
+      "barkingLevel": 3,
+      "coatGroomingFrequency": 1,
+      "coatLength": [
+        "Medium"
+      ],
+      "coatType": [
+        "Double"
+      ],
+      "droolingLevel": 3,
+      "energyLevel": 3,
+      "goodWithOtherDogs": 3,
+      "goodWithYoungChildren": 3,
+      "mentalStimulationNeeds": 3,
+      "opennessToStrangers": 1,
+      "playfulnessLevel": 3,
+      "sheddingLevel": 3,
+      "trainabilityLevel": 4,
+      "watchdogProtectiveNature": 5
+    },
+    "sizeCategory": "large",
+    "isFluffy": true
   },
   {
     "akcId": "23975",
@@ -727,7 +3444,44 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/cesky-terrier/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2017/11/Cesky-Terrier-on-White-011-400x267.jpg",
     "imageAlt": "Cesky Terrier",
-    "imagePath": "assets/images/cesky-terrier.jpg"
+    "imagePath": "assets/images/cesky-terrier.jpg",
+    "breedGroup": "Terrier Group",
+    "origin": "Czech Republic",
+    "temperament": "clever / adventurous / family-oriented",
+    "lifeExpectancy": "12-15 years",
+    "height": "10-13 inches",
+    "weight": "14-24 pounds",
+    "relatedCharacteristics": [
+      "Smallest Dog Breeds",
+      "Best Family Dogs",
+      "Best Dog Breeds for Kids",
+      "Best Dogs for Apartment Dwellers"
+    ],
+    "traits": {
+      "adaptabilityLevel": 4,
+      "affectionateWithFamily": 4,
+      "barkingLevel": 3,
+      "coatGroomingFrequency": 2,
+      "coatLength": [
+        "Medium"
+      ],
+      "coatType": [
+        "Silky",
+        "Wavy"
+      ],
+      "droolingLevel": 1,
+      "energyLevel": 3,
+      "goodWithOtherDogs": 3,
+      "goodWithYoungChildren": 5,
+      "mentalStimulationNeeds": 3,
+      "opennessToStrangers": 4,
+      "playfulnessLevel": 3,
+      "sheddingLevel": 2,
+      "trainabilityLevel": 3,
+      "watchdogProtectiveNature": 3
+    },
+    "sizeCategory": "medium",
+    "isFluffy": true
   },
   {
     "akcId": "23990",
@@ -736,7 +3490,42 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/chesapeake-bay-retriever/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2017/11/Chesapeake-Bay-Retriever-hunting-400x267.jpg",
     "imageAlt": "Chesapeake Bay Retriever",
-    "imagePath": "assets/images/chesapeake-bay-retriever.jpg"
+    "imagePath": "assets/images/chesapeake-bay-retriever.jpg",
+    "breedGroup": "Sporting Group",
+    "origin": "United States",
+    "temperament": "bright / affectionate / sensitive",
+    "lifeExpectancy": "10-13 years",
+    "height": "23-26 inches (male), 21-24 inches (female)",
+    "weight": "65-80 pounds (male), 55-70 pounds (female)",
+    "relatedCharacteristics": [
+      "Largest Dog Breeds",
+      "Best Guard Dogs"
+    ],
+    "traits": {
+      "adaptabilityLevel": 4,
+      "affectionateWithFamily": 4,
+      "barkingLevel": 3,
+      "coatGroomingFrequency": 3,
+      "coatLength": [
+        "Medium"
+      ],
+      "coatType": [
+        "Wavy",
+        "Wiry"
+      ],
+      "droolingLevel": 2,
+      "energyLevel": 4,
+      "goodWithOtherDogs": 3,
+      "goodWithYoungChildren": 3,
+      "mentalStimulationNeeds": 4,
+      "opennessToStrangers": 3,
+      "playfulnessLevel": 3,
+      "sheddingLevel": 3,
+      "trainabilityLevel": 5,
+      "watchdogProtectiveNature": 4
+    },
+    "sizeCategory": "large",
+    "isFluffy": true
   },
   {
     "akcId": "24001",
@@ -745,7 +3534,41 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/chihuahua/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2017/11/Chihuahua-standing-in-three-quarter-view-400x267.jpg",
     "imageAlt": "Chihuahua",
-    "imagePath": "assets/images/chihuahua.jpg"
+    "imagePath": "assets/images/chihuahua.jpg",
+    "breedGroup": "Toy Group",
+    "origin": "Mexican State of Chihuahua",
+    "temperament": "charming / graceful / sassy",
+    "lifeExpectancy": "14-16 years",
+    "height": "5-8 inches",
+    "weight": "not exceeding 6 pounds",
+    "relatedCharacteristics": [
+      "Smallest Dog Breeds"
+    ],
+    "traits": {
+      "adaptabilityLevel": 4,
+      "affectionateWithFamily": 4,
+      "barkingLevel": 5,
+      "coatGroomingFrequency": 1,
+      "coatLength": [
+        "Short",
+        "Medium"
+      ],
+      "coatType": [
+        "Smooth"
+      ],
+      "droolingLevel": 1,
+      "energyLevel": 4,
+      "goodWithOtherDogs": 3,
+      "goodWithYoungChildren": 1,
+      "mentalStimulationNeeds": 3,
+      "opennessToStrangers": 2,
+      "playfulnessLevel": 4,
+      "sheddingLevel": 2,
+      "trainabilityLevel": 3,
+      "watchdogProtectiveNature": 4
+    },
+    "sizeCategory": "small",
+    "isFluffy": false
   },
   {
     "akcId": "24016",
@@ -754,7 +3577,44 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/chinese-crested/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2017/11/Chinese-Crested-On-White-01-400x267.jpg",
     "imageAlt": "Chinese Crested",
-    "imagePath": "assets/images/chinese-crested.jpg"
+    "imagePath": "assets/images/chinese-crested.jpg",
+    "breedGroup": "Toy Group",
+    "origin": "Africa/China",
+    "temperament": "alert / lively / affectionate",
+    "lifeExpectancy": "13-18 years",
+    "height": "11-13 inches",
+    "weight": "8-12 pounds",
+    "relatedCharacteristics": [
+      "Smallest Dog Breeds",
+      "Hypoallergenic Dogs",
+      "Best Dogs for Apartment Dwellers"
+    ],
+    "traits": {
+      "adaptabilityLevel": 4,
+      "affectionateWithFamily": 4,
+      "barkingLevel": 3,
+      "coatGroomingFrequency": 2,
+      "coatLength": [
+        "Short",
+        "Medium"
+      ],
+      "coatType": [
+        "Silky",
+        "Hairless"
+      ],
+      "droolingLevel": 1,
+      "energyLevel": 3,
+      "goodWithOtherDogs": 3,
+      "goodWithYoungChildren": 3,
+      "mentalStimulationNeeds": 3,
+      "opennessToStrangers": 4,
+      "playfulnessLevel": 3,
+      "sheddingLevel": 1,
+      "trainabilityLevel": 4,
+      "watchdogProtectiveNature": 3
+    },
+    "sizeCategory": "small",
+    "isFluffy": false
   },
   {
     "akcId": "24031",
@@ -763,7 +3623,38 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/chinese-shar-pei/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2017/11/Chinese-Shar-Pei-standing-on-the-sidewalk-400x267.jpg",
     "imageAlt": "Chinese Shar-Pei",
-    "imagePath": "assets/images/chinese-shar-pei.jpg"
+    "imagePath": "assets/images/chinese-shar-pei.jpg",
+    "breedGroup": "Non-Sporting Group",
+    "origin": "China",
+    "temperament": "independent / loyal / calm",
+    "lifeExpectancy": "8-12 years",
+    "height": "18-20 inches",
+    "weight": "45-60 pounds",
+    "relatedCharacteristics": [],
+    "traits": {
+      "adaptabilityLevel": 4,
+      "affectionateWithFamily": 4,
+      "barkingLevel": 3,
+      "coatGroomingFrequency": 1,
+      "coatLength": [
+        "Short"
+      ],
+      "coatType": [
+        "Smooth"
+      ],
+      "droolingLevel": 3,
+      "energyLevel": 3,
+      "goodWithOtherDogs": 3,
+      "goodWithYoungChildren": 3,
+      "mentalStimulationNeeds": 3,
+      "opennessToStrangers": 3,
+      "playfulnessLevel": 3,
+      "sheddingLevel": 3,
+      "trainabilityLevel": 3,
+      "watchdogProtectiveNature": 4
+    },
+    "sizeCategory": "large",
+    "isFluffy": false
   },
   {
     "akcId": "24045",
@@ -772,7 +3663,43 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/chinook/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2017/11/Chinook-On-White-03-400x267.jpg",
     "imageAlt": "Chinook",
-    "imagePath": "assets/images/chinook.jpg"
+    "imagePath": "assets/images/chinook.jpg",
+    "breedGroup": "Working Group",
+    "origin": "United States",
+    "temperament": "devoted / smart / patient",
+    "lifeExpectancy": "12-15 years",
+    "height": "24-26 inches (male), 22-24 inches (female)",
+    "weight": "55-90 pounds (male), 50-65 pounds (female)",
+    "relatedCharacteristics": [
+      "Best Family Dogs",
+      "Best Dog Breeds for Kids",
+      "Smartest Breeds of Dogs",
+      "Largest Dog Breeds"
+    ],
+    "traits": {
+      "adaptabilityLevel": 4,
+      "affectionateWithFamily": 4,
+      "barkingLevel": 5,
+      "coatGroomingFrequency": 3,
+      "coatLength": [
+        "Medium"
+      ],
+      "coatType": [
+        "Smooth"
+      ],
+      "droolingLevel": 1,
+      "energyLevel": 3,
+      "goodWithOtherDogs": 5,
+      "goodWithYoungChildren": 5,
+      "mentalStimulationNeeds": 3,
+      "opennessToStrangers": 3,
+      "playfulnessLevel": 3,
+      "sheddingLevel": 3,
+      "trainabilityLevel": 4,
+      "watchdogProtectiveNature": 4
+    },
+    "sizeCategory": "large",
+    "isFluffy": false
   },
   {
     "akcId": "24060",
@@ -781,7 +3708,42 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/chow-chow/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2017/11/Chow-Chow-On-White-01-400x267.jpg",
     "imageAlt": "Chow Chow",
-    "imagePath": "assets/images/chow-chow.jpg"
+    "imagePath": "assets/images/chow-chow.jpg",
+    "breedGroup": "Non-Sporting Group",
+    "origin": "China",
+    "temperament": "dignified / bright / serious-minded",
+    "lifeExpectancy": "8-12 years",
+    "height": "17-20 inches",
+    "weight": "45-70 pounds",
+    "relatedCharacteristics": [
+      "Medium Dog Breeds"
+    ],
+    "traits": {
+      "adaptabilityLevel": 3,
+      "affectionateWithFamily": 4,
+      "barkingLevel": 1,
+      "coatGroomingFrequency": 3,
+      "coatLength": [
+        "Medium"
+      ],
+      "coatType": [
+        "Double",
+        "Rough",
+        "Smooth"
+      ],
+      "droolingLevel": 3,
+      "energyLevel": 3,
+      "goodWithOtherDogs": 2,
+      "goodWithYoungChildren": 3,
+      "mentalStimulationNeeds": 3,
+      "opennessToStrangers": 2,
+      "playfulnessLevel": 3,
+      "sheddingLevel": 3,
+      "trainabilityLevel": 3,
+      "watchdogProtectiveNature": 5
+    },
+    "sizeCategory": "large",
+    "isFluffy": true
   },
   {
     "akcId": "24075",
@@ -790,7 +3752,40 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/cirneco-delletna/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2017/11/Cirneco-dellEtna-hunting-400x267.jpg",
     "imageAlt": "Cirneco dell’Etna",
-    "imagePath": "assets/images/cirneco-delletna.jpg"
+    "imagePath": "assets/images/cirneco-delletna.jpg",
+    "breedGroup": "Hound Group",
+    "origin": "Sicily",
+    "temperament": "independent / friendly / affectionate",
+    "lifeExpectancy": "15-16 years",
+    "height": "18-20 inches (male), 17-19 inches (female)",
+    "weight": "20-28 pounds (male), 19-25 pounds (female)",
+    "relatedCharacteristics": [
+      "Smallest Dog Breeds"
+    ],
+    "traits": {
+      "adaptabilityLevel": 4,
+      "affectionateWithFamily": 4,
+      "barkingLevel": 2,
+      "coatGroomingFrequency": 1,
+      "coatLength": [
+        "Short"
+      ],
+      "coatType": [
+        "Smooth"
+      ],
+      "droolingLevel": 0,
+      "energyLevel": 3,
+      "goodWithOtherDogs": 4,
+      "goodWithYoungChildren": 4,
+      "mentalStimulationNeeds": 4,
+      "opennessToStrangers": 4,
+      "playfulnessLevel": 4,
+      "sheddingLevel": 1,
+      "trainabilityLevel": 4,
+      "watchdogProtectiveNature": 3
+    },
+    "sizeCategory": "medium",
+    "isFluffy": false
   },
   {
     "akcId": "24077",
@@ -799,7 +3794,41 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/clumber-spaniel/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2017/11/Clumber-Spaniel-On-White-011-400x267.jpg",
     "imageAlt": "Clumber Spaniel",
-    "imagePath": "assets/images/clumber-spaniel.jpg"
+    "imagePath": "assets/images/clumber-spaniel.jpg",
+    "breedGroup": "Sporting Group",
+    "origin": "England",
+    "temperament": "mellow / amusing / gentlemanly",
+    "lifeExpectancy": "10-12 years",
+    "height": "18-20 inches (male), 17-19 inches (female)",
+    "weight": "70-85 pounds (male), 55-70 pounds (female)",
+    "relatedCharacteristics": [
+      "Medium Dog Breeds"
+    ],
+    "traits": {
+      "adaptabilityLevel": 4,
+      "affectionateWithFamily": 4,
+      "barkingLevel": 1,
+      "coatGroomingFrequency": 2,
+      "coatLength": [
+        "Medium"
+      ],
+      "coatType": [
+        "Silky",
+        "Wavy"
+      ],
+      "droolingLevel": 4,
+      "energyLevel": 3,
+      "goodWithOtherDogs": 3,
+      "goodWithYoungChildren": 3,
+      "mentalStimulationNeeds": 3,
+      "opennessToStrangers": 4,
+      "playfulnessLevel": 3,
+      "sheddingLevel": 3,
+      "trainabilityLevel": 4,
+      "watchdogProtectiveNature": 3
+    },
+    "sizeCategory": "large",
+    "isFluffy": true
   },
   {
     "akcId": "24092",
@@ -808,7 +3837,41 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/cocker-spaniel/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2017/11/Cocker-Spaniel-running-in-the-yard-400x267.jpg",
     "imageAlt": "Cocker Spaniel",
-    "imagePath": "assets/images/cocker-spaniel.jpg"
+    "imagePath": "assets/images/cocker-spaniel.jpg",
+    "breedGroup": "Sporting Group",
+    "origin": "England",
+    "temperament": "smart / happy / gentle",
+    "lifeExpectancy": "10-14 years",
+    "height": "14.5-15.5 inches (male), 13.5-14.5 inches (female)",
+    "weight": "25-30 pounds (male), 20-25 pounds (female)",
+    "relatedCharacteristics": [
+      "Smallest Dog Breeds"
+    ],
+    "traits": {
+      "adaptabilityLevel": 4,
+      "affectionateWithFamily": 4,
+      "barkingLevel": 3,
+      "coatGroomingFrequency": 4,
+      "coatLength": [
+        "Long"
+      ],
+      "coatType": [
+        "Silky",
+        "Double"
+      ],
+      "droolingLevel": 2,
+      "energyLevel": 4,
+      "goodWithOtherDogs": 5,
+      "goodWithYoungChildren": 5,
+      "mentalStimulationNeeds": 3,
+      "opennessToStrangers": 4,
+      "playfulnessLevel": 3,
+      "sheddingLevel": 3,
+      "trainabilityLevel": 4,
+      "watchdogProtectiveNature": 3
+    },
+    "sizeCategory": "medium",
+    "isFluffy": true
   },
   {
     "akcId": "24112",
@@ -817,7 +3880,44 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/collie/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2017/11/Collie-standing-in-a-field-400x267.jpg",
     "imageAlt": "Collie",
-    "imagePath": "assets/images/collie.jpg"
+    "imagePath": "assets/images/collie.jpg",
+    "breedGroup": "Herding Group",
+    "origin": "Scotland and Northern England",
+    "temperament": "devoted / proud / graceful",
+    "lifeExpectancy": "12-14 years",
+    "height": "24-26 inches (male), 22-24 inches (female)",
+    "weight": "60-75 pounds (male), 50-65 pounds (female)",
+    "relatedCharacteristics": [
+      "Best Family Dogs",
+      "Best Dog Breeds for Kids",
+      "Medium Dog Breeds"
+    ],
+    "traits": {
+      "adaptabilityLevel": 4,
+      "affectionateWithFamily": 4,
+      "barkingLevel": 5,
+      "coatGroomingFrequency": 3,
+      "coatLength": [
+        "Short",
+        "Long"
+      ],
+      "coatType": [
+        "Rough",
+        "Smooth"
+      ],
+      "droolingLevel": 2,
+      "energyLevel": 3,
+      "goodWithOtherDogs": 3,
+      "goodWithYoungChildren": 5,
+      "mentalStimulationNeeds": 3,
+      "opennessToStrangers": 3,
+      "playfulnessLevel": 4,
+      "sheddingLevel": 3,
+      "trainabilityLevel": 4,
+      "watchdogProtectiveNature": 3
+    },
+    "sizeCategory": "large",
+    "isFluffy": true
   },
   {
     "akcId": "24132",
@@ -826,7 +3926,41 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/coton-de-tulear/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2017/11/Coton-de-Tulear-standing-in-the-grass-400x267.jpg",
     "imageAlt": "Coton de Tulear",
-    "imagePath": "assets/images/coton-de-tulear.jpg"
+    "imagePath": "assets/images/coton-de-tulear.jpg",
+    "breedGroup": "Non-Sporting Group",
+    "origin": "Madagascar",
+    "temperament": "charming / bright / happy-go-lucky",
+    "lifeExpectancy": "15-19 years",
+    "height": "10-11 inches (male), 9-10 inches (female)",
+    "weight": "9-15 pounds (male), 8-13 pounds (female)",
+    "relatedCharacteristics": [
+      "Hypoallergenic Dogs"
+    ],
+    "traits": {
+      "adaptabilityLevel": 4,
+      "affectionateWithFamily": 5,
+      "barkingLevel": 1,
+      "coatGroomingFrequency": 4,
+      "coatLength": [
+        "Long"
+      ],
+      "coatType": [
+        "Wavy",
+        "Double"
+      ],
+      "droolingLevel": 1,
+      "energyLevel": 3,
+      "goodWithOtherDogs": 5,
+      "goodWithYoungChildren": 5,
+      "mentalStimulationNeeds": 3,
+      "opennessToStrangers": 5,
+      "playfulnessLevel": 4,
+      "sheddingLevel": 2,
+      "trainabilityLevel": 4,
+      "watchdogProtectiveNature": 3
+    },
+    "sizeCategory": "small",
+    "isFluffy": true
   },
   {
     "akcId": "48326",
@@ -835,7 +3969,41 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/croatian-sheepdog/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2018/05/Croatian-Sheepdog-400x267.jpg",
     "imageAlt": "Croatian Sheepdog",
-    "imagePath": "assets/images/croatian-sheepdog.jpg"
+    "imagePath": "assets/images/croatian-sheepdog.jpg",
+    "breedGroup": "Foundation Stock Service",
+    "origin": "Croatia",
+    "temperament": "loyal / active / alert and intelligent",
+    "lifeExpectancy": "13-14 years",
+    "height": "16-20 inches",
+    "weight": "29-44 pounds",
+    "relatedCharacteristics": [
+      "Medium Dog Breeds"
+    ],
+    "traits": {
+      "adaptabilityLevel": 2,
+      "affectionateWithFamily": 3,
+      "barkingLevel": 3,
+      "coatGroomingFrequency": 1,
+      "coatLength": [
+        "Medium"
+      ],
+      "coatType": [
+        "Wavy",
+        "Double"
+      ],
+      "droolingLevel": 3,
+      "energyLevel": 3,
+      "goodWithOtherDogs": 3,
+      "goodWithYoungChildren": 3,
+      "mentalStimulationNeeds": 3,
+      "opennessToStrangers": 2,
+      "playfulnessLevel": 3,
+      "sheddingLevel": 2,
+      "trainabilityLevel": 3,
+      "watchdogProtectiveNature": 5
+    },
+    "sizeCategory": "medium",
+    "isFluffy": true
   },
   {
     "akcId": "24146",
@@ -844,7 +4012,41 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/curly-coated-retriever/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2017/11/Curly-Coated-Retriever-standing-stacked-in-a-field-at-sunset.20200418030641387-400x267.jpg",
     "imageAlt": "Curly-Coated Retriever",
-    "imagePath": "assets/images/curly-coated-retriever.jpg"
+    "imagePath": "assets/images/curly-coated-retriever.jpg",
+    "breedGroup": "Sporting Group",
+    "origin": "England",
+    "temperament": "confident / proud / wickedly smart",
+    "lifeExpectancy": "10-12 years",
+    "height": "25-27 inches (male), 23-25 inches (female)",
+    "weight": "60-95 pounds",
+    "relatedCharacteristics": [
+      "Largest Dog Breeds"
+    ],
+    "traits": {
+      "adaptabilityLevel": 4,
+      "affectionateWithFamily": 5,
+      "barkingLevel": 3,
+      "coatGroomingFrequency": 1,
+      "coatLength": [
+        "Short"
+      ],
+      "coatType": [
+        "Curly",
+        "Double"
+      ],
+      "droolingLevel": 1,
+      "energyLevel": 4,
+      "goodWithOtherDogs": 3,
+      "goodWithYoungChildren": 5,
+      "mentalStimulationNeeds": 3,
+      "opennessToStrangers": 3,
+      "playfulnessLevel": 4,
+      "sheddingLevel": 2,
+      "trainabilityLevel": 4,
+      "watchdogProtectiveNature": 4
+    },
+    "sizeCategory": "large",
+    "isFluffy": true
   },
   {
     "akcId": "24160",
@@ -853,7 +4055,38 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/czechoslovakian-vlciak/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2017/11/Czechoslovakian-Vlcak.179296809-400x267.jpg",
     "imageAlt": "Czechoslovakian Vlciak",
-    "imagePath": "assets/images/czechoslovakian-vlciak.jpg"
+    "imagePath": "assets/images/czechoslovakian-vlciak.jpg",
+    "breedGroup": "Miscellaneous Class",
+    "origin": "Czechoslovakia",
+    "temperament": "loyal / intelligent / active",
+    "lifeExpectancy": "12-16 years",
+    "height": "Minimum: 25.5 males; 23.5 females",
+    "weight": "Minimum: 57 males; 44 females",
+    "relatedCharacteristics": [
+      "Medium Dog Breeds"
+    ],
+    "traits": {
+      "adaptabilityLevel": 1,
+      "affectionateWithFamily": 5,
+      "barkingLevel": 1,
+      "coatGroomingFrequency": 1,
+      "coatLength": [
+        "Medium"
+      ],
+      "coatType": [],
+      "droolingLevel": 1,
+      "energyLevel": 5,
+      "goodWithOtherDogs": 3,
+      "goodWithYoungChildren": 3,
+      "mentalStimulationNeeds": 5,
+      "opennessToStrangers": 1,
+      "playfulnessLevel": 1,
+      "sheddingLevel": 3,
+      "trainabilityLevel": 1,
+      "watchdogProtectiveNature": 5
+    },
+    "sizeCategory": "large",
+    "isFluffy": false
   },
   {
     "akcId": "24162",
@@ -862,7 +4095,41 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/dachshund/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2017/11/Longhaired-Dachshund-standing-outdoors-400x267.jpg",
     "imageAlt": "Dachshund",
-    "imagePath": "assets/images/dachshund.jpg"
+    "imagePath": "assets/images/dachshund.jpg",
+    "breedGroup": "Hound Group",
+    "origin": "Germany",
+    "temperament": "curious / friendly / spunky",
+    "lifeExpectancy": "12-16 years",
+    "height": "8-9 inches (standard), 5-6 inches (miniature)",
+    "weight": "16-32 pounds (standard), 11 pounds & under (miniature)",
+    "relatedCharacteristics": [
+      "Smallest Dog Breeds"
+    ],
+    "traits": {
+      "adaptabilityLevel": 4,
+      "affectionateWithFamily": 5,
+      "barkingLevel": 5,
+      "coatGroomingFrequency": 2,
+      "coatLength": [
+        "Short",
+        "Medium"
+      ],
+      "coatType": [
+        "Smooth"
+      ],
+      "droolingLevel": 2,
+      "energyLevel": 3,
+      "goodWithOtherDogs": 4,
+      "goodWithYoungChildren": 3,
+      "mentalStimulationNeeds": 3,
+      "opennessToStrangers": 4,
+      "playfulnessLevel": 4,
+      "sheddingLevel": 2,
+      "trainabilityLevel": 4,
+      "watchdogProtectiveNature": 4
+    },
+    "sizeCategory": "medium",
+    "isFluffy": false
   },
   {
     "akcId": "24183",
@@ -871,7 +4138,40 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/dalmatian/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2017/11/Dalmatian-On-White-01-400x267.jpg",
     "imageAlt": "Dalmatian",
-    "imagePath": "assets/images/dalmatian.jpg"
+    "imagePath": "assets/images/dalmatian.jpg",
+    "breedGroup": "Non-Sporting Group",
+    "origin": "Dalmatia (today, Croatia)",
+    "temperament": "dignified / outgoing / smart",
+    "lifeExpectancy": "11-13 years",
+    "height": "19-24 inches",
+    "weight": "45-70 pounds",
+    "relatedCharacteristics": [
+      "Medium Dog Breeds"
+    ],
+    "traits": {
+      "adaptabilityLevel": 4,
+      "affectionateWithFamily": 5,
+      "barkingLevel": 3,
+      "coatGroomingFrequency": 2,
+      "coatLength": [
+        "Short"
+      ],
+      "coatType": [
+        "Smooth"
+      ],
+      "droolingLevel": 2,
+      "energyLevel": 4,
+      "goodWithOtherDogs": 3,
+      "goodWithYoungChildren": 3,
+      "mentalStimulationNeeds": 4,
+      "opennessToStrangers": 4,
+      "playfulnessLevel": 4,
+      "sheddingLevel": 4,
+      "trainabilityLevel": 4,
+      "watchdogProtectiveNature": 4
+    },
+    "sizeCategory": "large",
+    "isFluffy": false
   },
   {
     "akcId": "24198",
@@ -880,7 +4180,38 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/dandie-dinmont-terrier/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2017/11/Dandie-Dinmont-Terrier-slide-6-400x267.jpg",
     "imageAlt": "Dandie Dinmont Terrier",
-    "imagePath": "assets/images/dandie-dinmont-terrier.jpg"
+    "imagePath": "assets/images/dandie-dinmont-terrier.jpg",
+    "breedGroup": "Terrier Group",
+    "origin": "English-Scottish border",
+    "temperament": "independent / proud / smart",
+    "lifeExpectancy": "12-15 years",
+    "height": "8-11 inches",
+    "weight": "18-24 pounds",
+    "relatedCharacteristics": [],
+    "traits": {
+      "adaptabilityLevel": 3,
+      "affectionateWithFamily": 4,
+      "barkingLevel": 3,
+      "coatGroomingFrequency": 3,
+      "coatLength": [
+        "Medium"
+      ],
+      "coatType": [
+        "Double"
+      ],
+      "droolingLevel": 1,
+      "energyLevel": 3,
+      "goodWithOtherDogs": 3,
+      "goodWithYoungChildren": 3,
+      "mentalStimulationNeeds": 3,
+      "opennessToStrangers": 4,
+      "playfulnessLevel": 3,
+      "sheddingLevel": 2,
+      "trainabilityLevel": 4,
+      "watchdogProtectiveNature": 4
+    },
+    "sizeCategory": "medium",
+    "isFluffy": true
   },
   {
     "akcId": "24211",
@@ -889,7 +4220,40 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/danish-swedish-farmdog/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2017/11/Danish-Swedish-Farmdog-standing-outdoors-at-dusk-400x267.jpg",
     "imageAlt": "Danish-Swedish Farmdog",
-    "imagePath": "assets/images/danish-swedish-farmdog.jpg"
+    "imagePath": "assets/images/danish-swedish-farmdog.jpg",
+    "breedGroup": "Working Group",
+    "origin": "Denmark/Sweden",
+    "temperament": "energetic / trainable / attentive",
+    "lifeExpectancy": "11-13 years",
+    "height": "12.5-14.5 inches",
+    "weight": "15-20 pounds",
+    "relatedCharacteristics": [
+      "Smallest Dog Breeds"
+    ],
+    "traits": {
+      "adaptabilityLevel": 4,
+      "affectionateWithFamily": 5,
+      "barkingLevel": 3,
+      "coatGroomingFrequency": 1,
+      "coatLength": [
+        "Short"
+      ],
+      "coatType": [
+        "Smooth"
+      ],
+      "droolingLevel": 1,
+      "energyLevel": 4,
+      "goodWithOtherDogs": 5,
+      "goodWithYoungChildren": 5,
+      "mentalStimulationNeeds": 4,
+      "opennessToStrangers": 5,
+      "playfulnessLevel": 4,
+      "sheddingLevel": 2,
+      "trainabilityLevel": 4,
+      "watchdogProtectiveNature": 4
+    },
+    "sizeCategory": "small",
+    "isFluffy": false
   },
   {
     "akcId": "24213",
@@ -898,7 +4262,41 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/deutscher-wachtelhund/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2017/11/AdobeStock_1083293871-400x267.jpg",
     "imageAlt": "Deutscher Wachtelhund",
-    "imagePath": "assets/images/deutscher-wachtelhund.jpg"
+    "imagePath": "assets/images/deutscher-wachtelhund.jpg",
+    "breedGroup": "Foundation Stock Service",
+    "origin": "Germany",
+    "temperament": "friendly / versatile / determined",
+    "lifeExpectancy": "12-14 years",
+    "height": "18-21 inches",
+    "weight": "40-55 pounds",
+    "relatedCharacteristics": [
+      "Medium Dog Breeds"
+    ],
+    "traits": {
+      "adaptabilityLevel": 3,
+      "affectionateWithFamily": 4,
+      "barkingLevel": 3,
+      "coatGroomingFrequency": 2,
+      "coatLength": [
+        "Medium"
+      ],
+      "coatType": [
+        "Wavy",
+        "Double"
+      ],
+      "droolingLevel": 2,
+      "energyLevel": 3,
+      "goodWithOtherDogs": 3,
+      "goodWithYoungChildren": 5,
+      "mentalStimulationNeeds": 3,
+      "opennessToStrangers": 3,
+      "playfulnessLevel": 3,
+      "sheddingLevel": 2,
+      "trainabilityLevel": 4,
+      "watchdogProtectiveNature": 3
+    },
+    "sizeCategory": "large",
+    "isFluffy": true
   },
   {
     "akcId": "24216",
@@ -907,7 +4305,42 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/doberman-pinscher/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2017/11/Doberman-Pinscher-standing-outdoors-400x267.jpg",
     "imageAlt": "Doberman Pinscher",
-    "imagePath": "assets/images/doberman-pinscher.jpg"
+    "imagePath": "assets/images/doberman-pinscher.jpg",
+    "breedGroup": "Working Group",
+    "origin": "Germany",
+    "temperament": "alert / loyal / fearless",
+    "lifeExpectancy": "10-12 years",
+    "height": "26-28 inches (male), 24-26 inches (female)",
+    "weight": "75-100 pounds (male), 60-90 pounds (female)",
+    "relatedCharacteristics": [
+      "Smartest Breeds of Dogs",
+      "Largest Dog Breeds",
+      "Best Guard Dogs"
+    ],
+    "traits": {
+      "adaptabilityLevel": 4,
+      "affectionateWithFamily": 5,
+      "barkingLevel": 3,
+      "coatGroomingFrequency": 1,
+      "coatLength": [
+        "Short"
+      ],
+      "coatType": [
+        "Smooth"
+      ],
+      "droolingLevel": 2,
+      "energyLevel": 5,
+      "goodWithOtherDogs": 3,
+      "goodWithYoungChildren": 5,
+      "mentalStimulationNeeds": 4,
+      "opennessToStrangers": 4,
+      "playfulnessLevel": 4,
+      "sheddingLevel": 4,
+      "trainabilityLevel": 5,
+      "watchdogProtectiveNature": 5
+    },
+    "sizeCategory": "large",
+    "isFluffy": false
   },
   {
     "akcId": "24238",
@@ -916,7 +4349,40 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/dogo-argentino/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2017/11/Dogo-Argentino-400x267.jpg",
     "imageAlt": "Dogo Argentino",
-    "imagePath": "assets/images/dogo-argentino.jpg"
+    "imagePath": "assets/images/dogo-argentino.jpg",
+    "breedGroup": "Working Group",
+    "origin": "Argentina",
+    "temperament": "loyal / courageous / athletic",
+    "lifeExpectancy": "9-15 years",
+    "height": "24-26.5 inches (male), 24-25.5 inches (female)",
+    "weight": "80-100 pounds",
+    "relatedCharacteristics": [
+      "Largest Dog Breeds"
+    ],
+    "traits": {
+      "adaptabilityLevel": 4,
+      "affectionateWithFamily": 5,
+      "barkingLevel": 3,
+      "coatGroomingFrequency": 1,
+      "coatLength": [
+        "Short"
+      ],
+      "coatType": [
+        "Smooth"
+      ],
+      "droolingLevel": 3,
+      "energyLevel": 5,
+      "goodWithOtherDogs": 3,
+      "goodWithYoungChildren": 3,
+      "mentalStimulationNeeds": 4,
+      "opennessToStrangers": 4,
+      "playfulnessLevel": 4,
+      "sheddingLevel": 4,
+      "trainabilityLevel": 5,
+      "watchdogProtectiveNature": 5
+    },
+    "sizeCategory": "large",
+    "isFluffy": false
   },
   {
     "akcId": "24241",
@@ -925,7 +4391,40 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/dogue-de-bordeaux/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2017/11/Dogue-de-Bordeaux-On-White-03-400x267.jpg",
     "imageAlt": "Dogue de Bordeaux",
-    "imagePath": "assets/images/dogue-de-bordeaux.jpg"
+    "imagePath": "assets/images/dogue-de-bordeaux.jpg",
+    "breedGroup": "Working Group",
+    "origin": "France",
+    "temperament": "loyal / courageous / affectionate",
+    "lifeExpectancy": "5-8 years",
+    "height": "23.27 inches (male), 23-26 inches (female)",
+    "weight": "110 pounds & up (male), 99 pounds & up (female)",
+    "relatedCharacteristics": [
+      "Largest Dog Breeds"
+    ],
+    "traits": {
+      "adaptabilityLevel": 4,
+      "affectionateWithFamily": 5,
+      "barkingLevel": 3,
+      "coatGroomingFrequency": 1,
+      "coatLength": [
+        "Short"
+      ],
+      "coatType": [
+        "Smooth"
+      ],
+      "droolingLevel": 5,
+      "energyLevel": 3,
+      "goodWithOtherDogs": 3,
+      "goodWithYoungChildren": 3,
+      "mentalStimulationNeeds": 4,
+      "opennessToStrangers": 3,
+      "playfulnessLevel": 3,
+      "sheddingLevel": 4,
+      "trainabilityLevel": 4,
+      "watchdogProtectiveNature": 5
+    },
+    "sizeCategory": "large",
+    "isFluffy": false
   },
   {
     "akcId": "24255",
@@ -934,7 +4433,41 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/drentsche-patrijshond/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2017/11/Drentsche-Patrijshond-standing-in-a-field-400x267.jpg",
     "imageAlt": "Drentsche Patrijshond",
-    "imagePath": "assets/images/drentsche-patrijshond.jpg"
+    "imagePath": "assets/images/drentsche-patrijshond.jpg",
+    "breedGroup": "Foundation Stock Service",
+    "origin": "The Netherlands",
+    "temperament": "loyal / intelligent / friendly",
+    "lifeExpectancy": "11-14 years",
+    "height": "23-25 (males), 21.5 - 23.5 (females)",
+    "weight": "70-73 (males), 55-60 (females)",
+    "relatedCharacteristics": [
+      "Best Family Dogs",
+      "Best Dog Breeds for Kids",
+      "Smartest Breeds of Dogs",
+      "Medium Dog Breeds"
+    ],
+    "traits": {
+      "adaptabilityLevel": 3,
+      "affectionateWithFamily": 3,
+      "barkingLevel": 1,
+      "coatGroomingFrequency": 3,
+      "coatLength": [
+        "Medium"
+      ],
+      "coatType": [],
+      "droolingLevel": 1,
+      "energyLevel": 3,
+      "goodWithOtherDogs": 5,
+      "goodWithYoungChildren": 5,
+      "mentalStimulationNeeds": 5,
+      "opennessToStrangers": 3,
+      "playfulnessLevel": 3,
+      "sheddingLevel": 3,
+      "trainabilityLevel": 5,
+      "watchdogProtectiveNature": 1
+    },
+    "sizeCategory": "large",
+    "isFluffy": false
   },
   {
     "akcId": "24257",
@@ -943,7 +4476,41 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/drever/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2017/11/Drever-face-400x267.jpg",
     "imageAlt": "Drever",
-    "imagePath": "assets/images/drever.jpg"
+    "imagePath": "assets/images/drever.jpg",
+    "breedGroup": "Foundation Stock Service",
+    "origin": "Sweden",
+    "temperament": "loyal / determined / even-tempered",
+    "lifeExpectancy": "15 years",
+    "height": "12-15 inches",
+    "weight": "35-40 pounds",
+    "relatedCharacteristics": [
+      "Best Family Dogs",
+      "Medium Dog Breeds"
+    ],
+    "traits": {
+      "adaptabilityLevel": 5,
+      "affectionateWithFamily": 5,
+      "barkingLevel": 4,
+      "coatGroomingFrequency": 1,
+      "coatLength": [
+        "Short"
+      ],
+      "coatType": [
+        "Double"
+      ],
+      "droolingLevel": 2,
+      "energyLevel": 4,
+      "goodWithOtherDogs": 5,
+      "goodWithYoungChildren": 5,
+      "mentalStimulationNeeds": 4,
+      "opennessToStrangers": 4,
+      "playfulnessLevel": 4,
+      "sheddingLevel": 3,
+      "trainabilityLevel": 5,
+      "watchdogProtectiveNature": 3
+    },
+    "sizeCategory": "medium",
+    "isFluffy": true
   },
   {
     "akcId": "24259",
@@ -952,7 +4519,40 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/dutch-shepherd/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2017/11/Dutch-Shepherd-in-a-field-400x267.jpg",
     "imageAlt": "Dutch Shepherd",
-    "imagePath": "assets/images/dutch-shepherd.jpg"
+    "imagePath": "assets/images/dutch-shepherd.jpg",
+    "breedGroup": "Miscellaneous Class",
+    "origin": "The Netherlands",
+    "temperament": "intelligent / lively / athletic",
+    "lifeExpectancy": "11-14 years",
+    "height": "21.5-24.5 inches",
+    "weight": "42-75 pounds",
+    "relatedCharacteristics": [
+      "Medium Dog Breeds"
+    ],
+    "traits": {
+      "adaptabilityLevel": 4,
+      "affectionateWithFamily": 5,
+      "barkingLevel": 2,
+      "coatGroomingFrequency": 2,
+      "coatLength": [
+        "Short"
+      ],
+      "coatType": [
+        "Double"
+      ],
+      "droolingLevel": 2,
+      "energyLevel": 5,
+      "goodWithOtherDogs": 3,
+      "goodWithYoungChildren": 3,
+      "mentalStimulationNeeds": 5,
+      "opennessToStrangers": 3,
+      "playfulnessLevel": 4,
+      "sheddingLevel": 3,
+      "trainabilityLevel": 5,
+      "watchdogProtectiveNature": 5
+    },
+    "sizeCategory": "large",
+    "isFluffy": true
   },
   {
     "akcId": "24262",
@@ -961,7 +4561,39 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/english-cocker-spaniel/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2017/11/English-Cocker-Spaniel-Slide03-400x267.jpg",
     "imageAlt": "English Cocker Spaniel",
-    "imagePath": "assets/images/english-cocker-spaniel.jpg"
+    "imagePath": "assets/images/english-cocker-spaniel.jpg",
+    "breedGroup": "Sporting Group",
+    "origin": "England",
+    "temperament": "energetic / merry / responsive",
+    "lifeExpectancy": "12-14 years",
+    "height": "16-17 inches (male), 15-16 inches (female)",
+    "weight": "28-34 pounds (male), 26-32 pounds (female)",
+    "relatedCharacteristics": [],
+    "traits": {
+      "adaptabilityLevel": 4,
+      "affectionateWithFamily": 5,
+      "barkingLevel": 3,
+      "coatGroomingFrequency": 3,
+      "coatLength": [
+        "Medium",
+        "Long"
+      ],
+      "coatType": [
+        "Double"
+      ],
+      "droolingLevel": 2,
+      "energyLevel": 3,
+      "goodWithOtherDogs": 5,
+      "goodWithYoungChildren": 5,
+      "mentalStimulationNeeds": 4,
+      "opennessToStrangers": 4,
+      "playfulnessLevel": 3,
+      "sheddingLevel": 3,
+      "trainabilityLevel": 4,
+      "watchdogProtectiveNature": 3
+    },
+    "sizeCategory": "medium",
+    "isFluffy": true
   },
   {
     "akcId": "24277",
@@ -970,7 +4602,40 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/english-foxhound/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2017/11/English-Foxhound-standing-in-a-field-400x267.jpg",
     "imageAlt": "English Foxhound",
-    "imagePath": "assets/images/english-foxhound.jpg"
+    "imagePath": "assets/images/english-foxhound.jpg",
+    "breedGroup": "Hound Group",
+    "origin": "England",
+    "temperament": "sociable / affectionate / gentle",
+    "lifeExpectancy": "10-13 years",
+    "height": "24 inches",
+    "weight": "60-75 pounds",
+    "relatedCharacteristics": [
+      "Medium Dog Breeds"
+    ],
+    "traits": {
+      "adaptabilityLevel": 4,
+      "affectionateWithFamily": 5,
+      "barkingLevel": 5,
+      "coatGroomingFrequency": 1,
+      "coatLength": [
+        "Short"
+      ],
+      "coatType": [
+        "Double"
+      ],
+      "droolingLevel": 2,
+      "energyLevel": 4,
+      "goodWithOtherDogs": 5,
+      "goodWithYoungChildren": 5,
+      "mentalStimulationNeeds": 4,
+      "opennessToStrangers": 4,
+      "playfulnessLevel": 4,
+      "sheddingLevel": 3,
+      "trainabilityLevel": 4,
+      "watchdogProtectiveNature": 3
+    },
+    "sizeCategory": "large",
+    "isFluffy": true
   },
   {
     "akcId": "24291",
@@ -979,7 +4644,41 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/english-setter/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2017/11/English-Setter-standing-in-a-field-400x267.jpg",
     "imageAlt": "English Setter",
-    "imagePath": "assets/images/english-setter.jpg"
+    "imagePath": "assets/images/english-setter.jpg",
+    "breedGroup": "Sporting Group",
+    "origin": "England",
+    "temperament": "friendly / mellow / merry",
+    "lifeExpectancy": "12 years",
+    "height": "25-27 inches (male), 23-25 inches (female)",
+    "weight": "65-80 pounds (male), 45-55 pounds (female)",
+    "relatedCharacteristics": [
+      "Medium Dog Breeds"
+    ],
+    "traits": {
+      "adaptabilityLevel": 4,
+      "affectionateWithFamily": 5,
+      "barkingLevel": 3,
+      "coatGroomingFrequency": 3,
+      "coatLength": [
+        "Medium"
+      ],
+      "coatType": [
+        "Silky",
+        "Double"
+      ],
+      "droolingLevel": 3,
+      "energyLevel": 3,
+      "goodWithOtherDogs": 4,
+      "goodWithYoungChildren": 4,
+      "mentalStimulationNeeds": 4,
+      "opennessToStrangers": 4,
+      "playfulnessLevel": 4,
+      "sheddingLevel": 3,
+      "trainabilityLevel": 4,
+      "watchdogProtectiveNature": 3
+    },
+    "sizeCategory": "large",
+    "isFluffy": true
   },
   {
     "akcId": "24306",
@@ -988,7 +4687,40 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/english-springer-spaniel/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2017/11/English-Springer-Spaniel-On-White-011-400x267.jpg",
     "imageAlt": "English Springer Spaniel",
-    "imagePath": "assets/images/english-springer-spaniel.jpg"
+    "imagePath": "assets/images/english-springer-spaniel.jpg",
+    "breedGroup": "Sporting Group",
+    "origin": "England",
+    "temperament": "friendly / playful / obedient",
+    "lifeExpectancy": "12-14 years",
+    "height": "20 inches (male), 19 inches (female)",
+    "weight": "50 pounds (male), 40 pounds (female)",
+    "relatedCharacteristics": [
+      "Medium Dog Breeds"
+    ],
+    "traits": {
+      "adaptabilityLevel": 4,
+      "affectionateWithFamily": 5,
+      "barkingLevel": 3,
+      "coatGroomingFrequency": 2,
+      "coatLength": [
+        "Medium"
+      ],
+      "coatType": [
+        "Double"
+      ],
+      "droolingLevel": 3,
+      "energyLevel": 4,
+      "goodWithOtherDogs": 4,
+      "goodWithYoungChildren": 3,
+      "mentalStimulationNeeds": 4,
+      "opennessToStrangers": 4,
+      "playfulnessLevel": 4,
+      "sheddingLevel": 3,
+      "trainabilityLevel": 5,
+      "watchdogProtectiveNature": 3
+    },
+    "sizeCategory": "medium",
+    "isFluffy": true
   },
   {
     "akcId": "24321",
@@ -997,7 +4729,41 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/english-toy-spaniel/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2017/11/English-Toy-Spaniel-On-White-01-400x267.jpg",
     "imageAlt": "English Toy Spaniel",
-    "imagePath": "assets/images/english-toy-spaniel.jpg"
+    "imagePath": "assets/images/english-toy-spaniel.jpg",
+    "breedGroup": "Toy Group",
+    "origin": "England",
+    "temperament": "intelligent / playful / gentle",
+    "lifeExpectancy": "10-12 years",
+    "height": "9-10 inches",
+    "weight": "8-14 pounds",
+    "relatedCharacteristics": [
+      "Smallest Dog Breeds"
+    ],
+    "traits": {
+      "adaptabilityLevel": 4,
+      "affectionateWithFamily": 5,
+      "barkingLevel": 2,
+      "coatGroomingFrequency": 3,
+      "coatLength": [
+        "Medium"
+      ],
+      "coatType": [
+        "Silky",
+        "Double"
+      ],
+      "droolingLevel": 2,
+      "energyLevel": 3,
+      "goodWithOtherDogs": 5,
+      "goodWithYoungChildren": 5,
+      "mentalStimulationNeeds": 3,
+      "opennessToStrangers": 3,
+      "playfulnessLevel": 4,
+      "sheddingLevel": 3,
+      "trainabilityLevel": 3,
+      "watchdogProtectiveNature": 3
+    },
+    "sizeCategory": "small",
+    "isFluffy": true
   },
   {
     "akcId": "24336",
@@ -1006,7 +4772,40 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/entlebucher-mountain-dog/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2017/11/Entlebucher-Mountain-Dog-outdoors-standing-in-a-field-400x267.jpg",
     "imageAlt": "Entlebucher Mountain Dog",
-    "imagePath": "assets/images/entlebucher-mountain-dog.jpg"
+    "imagePath": "assets/images/entlebucher-mountain-dog.jpg",
+    "breedGroup": "Herding Group",
+    "origin": "Switzerland",
+    "temperament": "loyal / smart / enthusiastic",
+    "lifeExpectancy": "11-13 years",
+    "height": "17.5-20.5 inches (male), 16.5-19.5 inches (female)",
+    "weight": "50-65 pounds (male), 40-55 pounds (female)",
+    "relatedCharacteristics": [
+      "Medium Dog Breeds"
+    ],
+    "traits": {
+      "adaptabilityLevel": 4,
+      "affectionateWithFamily": 5,
+      "barkingLevel": 3,
+      "coatGroomingFrequency": 1,
+      "coatLength": [
+        "Short"
+      ],
+      "coatType": [
+        "Smooth"
+      ],
+      "droolingLevel": 2,
+      "energyLevel": 5,
+      "goodWithOtherDogs": 5,
+      "goodWithYoungChildren": 3,
+      "mentalStimulationNeeds": 4,
+      "opennessToStrangers": 3,
+      "playfulnessLevel": 3,
+      "sheddingLevel": 3,
+      "trainabilityLevel": 3,
+      "watchdogProtectiveNature": 5
+    },
+    "sizeCategory": "large",
+    "isFluffy": false
   },
   {
     "akcId": "24351",
@@ -1015,7 +4814,42 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/estrela-mountain-dog/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2017/11/Beau-400x267.jpg",
     "imageAlt": "Estrela Mountain Dog",
-    "imagePath": "assets/images/estrela-mountain-dog.jpg"
+    "imagePath": "assets/images/estrela-mountain-dog.jpg",
+    "breedGroup": "Foundation Stock Service",
+    "origin": "England",
+    "temperament": "alert / intelligent / brave",
+    "lifeExpectancy": "10-14 years",
+    "height": "24.5-29 inches",
+    "weight": "77-132 pounds",
+    "relatedCharacteristics": [
+      "Largest Dog Breeds",
+      "Best Guard Dogs"
+    ],
+    "traits": {
+      "adaptabilityLevel": 3,
+      "affectionateWithFamily": 5,
+      "barkingLevel": 3,
+      "coatGroomingFrequency": 2,
+      "coatLength": [
+        "Long"
+      ],
+      "coatType": [
+        "Wavy",
+        "Double"
+      ],
+      "droolingLevel": 4,
+      "energyLevel": 3,
+      "goodWithOtherDogs": 3,
+      "goodWithYoungChildren": 5,
+      "mentalStimulationNeeds": 3,
+      "opennessToStrangers": 2,
+      "playfulnessLevel": 3,
+      "sheddingLevel": 3,
+      "trainabilityLevel": 4,
+      "watchdogProtectiveNature": 5
+    },
+    "sizeCategory": "large",
+    "isFluffy": true
   },
   {
     "akcId": "24353",
@@ -1024,7 +4858,41 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/eurasier/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2017/11/Eurasier.1-400x267.jpg",
     "imageAlt": "Eurasier",
-    "imagePath": "assets/images/eurasier.jpg"
+    "imagePath": "assets/images/eurasier.jpg",
+    "breedGroup": "Foundation Stock Service",
+    "origin": "Germany",
+    "temperament": "confident / calm / family-oriented",
+    "lifeExpectancy": "12-16 years",
+    "height": "19-24 inches",
+    "weight": "40-70 pounds",
+    "relatedCharacteristics": [
+      "Best Family Dogs",
+      "Medium Dog Breeds"
+    ],
+    "traits": {
+      "adaptabilityLevel": 3,
+      "affectionateWithFamily": 4,
+      "barkingLevel": 3,
+      "coatGroomingFrequency": 3,
+      "coatLength": [
+        "Medium"
+      ],
+      "coatType": [
+        "Double"
+      ],
+      "droolingLevel": 2,
+      "energyLevel": 3,
+      "goodWithOtherDogs": 3,
+      "goodWithYoungChildren": 4,
+      "mentalStimulationNeeds": 4,
+      "opennessToStrangers": 2,
+      "playfulnessLevel": 3,
+      "sheddingLevel": 3,
+      "trainabilityLevel": 4,
+      "watchdogProtectiveNature": 3
+    },
+    "sizeCategory": "large",
+    "isFluffy": true
   },
   {
     "akcId": "24355",
@@ -1033,7 +4901,39 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/field-spaniel/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2017/11/Field-Spaniels-of-different-colors-sitting-together-outdoors-400x267.jpg",
     "imageAlt": "Field Spaniel",
-    "imagePath": "assets/images/field-spaniel.jpg"
+    "imagePath": "assets/images/field-spaniel.jpg",
+    "breedGroup": "Sporting Group",
+    "origin": "England",
+    "temperament": "sweet / fun-loving / sensitive",
+    "lifeExpectancy": "12-13 years",
+    "height": "18 inches (male), 17 inches (female)",
+    "weight": "35-50 pounds",
+    "relatedCharacteristics": [],
+    "traits": {
+      "adaptabilityLevel": 4,
+      "affectionateWithFamily": 5,
+      "barkingLevel": 3,
+      "coatGroomingFrequency": 2,
+      "coatLength": [
+        "Medium"
+      ],
+      "coatType": [
+        "Wavy",
+        "Smooth"
+      ],
+      "droolingLevel": 2,
+      "energyLevel": 3,
+      "goodWithOtherDogs": 4,
+      "goodWithYoungChildren": 5,
+      "mentalStimulationNeeds": 3,
+      "opennessToStrangers": 4,
+      "playfulnessLevel": 3,
+      "sheddingLevel": 3,
+      "trainabilityLevel": 5,
+      "watchdogProtectiveNature": 3
+    },
+    "sizeCategory": "medium",
+    "isFluffy": true
   },
   {
     "akcId": "24370",
@@ -1042,7 +4942,38 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/finnish-lapphund/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2017/11/Finnish-Lapphund-lying-on-a-snow-covered-road-400x267.jpg",
     "imageAlt": "Finnish Lapphund",
-    "imagePath": "assets/images/finnish-lapphund.jpg"
+    "imagePath": "assets/images/finnish-lapphund.jpg",
+    "breedGroup": "Herding Group",
+    "origin": "Finland",
+    "temperament": "alert / friendly / agile",
+    "lifeExpectancy": "12-15 years",
+    "height": "18-21 inches (male), 16-19 inches (female)",
+    "weight": "33-53 pounds",
+    "relatedCharacteristics": [],
+    "traits": {
+      "adaptabilityLevel": 4,
+      "affectionateWithFamily": 5,
+      "barkingLevel": 5,
+      "coatGroomingFrequency": 2,
+      "coatLength": [
+        "Medium"
+      ],
+      "coatType": [
+        "Double"
+      ],
+      "droolingLevel": 2,
+      "energyLevel": 3,
+      "goodWithOtherDogs": 3,
+      "goodWithYoungChildren": 4,
+      "mentalStimulationNeeds": 3,
+      "opennessToStrangers": 4,
+      "playfulnessLevel": 3,
+      "sheddingLevel": 4,
+      "trainabilityLevel": 4,
+      "watchdogProtectiveNature": 3
+    },
+    "sizeCategory": "large",
+    "isFluffy": true
   },
   {
     "akcId": "24380",
@@ -1051,7 +4982,38 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/finnish-spitz/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2017/11/Finnish-Spitz-On-White-01-400x267.jpg",
     "imageAlt": "Finnish Spitz",
-    "imagePath": "assets/images/finnish-spitz.jpg"
+    "imagePath": "assets/images/finnish-spitz.jpg",
+    "breedGroup": "Non-Sporting Group",
+    "origin": "Finland",
+    "temperament": "good-natured / friendly / lively",
+    "lifeExpectancy": "13-15 years",
+    "height": "17.5-20 inches (male), 15.5-18 inches (female)",
+    "weight": "25-33 pounds (male), 20-28 pounds (female)",
+    "relatedCharacteristics": [],
+    "traits": {
+      "adaptabilityLevel": 4,
+      "affectionateWithFamily": 5,
+      "barkingLevel": 5,
+      "coatGroomingFrequency": 2,
+      "coatLength": [
+        "Medium"
+      ],
+      "coatType": [
+        "Double"
+      ],
+      "droolingLevel": 2,
+      "energyLevel": 5,
+      "goodWithOtherDogs": 4,
+      "goodWithYoungChildren": 5,
+      "mentalStimulationNeeds": 4,
+      "opennessToStrangers": 3,
+      "playfulnessLevel": 3,
+      "sheddingLevel": 3,
+      "trainabilityLevel": 3,
+      "watchdogProtectiveNature": 3
+    },
+    "sizeCategory": "medium",
+    "isFluffy": true
   },
   {
     "akcId": "24395",
@@ -1060,7 +5022,40 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/flat-coated-retriever/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2017/11/Flat-Coated-Retrievers-sitting-outdoors-400x267.jpg",
     "imageAlt": "Flat-Coated Retriever",
-    "imagePath": "assets/images/flat-coated-retriever.jpg"
+    "imagePath": "assets/images/flat-coated-retriever.jpg",
+    "breedGroup": "Sporting Group",
+    "origin": "England",
+    "temperament": "cheerful / optimistic / good-humored",
+    "lifeExpectancy": "8-10 years",
+    "height": "23-24.5 inches (male), 22-23.5 inches (female)",
+    "weight": "60-70 pounds",
+    "relatedCharacteristics": [
+      "Medium Dog Breeds"
+    ],
+    "traits": {
+      "adaptabilityLevel": 5,
+      "affectionateWithFamily": 5,
+      "barkingLevel": 3,
+      "coatGroomingFrequency": 2,
+      "coatLength": [
+        "Medium"
+      ],
+      "coatType": [
+        "Smooth"
+      ],
+      "droolingLevel": 2,
+      "energyLevel": 5,
+      "goodWithOtherDogs": 5,
+      "goodWithYoungChildren": 5,
+      "mentalStimulationNeeds": 4,
+      "opennessToStrangers": 5,
+      "playfulnessLevel": 5,
+      "sheddingLevel": 3,
+      "trainabilityLevel": 5,
+      "watchdogProtectiveNature": 3
+    },
+    "sizeCategory": "large",
+    "isFluffy": false
   },
   {
     "akcId": "24410",
@@ -1069,7 +5064,41 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/french-bulldog/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2017/11/French-Bulldog-standing-outdoors-400x267.jpg",
     "imageAlt": "French Bulldog",
-    "imagePath": "assets/images/french-bulldog.jpg"
+    "imagePath": "assets/images/french-bulldog.jpg",
+    "breedGroup": "Non-Sporting Group",
+    "origin": "England",
+    "temperament": "playful / smart / adaptable",
+    "lifeExpectancy": "10-12 years",
+    "height": "11-13 inches",
+    "weight": "under 28 pounds",
+    "relatedCharacteristics": [
+      "Best Family Dogs",
+      "Best Dogs for Apartment Dwellers"
+    ],
+    "traits": {
+      "adaptabilityLevel": 5,
+      "affectionateWithFamily": 5,
+      "barkingLevel": 1,
+      "coatGroomingFrequency": 1,
+      "coatLength": [
+        "Short"
+      ],
+      "coatType": [
+        "Smooth"
+      ],
+      "droolingLevel": 3,
+      "energyLevel": 3,
+      "goodWithOtherDogs": 4,
+      "goodWithYoungChildren": 5,
+      "mentalStimulationNeeds": 3,
+      "opennessToStrangers": 5,
+      "playfulnessLevel": 5,
+      "sheddingLevel": 3,
+      "trainabilityLevel": 4,
+      "watchdogProtectiveNature": 3
+    },
+    "sizeCategory": "medium",
+    "isFluffy": false
   },
   {
     "akcId": "24431",
@@ -1078,7 +5107,40 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/french-spaniel/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2017/11/French-Spaniel-Gallery-01-400x267.jpg",
     "imageAlt": "French Spaniel",
-    "imagePath": "assets/images/french-spaniel.jpg"
+    "imagePath": "assets/images/french-spaniel.jpg",
+    "breedGroup": "Foundation Stock Service",
+    "origin": "France",
+    "temperament": "intelligent / sociable / gentle",
+    "lifeExpectancy": "10-12 years",
+    "height": "21.5-24 inches",
+    "weight": "50-60 pounds",
+    "relatedCharacteristics": [
+      "Medium Dog Breeds"
+    ],
+    "traits": {
+      "adaptabilityLevel": 5,
+      "affectionateWithFamily": 5,
+      "barkingLevel": 3,
+      "coatGroomingFrequency": 1,
+      "coatLength": [
+        "Medium"
+      ],
+      "coatType": [
+        "Smooth"
+      ],
+      "droolingLevel": 2,
+      "energyLevel": 4,
+      "goodWithOtherDogs": 5,
+      "goodWithYoungChildren": 5,
+      "mentalStimulationNeeds": 5,
+      "opennessToStrangers": 5,
+      "playfulnessLevel": 4,
+      "sheddingLevel": 3,
+      "trainabilityLevel": 5,
+      "watchdogProtectiveNature": 3
+    },
+    "sizeCategory": "large",
+    "isFluffy": false
   },
   {
     "akcId": "24433",
@@ -1087,7 +5149,40 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/german-longhaired-pointer/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2017/11/German-Longhaired-Pointer-on-White-01-400x267.jpg",
     "imageAlt": "German Longhaired Pointer",
-    "imagePath": "assets/images/german-longhaired-pointer.jpg"
+    "imagePath": "assets/images/german-longhaired-pointer.jpg",
+    "breedGroup": "Foundation Stock Service",
+    "origin": "Germany",
+    "temperament": "versatile / calm / family-oriented",
+    "lifeExpectancy": "12-14 years",
+    "height": "22-28 inches",
+    "weight": "55-80 pounds",
+    "relatedCharacteristics": [
+      "Largest Dog Breeds"
+    ],
+    "traits": {
+      "adaptabilityLevel": 4,
+      "affectionateWithFamily": 5,
+      "barkingLevel": 3,
+      "coatGroomingFrequency": 1,
+      "coatLength": [
+        "Medium"
+      ],
+      "coatType": [
+        "Double"
+      ],
+      "droolingLevel": 2,
+      "energyLevel": 4,
+      "goodWithOtherDogs": 4,
+      "goodWithYoungChildren": 5,
+      "mentalStimulationNeeds": 4,
+      "opennessToStrangers": 4,
+      "playfulnessLevel": 4,
+      "sheddingLevel": 3,
+      "trainabilityLevel": 5,
+      "watchdogProtectiveNature": 3
+    },
+    "sizeCategory": "large",
+    "isFluffy": true
   },
   {
     "akcId": "24436",
@@ -1096,7 +5191,40 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/german-pinscher/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2017/11/German-Pinscher-standing-near-a-lake-400x267.jpg",
     "imageAlt": "German Pinscher",
-    "imagePath": "assets/images/german-pinscher.jpg"
+    "imagePath": "assets/images/german-pinscher.jpg",
+    "breedGroup": "Working Group",
+    "origin": "Germany",
+    "temperament": "intelligent / courageous / vivacious",
+    "lifeExpectancy": "12-14 years",
+    "height": "17-20 inches",
+    "weight": "25-45 pounds",
+    "relatedCharacteristics": [
+      "Medium Dog Breeds"
+    ],
+    "traits": {
+      "adaptabilityLevel": 3,
+      "affectionateWithFamily": 5,
+      "barkingLevel": 3,
+      "coatGroomingFrequency": 1,
+      "coatLength": [
+        "Short"
+      ],
+      "coatType": [
+        "Smooth"
+      ],
+      "droolingLevel": 1,
+      "energyLevel": 5,
+      "goodWithOtherDogs": 3,
+      "goodWithYoungChildren": 3,
+      "mentalStimulationNeeds": 4,
+      "opennessToStrangers": 3,
+      "playfulnessLevel": 4,
+      "sheddingLevel": 3,
+      "trainabilityLevel": 5,
+      "watchdogProtectiveNature": 4
+    },
+    "sizeCategory": "medium",
+    "isFluffy": false
   },
   {
     "akcId": "24451",
@@ -1105,7 +5233,41 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/german-shepherd-dog/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2017/11/German-Shepherd-on-White-00-400x267.jpg",
     "imageAlt": "German Shepherd Dog",
-    "imagePath": "assets/images/german-shepherd-dog.jpg"
+    "imagePath": "assets/images/german-shepherd-dog.jpg",
+    "breedGroup": "Herding Group",
+    "origin": "Germany",
+    "temperament": "courageous / confident / smart",
+    "lifeExpectancy": "12-14 years",
+    "height": "24-26 inches (male), 22-24 inches (female)",
+    "weight": "65-90 pounds (male), 50-70 pounds (female)",
+    "relatedCharacteristics": [
+      "Smartest Breeds of Dogs",
+      "Best Guard Dogs"
+    ],
+    "traits": {
+      "adaptabilityLevel": 5,
+      "affectionateWithFamily": 5,
+      "barkingLevel": 3,
+      "coatGroomingFrequency": 2,
+      "coatLength": [
+        "Medium"
+      ],
+      "coatType": [
+        "Double"
+      ],
+      "droolingLevel": 2,
+      "energyLevel": 5,
+      "goodWithOtherDogs": 3,
+      "goodWithYoungChildren": 5,
+      "mentalStimulationNeeds": 5,
+      "opennessToStrangers": 3,
+      "playfulnessLevel": 4,
+      "sheddingLevel": 4,
+      "trainabilityLevel": 5,
+      "watchdogProtectiveNature": 5
+    },
+    "sizeCategory": "large",
+    "isFluffy": true
   },
   {
     "akcId": "24471",
@@ -1114,7 +5276,38 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/german-shorthaired-pointer/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2017/11/German-Shorthaired-Pointer-On-White-07-400x267.jpg",
     "imageAlt": "German Shorthaired Pointer",
-    "imagePath": "assets/images/german-shorthaired-pointer.jpg"
+    "imagePath": "assets/images/german-shorthaired-pointer.jpg",
+    "breedGroup": "Sporting Group",
+    "origin": "Germany",
+    "temperament": "friendly / smart / willing to please",
+    "lifeExpectancy": "10-12 years",
+    "height": "23-25 inches (male), 21-23 inches (female)",
+    "weight": "55-70 pounds (male), 45-60 pounds (female)",
+    "relatedCharacteristics": [],
+    "traits": {
+      "adaptabilityLevel": 4,
+      "affectionateWithFamily": 5,
+      "barkingLevel": 3,
+      "coatGroomingFrequency": 2,
+      "coatLength": [
+        "Short"
+      ],
+      "coatType": [
+        "Smooth"
+      ],
+      "droolingLevel": 2,
+      "energyLevel": 5,
+      "goodWithOtherDogs": 4,
+      "goodWithYoungChildren": 5,
+      "mentalStimulationNeeds": 5,
+      "opennessToStrangers": 4,
+      "playfulnessLevel": 4,
+      "sheddingLevel": 3,
+      "trainabilityLevel": 5,
+      "watchdogProtectiveNature": 4
+    },
+    "sizeCategory": "large",
+    "isFluffy": false
   },
   {
     "akcId": "24487",
@@ -1123,7 +5316,37 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/german-spitz/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2017/11/German-Spitz-standing-in-profile-outdoors-400x267.jpg",
     "imageAlt": "German Spitz",
-    "imagePath": "assets/images/german-spitz.jpg"
+    "imagePath": "assets/images/german-spitz.jpg",
+    "breedGroup": "Miscellaneous Class",
+    "origin": "Germany",
+    "temperament": "active / devoted / smart",
+    "lifeExpectancy": "13-15 years",
+    "height": "Small 8 - 11, Med 12-15, Large 16 -20",
+    "weight": "Small 10-11 lbs, Med 15 - 25 lbs, Large 30- 50 lbs",
+    "relatedCharacteristics": [
+      "Smallest Dog Breeds",
+      "Best Dogs for Apartment Dwellers"
+    ],
+    "traits": {
+      "adaptabilityLevel": 4,
+      "affectionateWithFamily": 5,
+      "barkingLevel": 4,
+      "coatGroomingFrequency": 3,
+      "coatLength": [],
+      "coatType": [],
+      "droolingLevel": 1,
+      "energyLevel": 4,
+      "goodWithOtherDogs": 4,
+      "goodWithYoungChildren": 4,
+      "mentalStimulationNeeds": 4,
+      "opennessToStrangers": 3,
+      "playfulnessLevel": 4,
+      "sheddingLevel": 4,
+      "trainabilityLevel": 4,
+      "watchdogProtectiveNature": 4
+    },
+    "sizeCategory": "medium",
+    "isFluffy": false
   },
   {
     "akcId": "24489",
@@ -1132,7 +5355,41 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/german-wirehaired-pointer/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2017/11/German-Wirehaired-Pointer-standing-in-a-green-grassy-field-400x267.jpg",
     "imageAlt": "German Wirehaired Pointer",
-    "imagePath": "assets/images/german-wirehaired-pointer.jpg"
+    "imagePath": "assets/images/german-wirehaired-pointer.jpg",
+    "breedGroup": "Sporting Group",
+    "origin": "Germany",
+    "temperament": "affectionate / eager / enthusiastic",
+    "lifeExpectancy": "14-16 years",
+    "height": "24-26 inches (male), minimum 22 inches (female)",
+    "weight": "50-70 pounds",
+    "relatedCharacteristics": [
+      "Medium Dog Breeds"
+    ],
+    "traits": {
+      "adaptabilityLevel": 4,
+      "affectionateWithFamily": 5,
+      "barkingLevel": 3,
+      "coatGroomingFrequency": 2,
+      "coatLength": [
+        "Medium"
+      ],
+      "coatType": [
+        "Double",
+        "Wiry"
+      ],
+      "droolingLevel": 2,
+      "energyLevel": 5,
+      "goodWithOtherDogs": 3,
+      "goodWithYoungChildren": 3,
+      "mentalStimulationNeeds": 4,
+      "opennessToStrangers": 4,
+      "playfulnessLevel": 4,
+      "sheddingLevel": 2,
+      "trainabilityLevel": 5,
+      "watchdogProtectiveNature": 3
+    },
+    "sizeCategory": "large",
+    "isFluffy": true
   },
   {
     "akcId": "24504",
@@ -1141,7 +5398,42 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/giant-schnauzer/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2017/11/Giant-Schanuzer-standing-in-a-field-400x267.jpg",
     "imageAlt": "Giant Schnauzer",
-    "imagePath": "assets/images/giant-schnauzer.jpg"
+    "imagePath": "assets/images/giant-schnauzer.jpg",
+    "breedGroup": "Working Group",
+    "origin": "Germany",
+    "temperament": "alert / loyal / trainable",
+    "lifeExpectancy": "10-13 years",
+    "height": "25.5-27.5 inches (male), 23.5-25.5 inches (female)",
+    "weight": "75-95 pounds (male), 55-80 pounds (female)",
+    "relatedCharacteristics": [
+      "Hypoallergenic Dogs",
+      "Best Guard Dogs"
+    ],
+    "traits": {
+      "adaptabilityLevel": 4,
+      "affectionateWithFamily": 4,
+      "barkingLevel": 3,
+      "coatGroomingFrequency": 4,
+      "coatLength": [
+        "Medium"
+      ],
+      "coatType": [
+        "Double",
+        "Wiry"
+      ],
+      "droolingLevel": 2,
+      "energyLevel": 5,
+      "goodWithOtherDogs": 3,
+      "goodWithYoungChildren": 3,
+      "mentalStimulationNeeds": 5,
+      "opennessToStrangers": 2,
+      "playfulnessLevel": 5,
+      "sheddingLevel": 2,
+      "trainabilityLevel": 3,
+      "watchdogProtectiveNature": 5
+    },
+    "sizeCategory": "large",
+    "isFluffy": true
   },
   {
     "akcId": "24519",
@@ -1150,7 +5442,40 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/glen-of-imaal-terrier/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2017/11/Glen-of-Imaal-Terrier-On-White-01-400x267.jpg",
     "imageAlt": "Glen of Imaal Terrier",
-    "imagePath": "assets/images/glen-of-imaal-terrier.jpg"
+    "imagePath": "assets/images/glen-of-imaal-terrier.jpg",
+    "breedGroup": "Terrier Group",
+    "origin": "Ireland",
+    "temperament": "spirited / gentle / bold",
+    "lifeExpectancy": "10-15 years",
+    "height": "12.5-14 inches",
+    "weight": "32-40 pounds",
+    "relatedCharacteristics": [
+      "Smallest Dog Breeds"
+    ],
+    "traits": {
+      "adaptabilityLevel": 4,
+      "affectionateWithFamily": 5,
+      "barkingLevel": 2,
+      "coatGroomingFrequency": 3,
+      "coatLength": [
+        "Medium"
+      ],
+      "coatType": [
+        "Wiry"
+      ],
+      "droolingLevel": 2,
+      "energyLevel": 3,
+      "goodWithOtherDogs": 3,
+      "goodWithYoungChildren": 3,
+      "mentalStimulationNeeds": 3,
+      "opennessToStrangers": 3,
+      "playfulnessLevel": 3,
+      "sheddingLevel": 2,
+      "trainabilityLevel": 3,
+      "watchdogProtectiveNature": 3
+    },
+    "sizeCategory": "medium",
+    "isFluffy": false
   },
   {
     "akcId": "24534",
@@ -1159,7 +5484,42 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/golden-retriever/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2017/11/Golden-Retriever-wading-into-a-lake-400x267.jpg",
     "imageAlt": "Golden Retriever",
-    "imagePath": "assets/images/golden-retriever.jpg"
+    "imagePath": "assets/images/golden-retriever.jpg",
+    "breedGroup": "Sporting Group",
+    "origin": "Scotland",
+    "temperament": "intelligent / friendly / devoted",
+    "lifeExpectancy": "10-12 years",
+    "height": "23-24 inches (male), 21.5-22.5 inches (female)",
+    "weight": "65-75 pounds (male), 55-65 pounds (female)",
+    "relatedCharacteristics": [
+      "Best Family Dogs",
+      "Best Dog Breeds for Kids",
+      "Smartest Breeds of Dogs"
+    ],
+    "traits": {
+      "adaptabilityLevel": 5,
+      "affectionateWithFamily": 5,
+      "barkingLevel": 1,
+      "coatGroomingFrequency": 2,
+      "coatLength": [
+        "Medium"
+      ],
+      "coatType": [
+        "Double"
+      ],
+      "droolingLevel": 2,
+      "energyLevel": 3,
+      "goodWithOtherDogs": 5,
+      "goodWithYoungChildren": 5,
+      "mentalStimulationNeeds": 4,
+      "opennessToStrangers": 5,
+      "playfulnessLevel": 4,
+      "sheddingLevel": 4,
+      "trainabilityLevel": 5,
+      "watchdogProtectiveNature": 3
+    },
+    "sizeCategory": "large",
+    "isFluffy": true
   },
   {
     "akcId": "24555",
@@ -1168,7 +5528,41 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/gordon-setter/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2017/11/Gordon-Setter.3-400x267.jpg",
     "imageAlt": "Gordon Setter",
-    "imagePath": "assets/images/gordon-setter.jpg"
+    "imagePath": "assets/images/gordon-setter.jpg",
+    "breedGroup": "Sporting Group",
+    "origin": "Scotland",
+    "temperament": "confident / affectionate / bold",
+    "lifeExpectancy": "12-13 years",
+    "height": "24-27 inches (male), 23-26 inches (female)",
+    "weight": "55-80 pounds (male), 45-70 pounds (female)",
+    "relatedCharacteristics": [
+      "Best Family Dogs",
+      "Largest Dog Breeds"
+    ],
+    "traits": {
+      "adaptabilityLevel": 4,
+      "affectionateWithFamily": 5,
+      "barkingLevel": 3,
+      "coatGroomingFrequency": 2,
+      "coatLength": [
+        "Medium"
+      ],
+      "coatType": [
+        "Double"
+      ],
+      "droolingLevel": 4,
+      "energyLevel": 5,
+      "goodWithOtherDogs": 3,
+      "goodWithYoungChildren": 3,
+      "mentalStimulationNeeds": 4,
+      "opennessToStrangers": 3,
+      "playfulnessLevel": 3,
+      "sheddingLevel": 3,
+      "trainabilityLevel": 5,
+      "watchdogProtectiveNature": 4
+    },
+    "sizeCategory": "large",
+    "isFluffy": true
   },
   {
     "akcId": "24570",
@@ -1177,7 +5571,41 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/grand-basset-griffon-vendeen/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2017/11/GBGV.2-400x267.jpg",
     "imageAlt": "Grand Basset Griffon Vendéen",
-    "imagePath": "assets/images/grand-basset-griffon-vendeen.jpg"
+    "imagePath": "assets/images/grand-basset-griffon-vendeen.jpg",
+    "breedGroup": "Hound Group",
+    "origin": "France",
+    "temperament": "independent / outgoing / happy",
+    "lifeExpectancy": "13-15 years",
+    "height": "15.5-18 inches",
+    "weight": "40-45 pounds",
+    "relatedCharacteristics": [
+      "Medium Dog Breeds"
+    ],
+    "traits": {
+      "adaptabilityLevel": 4,
+      "affectionateWithFamily": 5,
+      "barkingLevel": 4,
+      "coatGroomingFrequency": 2,
+      "coatLength": [
+        "Medium"
+      ],
+      "coatType": [
+        "Double",
+        "Wiry"
+      ],
+      "droolingLevel": 2,
+      "energyLevel": 5,
+      "goodWithOtherDogs": 4,
+      "goodWithYoungChildren": 3,
+      "mentalStimulationNeeds": 4,
+      "opennessToStrangers": 5,
+      "playfulnessLevel": 4,
+      "sheddingLevel": 3,
+      "trainabilityLevel": 3,
+      "watchdogProtectiveNature": 3
+    },
+    "sizeCategory": "medium",
+    "isFluffy": true
   },
   {
     "akcId": "24572",
@@ -1186,7 +5614,40 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/great-dane/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2017/11/Great-Dane-standing-in-profile-outdoors1-400x267.jpg",
     "imageAlt": "Great Dane",
-    "imagePath": "assets/images/great-dane.jpg"
+    "imagePath": "assets/images/great-dane.jpg",
+    "breedGroup": "Working Group",
+    "origin": "Germany",
+    "temperament": "friendly / patient / dependable",
+    "lifeExpectancy": "7-10 years",
+    "height": "30-32 inches (male), 28-30 inches (female)",
+    "weight": "140-175 pounds (male), 110-140 pounds (female)",
+    "relatedCharacteristics": [
+      "Largest Dog Breeds"
+    ],
+    "traits": {
+      "adaptabilityLevel": 4,
+      "affectionateWithFamily": 5,
+      "barkingLevel": 3,
+      "coatGroomingFrequency": 1,
+      "coatLength": [
+        "Short"
+      ],
+      "coatType": [
+        "Smooth"
+      ],
+      "droolingLevel": 4,
+      "energyLevel": 4,
+      "goodWithOtherDogs": 3,
+      "goodWithYoungChildren": 3,
+      "mentalStimulationNeeds": 4,
+      "opennessToStrangers": 3,
+      "playfulnessLevel": 4,
+      "sheddingLevel": 3,
+      "trainabilityLevel": 3,
+      "watchdogProtectiveNature": 5
+    },
+    "sizeCategory": "large",
+    "isFluffy": false
   },
   {
     "akcId": "24593",
@@ -1195,7 +5656,40 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/great-pyrenees/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2017/11/Great-Pyrenees-on-White-04-400x267.jpg",
     "imageAlt": "Great Pyrenees",
-    "imagePath": "assets/images/great-pyrenees.jpg"
+    "imagePath": "assets/images/great-pyrenees.jpg",
+    "breedGroup": "Working Group",
+    "origin": "France",
+    "temperament": "smart / patient / calm",
+    "lifeExpectancy": "10-12 years",
+    "height": "27-32 inches (male), 25-29 inches (female)",
+    "weight": "100 pounds & up (male), 85 pounds & up (female)",
+    "relatedCharacteristics": [
+      "Largest Dog Breeds"
+    ],
+    "traits": {
+      "adaptabilityLevel": 3,
+      "affectionateWithFamily": 5,
+      "barkingLevel": 3,
+      "coatGroomingFrequency": 2,
+      "coatLength": [
+        "Medium"
+      ],
+      "coatType": [
+        "Double"
+      ],
+      "droolingLevel": 3,
+      "energyLevel": 3,
+      "goodWithOtherDogs": 3,
+      "goodWithYoungChildren": 3,
+      "mentalStimulationNeeds": 3,
+      "opennessToStrangers": 3,
+      "playfulnessLevel": 3,
+      "sheddingLevel": 3,
+      "trainabilityLevel": 3,
+      "watchdogProtectiveNature": 5
+    },
+    "sizeCategory": "large",
+    "isFluffy": true
   },
   {
     "akcId": "24603",
@@ -1204,7 +5698,38 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/greater-swiss-mountain-dog/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2017/11/Greater-Swiss-Mountain-Dog-laying-down-in-the-grass-400x267.jpg",
     "imageAlt": "Greater Swiss Mountain Dog",
-    "imagePath": "assets/images/greater-swiss-mountain-dog.jpg"
+    "imagePath": "assets/images/greater-swiss-mountain-dog.jpg",
+    "breedGroup": "Working Group",
+    "origin": "Switzerland",
+    "temperament": "faithful / family-oriented / dependable",
+    "lifeExpectancy": "8-11 years",
+    "height": "25.5-28.5 inches (male), 23.7-27 inches (female)",
+    "weight": "115-140 pounds (male), 85-110 pounds (female)",
+    "relatedCharacteristics": [],
+    "traits": {
+      "adaptabilityLevel": 3,
+      "affectionateWithFamily": 5,
+      "barkingLevel": 3,
+      "coatGroomingFrequency": 2,
+      "coatLength": [
+        "Short"
+      ],
+      "coatType": [
+        "Smooth"
+      ],
+      "droolingLevel": 3,
+      "energyLevel": 4,
+      "goodWithOtherDogs": 3,
+      "goodWithYoungChildren": 5,
+      "mentalStimulationNeeds": 4,
+      "opennessToStrangers": 5,
+      "playfulnessLevel": 4,
+      "sheddingLevel": 3,
+      "trainabilityLevel": 4,
+      "watchdogProtectiveNature": 4
+    },
+    "sizeCategory": "large",
+    "isFluffy": false
   },
   {
     "akcId": "24618",
@@ -1213,7 +5738,41 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/greyhound/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2017/11/Greyhound-running-400x267.jpg",
     "imageAlt": "Greyhound",
-    "imagePath": "assets/images/greyhound.jpg"
+    "imagePath": "assets/images/greyhound.jpg",
+    "breedGroup": "Hound Group",
+    "origin": "Egypt",
+    "temperament": "independent / gentle / noble",
+    "lifeExpectancy": "10-13 years",
+    "height": "28-30 inches (male), 27-28 inches (female)",
+    "weight": "65-70 pounds (male), 60-65 pounds (female)",
+    "relatedCharacteristics": [
+      "Best Dogs for Apartment Dwellers",
+      "Largest Dog Breeds"
+    ],
+    "traits": {
+      "adaptabilityLevel": 4,
+      "affectionateWithFamily": 4,
+      "barkingLevel": 3,
+      "coatGroomingFrequency": 1,
+      "coatLength": [
+        "Short"
+      ],
+      "coatType": [
+        "Smooth"
+      ],
+      "droolingLevel": 1,
+      "energyLevel": 4,
+      "goodWithOtherDogs": 4,
+      "goodWithYoungChildren": 3,
+      "mentalStimulationNeeds": 3,
+      "opennessToStrangers": 3,
+      "playfulnessLevel": 3,
+      "sheddingLevel": 2,
+      "trainabilityLevel": 3,
+      "watchdogProtectiveNature": 3
+    },
+    "sizeCategory": "large",
+    "isFluffy": false
   },
   {
     "akcId": "24633",
@@ -1222,7 +5781,40 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/hamiltonstovare/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2017/11/Hamiltonstovare-on-White-011-400x267.jpg",
     "imageAlt": "Hamiltonstovare",
-    "imagePath": "assets/images/hamiltonstovare.jpg"
+    "imagePath": "assets/images/hamiltonstovare.jpg",
+    "breedGroup": "Foundation Stock Service",
+    "origin": "Sweden",
+    "temperament": "versatile / agile / regal",
+    "lifeExpectancy": "14-17 years",
+    "height": "19-24 inches",
+    "weight": "40-75 pounds",
+    "relatedCharacteristics": [
+      "Medium Dog Breeds"
+    ],
+    "traits": {
+      "adaptabilityLevel": 3,
+      "affectionateWithFamily": 5,
+      "barkingLevel": 3,
+      "coatGroomingFrequency": 2,
+      "coatLength": [
+        "Short"
+      ],
+      "coatType": [
+        "Smooth"
+      ],
+      "droolingLevel": 2,
+      "energyLevel": 4,
+      "goodWithOtherDogs": 3,
+      "goodWithYoungChildren": 5,
+      "mentalStimulationNeeds": 4,
+      "opennessToStrangers": 5,
+      "playfulnessLevel": 4,
+      "sheddingLevel": 3,
+      "trainabilityLevel": 4,
+      "watchdogProtectiveNature": 4
+    },
+    "sizeCategory": "large",
+    "isFluffy": false
   },
   {
     "akcId": "24635",
@@ -1231,7 +5823,40 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/hanoverian-scenthound/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2017/11/Hanoverian-Scenthound.1-400x267.jpg",
     "imageAlt": "Hanoverian Scenthound",
-    "imagePath": "assets/images/hanoverian-scenthound.jpg"
+    "imagePath": "assets/images/hanoverian-scenthound.jpg",
+    "breedGroup": "Foundation Stock Service",
+    "origin": "Germany",
+    "temperament": "independent / loyal / calm",
+    "lifeExpectancy": "10-14 years",
+    "height": "19-21 inches",
+    "weight": "79-99 pounds",
+    "relatedCharacteristics": [
+      "Largest Dog Breeds"
+    ],
+    "traits": {
+      "adaptabilityLevel": 3,
+      "affectionateWithFamily": 3,
+      "barkingLevel": 4,
+      "coatGroomingFrequency": 2,
+      "coatLength": [
+        "Short"
+      ],
+      "coatType": [
+        "Smooth"
+      ],
+      "droolingLevel": 2,
+      "energyLevel": 4,
+      "goodWithOtherDogs": 5,
+      "goodWithYoungChildren": 3,
+      "mentalStimulationNeeds": 3,
+      "opennessToStrangers": 3,
+      "playfulnessLevel": 3,
+      "sheddingLevel": 3,
+      "trainabilityLevel": 4,
+      "watchdogProtectiveNature": 2
+    },
+    "sizeCategory": "large",
+    "isFluffy": false
   },
   {
     "akcId": "24638",
@@ -1240,7 +5865,38 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/harrier/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2017/11/Harrier3-400x267.jpg",
     "imageAlt": "Harrier",
-    "imagePath": "assets/images/harrier.jpg"
+    "imagePath": "assets/images/harrier.jpg",
+    "breedGroup": "Hound Group",
+    "origin": "England",
+    "temperament": "friendly / outgoing / people-oriented",
+    "lifeExpectancy": "12-15 years",
+    "height": "19-21 inches",
+    "weight": "45-60 pounds",
+    "relatedCharacteristics": [],
+    "traits": {
+      "adaptabilityLevel": 4,
+      "affectionateWithFamily": 5,
+      "barkingLevel": 5,
+      "coatGroomingFrequency": 1,
+      "coatLength": [
+        "Short"
+      ],
+      "coatType": [
+        "Double"
+      ],
+      "droolingLevel": 2,
+      "energyLevel": 4,
+      "goodWithOtherDogs": 5,
+      "goodWithYoungChildren": 5,
+      "mentalStimulationNeeds": 4,
+      "opennessToStrangers": 4,
+      "playfulnessLevel": 4,
+      "sheddingLevel": 3,
+      "trainabilityLevel": 4,
+      "watchdogProtectiveNature": 3
+    },
+    "sizeCategory": "large",
+    "isFluffy": true
   },
   {
     "akcId": "24653",
@@ -1249,7 +5905,42 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/havanese/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2017/11/Havanese-standing-outdoors-400x267.jpg",
     "imageAlt": "Havanese",
-    "imagePath": "assets/images/havanese.jpg"
+    "imagePath": "assets/images/havanese.jpg",
+    "breedGroup": "Toy Group",
+    "origin": "Cuba",
+    "temperament": "intelligent / outgoing / funny",
+    "lifeExpectancy": "14-16 years",
+    "height": "8.5-11.5 inches",
+    "weight": "7-13 pounds",
+    "relatedCharacteristics": [
+      "Smallest Dog Breeds",
+      "Best Dogs for Apartment Dwellers"
+    ],
+    "traits": {
+      "adaptabilityLevel": 5,
+      "affectionateWithFamily": 5,
+      "barkingLevel": 4,
+      "coatGroomingFrequency": 3,
+      "coatLength": [
+        "Long"
+      ],
+      "coatType": [
+        "Silky",
+        "Double"
+      ],
+      "droolingLevel": 1,
+      "energyLevel": 3,
+      "goodWithOtherDogs": 5,
+      "goodWithYoungChildren": 5,
+      "mentalStimulationNeeds": 3,
+      "opennessToStrangers": 5,
+      "playfulnessLevel": 5,
+      "sheddingLevel": 2,
+      "trainabilityLevel": 4,
+      "watchdogProtectiveNature": 3
+    },
+    "sizeCategory": "small",
+    "isFluffy": true
   },
   {
     "akcId": "24667",
@@ -1258,7 +5949,40 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/hokkaido/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2017/11/Hokkaido.1-400x267.jpg",
     "imageAlt": "Hokkaido",
-    "imagePath": "assets/images/hokkaido.jpg"
+    "imagePath": "assets/images/hokkaido.jpg",
+    "breedGroup": "Foundation Stock Service",
+    "origin": "Japan",
+    "temperament": "dignified / alert / devoted",
+    "lifeExpectancy": "12-15 years",
+    "height": "18-20 inches",
+    "weight": "44-66 pounds",
+    "relatedCharacteristics": [
+      "Medium Dog Breeds"
+    ],
+    "traits": {
+      "adaptabilityLevel": 3,
+      "affectionateWithFamily": 5,
+      "barkingLevel": 3,
+      "coatGroomingFrequency": 2,
+      "coatLength": [
+        "Medium"
+      ],
+      "coatType": [
+        "Double"
+      ],
+      "droolingLevel": 2,
+      "energyLevel": 4,
+      "goodWithOtherDogs": 3,
+      "goodWithYoungChildren": 3,
+      "mentalStimulationNeeds": 4,
+      "opennessToStrangers": 3,
+      "playfulnessLevel": 3,
+      "sheddingLevel": 3,
+      "trainabilityLevel": 4,
+      "watchdogProtectiveNature": 5
+    },
+    "sizeCategory": "large",
+    "isFluffy": true
   },
   {
     "akcId": "24669",
@@ -1267,7 +5991,41 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/hovawart/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2017/11/Hovawart.10-400x267.jpg",
     "imageAlt": "Hovawart",
-    "imagePath": "assets/images/hovawart.jpg"
+    "imagePath": "assets/images/hovawart.jpg",
+    "breedGroup": "Foundation Stock Service",
+    "origin": "Germany",
+    "temperament": "alert / intelligent / faithful",
+    "lifeExpectancy": "10-14 years",
+    "height": "23-28 inches",
+    "weight": "65-90 pounds",
+    "relatedCharacteristics": [
+      "Largest Dog Breeds",
+      "Best Guard Dogs"
+    ],
+    "traits": {
+      "adaptabilityLevel": 4,
+      "affectionateWithFamily": 5,
+      "barkingLevel": 1,
+      "coatGroomingFrequency": 2,
+      "coatLength": [
+        "Medium"
+      ],
+      "coatType": [
+        "Double"
+      ],
+      "droolingLevel": 2,
+      "energyLevel": 3,
+      "goodWithOtherDogs": 4,
+      "goodWithYoungChildren": 4,
+      "mentalStimulationNeeds": 4,
+      "opennessToStrangers": 4,
+      "playfulnessLevel": 4,
+      "sheddingLevel": 3,
+      "trainabilityLevel": 4,
+      "watchdogProtectiveNature": 5
+    },
+    "sizeCategory": "large",
+    "isFluffy": true
   },
   {
     "akcId": "24672",
@@ -1276,7 +6034,41 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/ibizan-hound/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2017/11/Ibizan-Hound-sitting-in-profile-in-the-desert-400x267.jpg",
     "imageAlt": "Ibizan Hound",
-    "imagePath": "assets/images/ibizan-hound.jpg"
+    "imagePath": "assets/images/ibizan-hound.jpg",
+    "breedGroup": "Hound Group",
+    "origin": "Spain",
+    "temperament": "family-oriented / even-tempered / polite",
+    "lifeExpectancy": "11-14 years",
+    "height": "23.5-27.5 inches (male), 22.5-26 inches (female)",
+    "weight": "50 pounds (male), 45 pounds (female)",
+    "relatedCharacteristics": [
+      "Largest Dog Breeds"
+    ],
+    "traits": {
+      "adaptabilityLevel": 4,
+      "affectionateWithFamily": 5,
+      "barkingLevel": 3,
+      "coatGroomingFrequency": 1,
+      "coatLength": [
+        "Short"
+      ],
+      "coatType": [
+        "Smooth",
+        "Wiry"
+      ],
+      "droolingLevel": 1,
+      "energyLevel": 5,
+      "goodWithOtherDogs": 5,
+      "goodWithYoungChildren": 3,
+      "mentalStimulationNeeds": 5,
+      "opennessToStrangers": 3,
+      "playfulnessLevel": 4,
+      "sheddingLevel": 2,
+      "trainabilityLevel": 3,
+      "watchdogProtectiveNature": 3
+    },
+    "sizeCategory": "medium",
+    "isFluffy": false
   },
   {
     "akcId": "24687",
@@ -1285,7 +6077,41 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/icelandic-sheepdog/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2017/11/Icelandic-Sitting-400x267.jpg",
     "imageAlt": "Icelandic Sheepdog",
-    "imagePath": "assets/images/icelandic-sheepdog.jpg"
+    "imagePath": "assets/images/icelandic-sheepdog.jpg",
+    "breedGroup": "Herding Group",
+    "origin": "Iceland",
+    "temperament": "friendly / playful / inquisitive",
+    "lifeExpectancy": "12-14 years",
+    "height": "18 inches (male), 16.5 inches (female)",
+    "weight": "30 pounds (male), 25 pounds (female)",
+    "relatedCharacteristics": [
+      "Best Family Dogs",
+      "Medium Dog Breeds"
+    ],
+    "traits": {
+      "adaptabilityLevel": 4,
+      "affectionateWithFamily": 5,
+      "barkingLevel": 4,
+      "coatGroomingFrequency": 2,
+      "coatLength": [
+        "Medium"
+      ],
+      "coatType": [
+        "Double"
+      ],
+      "droolingLevel": 2,
+      "energyLevel": 4,
+      "goodWithOtherDogs": 4,
+      "goodWithYoungChildren": 5,
+      "mentalStimulationNeeds": 5,
+      "opennessToStrangers": 3,
+      "playfulnessLevel": 3,
+      "sheddingLevel": 3,
+      "trainabilityLevel": 5,
+      "watchdogProtectiveNature": 4
+    },
+    "sizeCategory": "medium",
+    "isFluffy": true
   },
   {
     "akcId": "24701",
@@ -1294,7 +6120,39 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/irish-red-and-white-setter/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2017/11/Irish-Red-and-White-Setter-stalking-in-a-field-400x267.jpg",
     "imageAlt": "Irish Red and White Setter",
-    "imagePath": "assets/images/irish-red-and-white-setter.jpg"
+    "imagePath": "assets/images/irish-red-and-white-setter.jpg",
+    "breedGroup": "Sporting Group",
+    "origin": "Ireland",
+    "temperament": "courageous / spirited / determined",
+    "lifeExpectancy": "11-15 years",
+    "height": "24.5-26 inches (male), 22.5-24 inches (female)",
+    "weight": "42-60 pounds (male), 35-50 pounds (female)",
+    "relatedCharacteristics": [],
+    "traits": {
+      "adaptabilityLevel": 5,
+      "affectionateWithFamily": 5,
+      "barkingLevel": 3,
+      "coatGroomingFrequency": 2,
+      "coatLength": [
+        "Medium"
+      ],
+      "coatType": [
+        "Silky",
+        "Double"
+      ],
+      "droolingLevel": 2,
+      "energyLevel": 5,
+      "goodWithOtherDogs": 5,
+      "goodWithYoungChildren": 5,
+      "mentalStimulationNeeds": 3,
+      "opennessToStrangers": 5,
+      "playfulnessLevel": 3,
+      "sheddingLevel": 2,
+      "trainabilityLevel": 5,
+      "watchdogProtectiveNature": 3
+    },
+    "sizeCategory": "large",
+    "isFluffy": true
   },
   {
     "akcId": "24715",
@@ -1303,7 +6161,40 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/irish-setter/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2017/11/Irish-Setter-on-point-in-a-field-400x267.jpg",
     "imageAlt": "Irish Setter",
-    "imagePath": "assets/images/irish-setter.jpg"
+    "imagePath": "assets/images/irish-setter.jpg",
+    "breedGroup": "Sporting Group",
+    "origin": "Ireland",
+    "temperament": "active / sweet-natured / outgoing",
+    "lifeExpectancy": "12-15 years",
+    "height": "27 inches (male), 25 inches (female)",
+    "weight": "70 pounds (male), 60 pounds (female)",
+    "relatedCharacteristics": [
+      "Best Family Dogs"
+    ],
+    "traits": {
+      "adaptabilityLevel": 4,
+      "affectionateWithFamily": 5,
+      "barkingLevel": 3,
+      "coatGroomingFrequency": 3,
+      "coatLength": [
+        "Medium"
+      ],
+      "coatType": [
+        "Silky"
+      ],
+      "droolingLevel": 2,
+      "energyLevel": 5,
+      "goodWithOtherDogs": 5,
+      "goodWithYoungChildren": 5,
+      "mentalStimulationNeeds": 4,
+      "opennessToStrangers": 5,
+      "playfulnessLevel": 5,
+      "sheddingLevel": 3,
+      "trainabilityLevel": 4,
+      "watchdogProtectiveNature": 3
+    },
+    "sizeCategory": "large",
+    "isFluffy": false
   },
   {
     "akcId": "24729",
@@ -1312,7 +6203,39 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/irish-terrier/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2017/11/Irish-Terriers-sitting-together-400x267.jpg",
     "imageAlt": "Irish Terrier",
-    "imagePath": "assets/images/irish-terrier.jpg"
+    "imagePath": "assets/images/irish-terrier.jpg",
+    "breedGroup": "Terrier Group",
+    "origin": "Ireland",
+    "temperament": "bold / dashing / tenderhearted",
+    "lifeExpectancy": "13-15 years",
+    "height": "18 inches",
+    "weight": "27 pounds (male), 25 pounds (female)",
+    "relatedCharacteristics": [],
+    "traits": {
+      "adaptabilityLevel": 4,
+      "affectionateWithFamily": 5,
+      "barkingLevel": 3,
+      "coatGroomingFrequency": 1,
+      "coatLength": [
+        "Medium"
+      ],
+      "coatType": [
+        "Double",
+        "Wiry"
+      ],
+      "droolingLevel": 1,
+      "energyLevel": 3,
+      "goodWithOtherDogs": 1,
+      "goodWithYoungChildren": 5,
+      "mentalStimulationNeeds": 4,
+      "opennessToStrangers": 3,
+      "playfulnessLevel": 3,
+      "sheddingLevel": 2,
+      "trainabilityLevel": 3,
+      "watchdogProtectiveNature": 5
+    },
+    "sizeCategory": "medium",
+    "isFluffy": true
   },
   {
     "akcId": "24744",
@@ -1321,7 +6244,40 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/irish-water-spaniel/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2017/11/Irish-Water-Spaniel-On-White-01-400x267.jpg",
     "imageAlt": "Irish Water Spaniel",
-    "imagePath": "assets/images/irish-water-spaniel.jpg"
+    "imagePath": "assets/images/irish-water-spaniel.jpg",
+    "breedGroup": "Sporting Group",
+    "origin": "Ireland",
+    "temperament": "playful / hardworking / brave",
+    "lifeExpectancy": "12-13 years",
+    "height": "22-24 inches (male), 21-23 inches (female)",
+    "weight": "55-68 pounds (male), 45-58 pounds (female)",
+    "relatedCharacteristics": [
+      "Hypoallergenic Dogs"
+    ],
+    "traits": {
+      "adaptabilityLevel": 4,
+      "affectionateWithFamily": 5,
+      "barkingLevel": 1,
+      "coatGroomingFrequency": 3,
+      "coatLength": [
+        "Medium"
+      ],
+      "coatType": [
+        "Curly"
+      ],
+      "droolingLevel": 2,
+      "energyLevel": 3,
+      "goodWithOtherDogs": 3,
+      "goodWithYoungChildren": 3,
+      "mentalStimulationNeeds": 4,
+      "opennessToStrangers": 3,
+      "playfulnessLevel": 5,
+      "sheddingLevel": 1,
+      "trainabilityLevel": 5,
+      "watchdogProtectiveNature": 3
+    },
+    "sizeCategory": "large",
+    "isFluffy": true
   },
   {
     "akcId": "24759",
@@ -1330,7 +6286,40 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/irish-wolfhound/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2017/11/Irish-Wolfhound-standing-in-a-field-400x267.jpg",
     "imageAlt": "Irish Wolfhound",
-    "imagePath": "assets/images/irish-wolfhound.jpg"
+    "imagePath": "assets/images/irish-wolfhound.jpg",
+    "breedGroup": "Hound Group",
+    "origin": "Ireland",
+    "temperament": "dignified / courageous / calm",
+    "lifeExpectancy": "6-8 years",
+    "height": "32 inches minimum (male), 30 inches minimum (female)",
+    "weight": "120 pounds (male), 105 pounds (female)",
+    "relatedCharacteristics": [
+      "Largest Dog Breeds"
+    ],
+    "traits": {
+      "adaptabilityLevel": 3,
+      "affectionateWithFamily": 5,
+      "barkingLevel": 1,
+      "coatGroomingFrequency": 2,
+      "coatLength": [
+        "Medium"
+      ],
+      "coatType": [
+        "Wiry"
+      ],
+      "droolingLevel": 2,
+      "energyLevel": 3,
+      "goodWithOtherDogs": 4,
+      "goodWithYoungChildren": 3,
+      "mentalStimulationNeeds": 3,
+      "opennessToStrangers": 3,
+      "playfulnessLevel": 3,
+      "sheddingLevel": 3,
+      "trainabilityLevel": 3,
+      "watchdogProtectiveNature": 5
+    },
+    "sizeCategory": "large",
+    "isFluffy": false
   },
   {
     "akcId": "24774",
@@ -1339,7 +6328,40 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/italian-greyhound/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2017/11/Two-Italian-Greyhounds-400x267.jpg",
     "imageAlt": "Italian Greyhound",
-    "imagePath": "assets/images/italian-greyhound.jpg"
+    "imagePath": "assets/images/italian-greyhound.jpg",
+    "breedGroup": "Toy Group",
+    "origin": "The Mediterranean basin",
+    "temperament": "alert / playful / sensitive",
+    "lifeExpectancy": "14-15 years",
+    "height": "13-15 inches",
+    "weight": "7-14 pounds",
+    "relatedCharacteristics": [
+      "Smallest Dog Breeds"
+    ],
+    "traits": {
+      "adaptabilityLevel": 4,
+      "affectionateWithFamily": 5,
+      "barkingLevel": 3,
+      "coatGroomingFrequency": 1,
+      "coatLength": [
+        "Short"
+      ],
+      "coatType": [
+        "Smooth"
+      ],
+      "droolingLevel": 1,
+      "energyLevel": 3,
+      "goodWithOtherDogs": 5,
+      "goodWithYoungChildren": 3,
+      "mentalStimulationNeeds": 3,
+      "opennessToStrangers": 5,
+      "playfulnessLevel": 4,
+      "sheddingLevel": 3,
+      "trainabilityLevel": 4,
+      "watchdogProtectiveNature": 3
+    },
+    "sizeCategory": "small",
+    "isFluffy": false
   },
   {
     "akcId": "24789",
@@ -1348,7 +6370,42 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/jagdterrier/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2017/11/Jagdterrier.4-400x267.jpg",
     "imageAlt": "Jagdterrier",
-    "imagePath": "assets/images/jagdterrier.jpg"
+    "imagePath": "assets/images/jagdterrier.jpg",
+    "breedGroup": "Foundation Stock Service",
+    "origin": "Germany",
+    "temperament": "intelligent / courageous / hardworking",
+    "lifeExpectancy": "10-12 years",
+    "height": "13-16 inches",
+    "weight": "17-22 pounds",
+    "relatedCharacteristics": [
+      "Smallest Dog Breeds"
+    ],
+    "traits": {
+      "adaptabilityLevel": 3,
+      "affectionateWithFamily": 5,
+      "barkingLevel": 1,
+      "coatGroomingFrequency": 1,
+      "coatLength": [
+        "Short"
+      ],
+      "coatType": [
+        "Rough",
+        "Smooth",
+        "Wiry"
+      ],
+      "droolingLevel": 1,
+      "energyLevel": 3,
+      "goodWithOtherDogs": 3,
+      "goodWithYoungChildren": 3,
+      "mentalStimulationNeeds": 4,
+      "opennessToStrangers": 3,
+      "playfulnessLevel": 4,
+      "sheddingLevel": 2,
+      "trainabilityLevel": 3,
+      "watchdogProtectiveNature": 4
+    },
+    "sizeCategory": "medium",
+    "isFluffy": false
   },
   {
     "akcId": "116964",
@@ -1357,7 +6414,40 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/japanese-akitainu/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2020/11/Japanese-Akitainu-standing-in-the-forest-400x267.jpg",
     "imageAlt": "Japanese Akitainu",
-    "imagePath": "assets/images/japanese-akitainu.jpg"
+    "imagePath": "assets/images/japanese-akitainu.jpg",
+    "breedGroup": "Miscellaneous Class",
+    "origin": "Japan",
+    "temperament": "dignified / alert / aloof",
+    "lifeExpectancy": "10-12 years",
+    "height": "25-27.5 inches (male), 22.5-25 inches (female)",
+    "weight": "65-75 pounds (male), 55-65 pounds (female)",
+    "relatedCharacteristics": [
+      "Medium Dog Breeds"
+    ],
+    "traits": {
+      "adaptabilityLevel": 3,
+      "affectionateWithFamily": 1,
+      "barkingLevel": 3,
+      "coatGroomingFrequency": 3,
+      "coatLength": [
+        "Medium"
+      ],
+      "coatType": [
+        "Double"
+      ],
+      "droolingLevel": 1,
+      "energyLevel": 3,
+      "goodWithOtherDogs": 1,
+      "goodWithYoungChildren": 3,
+      "mentalStimulationNeeds": 3,
+      "opennessToStrangers": 1,
+      "playfulnessLevel": 3,
+      "sheddingLevel": 5,
+      "trainabilityLevel": 1,
+      "watchdogProtectiveNature": 5
+    },
+    "sizeCategory": "large",
+    "isFluffy": true
   },
   {
     "akcId": "24790",
@@ -1366,7 +6456,40 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/japanese-chin/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2017/11/Japanese-Chin-standing-outdoors-400x267.jpg",
     "imageAlt": "Japanese Chin",
-    "imagePath": "assets/images/japanese-chin.jpg"
+    "imagePath": "assets/images/japanese-chin.jpg",
+    "breedGroup": "Toy Group",
+    "origin": "Japan",
+    "temperament": "charming / loving / noble",
+    "lifeExpectancy": "10-12 years",
+    "height": "8-11 inches",
+    "weight": "7-11 pounds",
+    "relatedCharacteristics": [
+      "Smallest Dog Breeds"
+    ],
+    "traits": {
+      "adaptabilityLevel": 4,
+      "affectionateWithFamily": 5,
+      "barkingLevel": 2,
+      "coatGroomingFrequency": 2,
+      "coatLength": [
+        "Medium"
+      ],
+      "coatType": [
+        "Silky"
+      ],
+      "droolingLevel": 1,
+      "energyLevel": 3,
+      "goodWithOtherDogs": 5,
+      "goodWithYoungChildren": 3,
+      "mentalStimulationNeeds": 3,
+      "opennessToStrangers": 3,
+      "playfulnessLevel": 3,
+      "sheddingLevel": 3,
+      "trainabilityLevel": 3,
+      "watchdogProtectiveNature": 3
+    },
+    "sizeCategory": "small",
+    "isFluffy": false
   },
   {
     "akcId": "81150",
@@ -1375,7 +6498,43 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/japanese-spitz/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2019/06/Japanese-Spitz.4-400x267.jpg",
     "imageAlt": "Japanese Spitz",
-    "imagePath": "assets/images/japanese-spitz.jpg"
+    "imagePath": "assets/images/japanese-spitz.jpg",
+    "breedGroup": "Foundation Stock Service",
+    "origin": "Japan",
+    "temperament": "loyal, playful, smart",
+    "lifeExpectancy": "10-14 years",
+    "height": "12-15 inches",
+    "weight": "10-25 pounds",
+    "relatedCharacteristics": [
+      "Smallest Dog Breeds",
+      "Best Family Dogs",
+      "Best Dog Breeds for Kids",
+      "Best Dogs for Apartment Dwellers"
+    ],
+    "traits": {
+      "adaptabilityLevel": 5,
+      "affectionateWithFamily": 3,
+      "barkingLevel": 3,
+      "coatGroomingFrequency": 3,
+      "coatLength": [
+        "Medium"
+      ],
+      "coatType": [
+        "Double"
+      ],
+      "droolingLevel": 1,
+      "energyLevel": 3,
+      "goodWithOtherDogs": 5,
+      "goodWithYoungChildren": 5,
+      "mentalStimulationNeeds": 3,
+      "opennessToStrangers": 5,
+      "playfulnessLevel": 3,
+      "sheddingLevel": 3,
+      "trainabilityLevel": 5,
+      "watchdogProtectiveNature": 3
+    },
+    "sizeCategory": "medium",
+    "isFluffy": true
   },
   {
     "akcId": "119969",
@@ -1384,7 +6543,37 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/japanese-terrier/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2020/12/Japanese-Terrier-standing-outdoors-400x267.jpg",
     "imageAlt": "Japanese Terrier",
-    "imagePath": "assets/images/japanese-terrier.jpg"
+    "imagePath": "assets/images/japanese-terrier.jpg",
+    "breedGroup": "Foundation Stock Service",
+    "origin": "Japan",
+    "temperament": "reserved / independent / curious",
+    "lifeExpectancy": "13-15 years",
+    "height": "10-13 inches",
+    "weight": "10-12 lbs",
+    "relatedCharacteristics": [
+      "Smallest Dog Breeds",
+      "Best Dogs for Apartment Dwellers"
+    ],
+    "traits": {
+      "adaptabilityLevel": 5,
+      "affectionateWithFamily": 3,
+      "barkingLevel": 1,
+      "coatGroomingFrequency": 2,
+      "coatLength": [],
+      "coatType": [],
+      "droolingLevel": 1,
+      "energyLevel": 3,
+      "goodWithOtherDogs": 3,
+      "goodWithYoungChildren": 3,
+      "mentalStimulationNeeds": 3,
+      "opennessToStrangers": 3,
+      "playfulnessLevel": 3,
+      "sheddingLevel": 3,
+      "trainabilityLevel": 1,
+      "watchdogProtectiveNature": 5
+    },
+    "sizeCategory": "small",
+    "isFluffy": false
   },
   {
     "akcId": "24806",
@@ -1393,7 +6582,42 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/kai-ken/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2017/11/Kai-Ken-standing-in-profile-outdoors-400x267.jpg",
     "imageAlt": "Kai Ken",
-    "imagePath": "assets/images/kai-ken.jpg"
+    "imagePath": "assets/images/kai-ken.jpg",
+    "breedGroup": "Miscellaneous Class",
+    "origin": "Japan",
+    "temperament": "loyal / intelligent / agile",
+    "lifeExpectancy": "12-15 years",
+    "height": "18.5 - 19.5 (males), 15.5 - 17 (females)",
+    "weight": "30-40 (males), 25-35 (females)",
+    "relatedCharacteristics": [
+      "Best Family Dogs",
+      "Smartest Breeds of Dogs",
+      "Medium Dog Breeds"
+    ],
+    "traits": {
+      "adaptabilityLevel": 3,
+      "affectionateWithFamily": 5,
+      "barkingLevel": 3,
+      "coatGroomingFrequency": 1,
+      "coatLength": [
+        "Medium"
+      ],
+      "coatType": [
+        "Double"
+      ],
+      "droolingLevel": 1,
+      "energyLevel": 3,
+      "goodWithOtherDogs": 3,
+      "goodWithYoungChildren": 3,
+      "mentalStimulationNeeds": 3,
+      "opennessToStrangers": 1,
+      "playfulnessLevel": 3,
+      "sheddingLevel": 3,
+      "trainabilityLevel": 3,
+      "watchdogProtectiveNature": 5
+    },
+    "sizeCategory": "medium",
+    "isFluffy": true
   },
   {
     "akcId": "24808",
@@ -1402,7 +6626,40 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/karelian-bear-dog/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2017/11/Karelian-Bear-Dog-400x267.jpg",
     "imageAlt": "Karelian Bear Dog",
-    "imagePath": "assets/images/karelian-bear-dog.jpg"
+    "imagePath": "assets/images/karelian-bear-dog.jpg",
+    "breedGroup": "Foundation Stock Service",
+    "origin": "Finland",
+    "temperament": "independent / loyal / courageous",
+    "lifeExpectancy": "11-13 years",
+    "height": "19-23.5 inches",
+    "weight": "44-49 pounds",
+    "relatedCharacteristics": [
+      "Medium Dog Breeds"
+    ],
+    "traits": {
+      "adaptabilityLevel": 3,
+      "affectionateWithFamily": 3,
+      "barkingLevel": 3,
+      "coatGroomingFrequency": 3,
+      "coatLength": [
+        "Medium"
+      ],
+      "coatType": [
+        "Double"
+      ],
+      "droolingLevel": 2,
+      "energyLevel": 3,
+      "goodWithOtherDogs": 3,
+      "goodWithYoungChildren": 1,
+      "mentalStimulationNeeds": 3,
+      "opennessToStrangers": 3,
+      "playfulnessLevel": 3,
+      "sheddingLevel": 3,
+      "trainabilityLevel": 4,
+      "watchdogProtectiveNature": 5
+    },
+    "sizeCategory": "medium",
+    "isFluffy": true
   },
   {
     "akcId": "24810",
@@ -1411,7 +6668,43 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/keeshond/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2017/11/Keeshond-exploring-in-the-backyard-400x267.jpg",
     "imageAlt": "Keeshond",
-    "imagePath": "assets/images/keeshond.jpg"
+    "imagePath": "assets/images/keeshond.jpg",
+    "breedGroup": "Non-Sporting Group",
+    "origin": "The Netherlands",
+    "temperament": "friendly / lively / outgoing",
+    "lifeExpectancy": "12-15 years",
+    "height": "18 inches (male), 17 inches (female)",
+    "weight": "35-45 pounds",
+    "relatedCharacteristics": [
+      "Best Family Dogs",
+      "Best Dog Breeds for Kids",
+      "Best Dogs for Apartment Dwellers",
+      "Medium Dog Breeds"
+    ],
+    "traits": {
+      "adaptabilityLevel": 5,
+      "affectionateWithFamily": 5,
+      "barkingLevel": 4,
+      "coatGroomingFrequency": 3,
+      "coatLength": [
+        "Long"
+      ],
+      "coatType": [
+        "Double"
+      ],
+      "droolingLevel": 2,
+      "energyLevel": 4,
+      "goodWithOtherDogs": 5,
+      "goodWithYoungChildren": 5,
+      "mentalStimulationNeeds": 4,
+      "opennessToStrangers": 5,
+      "playfulnessLevel": 5,
+      "sheddingLevel": 3,
+      "trainabilityLevel": 5,
+      "watchdogProtectiveNature": 5
+    },
+    "sizeCategory": "medium",
+    "isFluffy": true
   },
   {
     "akcId": "24825",
@@ -1420,7 +6713,40 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/kerry-blue-terrier/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2017/11/Kerry-Blue-Terrier-standing-stacked-outdoors-400x267.jpg",
     "imageAlt": "Kerry Blue Terrier",
-    "imagePath": "assets/images/kerry-blue-terrier.jpg"
+    "imagePath": "assets/images/kerry-blue-terrier.jpg",
+    "breedGroup": "Terrier Group",
+    "origin": "Ireland",
+    "temperament": "alert / smart / people-oriented",
+    "lifeExpectancy": "12-15 years",
+    "height": "18-19.5 inches (male), 17.5-19 inches (female)",
+    "weight": "33-40 pounds (male), females weigh proportionately less than males",
+    "relatedCharacteristics": [
+      "Hypoallergenic Dogs"
+    ],
+    "traits": {
+      "adaptabilityLevel": 3,
+      "affectionateWithFamily": 5,
+      "barkingLevel": 4,
+      "coatGroomingFrequency": 3,
+      "coatLength": [
+        "Medium"
+      ],
+      "coatType": [
+        "Wavy"
+      ],
+      "droolingLevel": 2,
+      "energyLevel": 4,
+      "goodWithOtherDogs": 2,
+      "goodWithYoungChildren": 4,
+      "mentalStimulationNeeds": 4,
+      "opennessToStrangers": 3,
+      "playfulnessLevel": 3,
+      "sheddingLevel": 1,
+      "trainabilityLevel": 3,
+      "watchdogProtectiveNature": 5
+    },
+    "sizeCategory": "medium",
+    "isFluffy": true
   },
   {
     "akcId": "24839",
@@ -1429,7 +6755,42 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/kishu-ken/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2017/11/Kishu-Ken-standing-in-the-brush-at-sunset-400x267.jpg",
     "imageAlt": "Kishu Ken",
-    "imagePath": "assets/images/kishu-ken.jpg"
+    "imagePath": "assets/images/kishu-ken.jpg",
+    "breedGroup": "Foundation Stock Service",
+    "origin": "Japan",
+    "temperament": "alert / good-natured / confident",
+    "lifeExpectancy": "12-15 years",
+    "height": "19-22 inches",
+    "weight": "30-60 pounds",
+    "relatedCharacteristics": [
+      "Best Family Dogs",
+      "Smartest Breeds of Dogs",
+      "Medium Dog Breeds"
+    ],
+    "traits": {
+      "adaptabilityLevel": 3,
+      "affectionateWithFamily": 5,
+      "barkingLevel": 1,
+      "coatGroomingFrequency": 1,
+      "coatLength": [
+        "Short"
+      ],
+      "coatType": [
+        "Double"
+      ],
+      "droolingLevel": 1,
+      "energyLevel": 3,
+      "goodWithOtherDogs": 3,
+      "goodWithYoungChildren": 3,
+      "mentalStimulationNeeds": 5,
+      "opennessToStrangers": 5,
+      "playfulnessLevel": 3,
+      "sheddingLevel": 3,
+      "trainabilityLevel": 3,
+      "watchdogProtectiveNature": 3
+    },
+    "sizeCategory": "large",
+    "isFluffy": true
   },
   {
     "akcId": "24841",
@@ -1438,7 +6799,40 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/komondor/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2017/11/Komondor-standing-in-the-park-400x267.jpg",
     "imageAlt": "Komondor",
-    "imagePath": "assets/images/komondor.jpg"
+    "imagePath": "assets/images/komondor.jpg",
+    "breedGroup": "Working Group",
+    "origin": "Hungary",
+    "temperament": "dignified / loyal / brave",
+    "lifeExpectancy": "10-12 years",
+    "height": "27.5 minimum inches (male), 25.5 minimum inches (female)",
+    "weight": "100 pounds or more (male), 80 pounds or more (female)",
+    "relatedCharacteristics": [
+      "Largest Dog Breeds"
+    ],
+    "traits": {
+      "adaptabilityLevel": 3,
+      "affectionateWithFamily": 5,
+      "barkingLevel": 3,
+      "coatGroomingFrequency": 4,
+      "coatLength": [
+        "Long"
+      ],
+      "coatType": [
+        "Corded"
+      ],
+      "droolingLevel": 2,
+      "energyLevel": 3,
+      "goodWithOtherDogs": 2,
+      "goodWithYoungChildren": 3,
+      "mentalStimulationNeeds": 3,
+      "opennessToStrangers": 3,
+      "playfulnessLevel": 3,
+      "sheddingLevel": 1,
+      "trainabilityLevel": 4,
+      "watchdogProtectiveNature": 5
+    },
+    "sizeCategory": "large",
+    "isFluffy": true
   },
   {
     "akcId": "24804",
@@ -1447,7 +6841,41 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/korean-jindo-dog/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2017/11/Jindo-standing-in-the-yard-400x267.jpg",
     "imageAlt": "Korean Jindo Dog",
-    "imagePath": "assets/images/korean-jindo-dog.jpg"
+    "imagePath": "assets/images/korean-jindo-dog.jpg",
+    "breedGroup": "Foundation Stock Service",
+    "origin": "South Korea",
+    "temperament": "alert / loyal / intelligent",
+    "lifeExpectancy": "14-15 years",
+    "height": "19-22 (males), 17-20 (females)",
+    "weight": "40 -50 (males), 30-40 (females)",
+    "relatedCharacteristics": [
+      "Smartest Breeds of Dogs",
+      "Medium Dog Breeds"
+    ],
+    "traits": {
+      "adaptabilityLevel": 1,
+      "affectionateWithFamily": 3,
+      "barkingLevel": 3,
+      "coatGroomingFrequency": 3,
+      "coatLength": [
+        "Medium"
+      ],
+      "coatType": [
+        "Double"
+      ],
+      "droolingLevel": 1,
+      "energyLevel": 3,
+      "goodWithOtherDogs": 1,
+      "goodWithYoungChildren": 3,
+      "mentalStimulationNeeds": 3,
+      "opennessToStrangers": 1,
+      "playfulnessLevel": 3,
+      "sheddingLevel": 3,
+      "trainabilityLevel": 3,
+      "watchdogProtectiveNature": 3
+    },
+    "sizeCategory": "medium",
+    "isFluffy": true
   },
   {
     "akcId": "24856",
@@ -1456,7 +6884,41 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/kromfohrlander/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2017/11/Kromfohrlander.6-400x267.jpg",
     "imageAlt": "Kromfohrlander",
-    "imagePath": "assets/images/kromfohrlander.jpg"
+    "imagePath": "assets/images/kromfohrlander.jpg",
+    "breedGroup": "Foundation Stock Service",
+    "origin": "Germany",
+    "temperament": "intelligent / active / sensitive",
+    "lifeExpectancy": "13-15 years",
+    "height": "15-18 inches",
+    "weight": "20-35 pounds",
+    "relatedCharacteristics": [
+      "Medium Dog Breeds"
+    ],
+    "traits": {
+      "adaptabilityLevel": 4,
+      "affectionateWithFamily": 5,
+      "barkingLevel": 3,
+      "coatGroomingFrequency": 1,
+      "coatLength": [
+        "Short"
+      ],
+      "coatType": [
+        "Smooth",
+        "Wiry"
+      ],
+      "droolingLevel": 1,
+      "energyLevel": 4,
+      "goodWithOtherDogs": 3,
+      "goodWithYoungChildren": 4,
+      "mentalStimulationNeeds": 3,
+      "opennessToStrangers": 4,
+      "playfulnessLevel": 4,
+      "sheddingLevel": 2,
+      "trainabilityLevel": 4,
+      "watchdogProtectiveNature": 3
+    },
+    "sizeCategory": "medium",
+    "isFluffy": false
   },
   {
     "akcId": "24858",
@@ -1465,7 +6927,40 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/kuvasz/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2017/11/Kuvasz-standing-outdoors-400x267.jpg",
     "imageAlt": "Kuvasz",
-    "imagePath": "assets/images/kuvasz.jpg"
+    "imagePath": "assets/images/kuvasz.jpg",
+    "breedGroup": "Working Group",
+    "origin": "Hungary",
+    "temperament": "loyal / fearless / sweet",
+    "lifeExpectancy": "10-12 years",
+    "height": "28-30 inches (male), 26-28 inches (female)",
+    "weight": "100-115 pounds (male), 70-90 pounds (female)",
+    "relatedCharacteristics": [
+      "Largest Dog Breeds"
+    ],
+    "traits": {
+      "adaptabilityLevel": 4,
+      "affectionateWithFamily": 5,
+      "barkingLevel": 3,
+      "coatGroomingFrequency": 2,
+      "coatLength": [
+        "Medium"
+      ],
+      "coatType": [
+        "Double"
+      ],
+      "droolingLevel": 2,
+      "energyLevel": 3,
+      "goodWithOtherDogs": 3,
+      "goodWithYoungChildren": 3,
+      "mentalStimulationNeeds": 3,
+      "opennessToStrangers": 3,
+      "playfulnessLevel": 3,
+      "sheddingLevel": 3,
+      "trainabilityLevel": 5,
+      "watchdogProtectiveNature": 5
+    },
+    "sizeCategory": "large",
+    "isFluffy": true
   },
   {
     "akcId": "24873",
@@ -1474,7 +6969,42 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/labrador-retriever/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2017/11/Labrador-Retrievers-three-colors-400x267.jpg",
     "imageAlt": "Labrador Retriever",
-    "imagePath": "assets/images/labrador-retriever.jpg"
+    "imagePath": "assets/images/labrador-retriever.jpg",
+    "breedGroup": "Sporting Group",
+    "origin": "Canada",
+    "temperament": "active / friendly / outgoing",
+    "lifeExpectancy": "11-13 years",
+    "height": "22.5-24.5 inches (male), 21.5-23.5 inches (female)",
+    "weight": "65-80 pounds (male), 55-70 pounds (female)",
+    "relatedCharacteristics": [
+      "Best Family Dogs",
+      "Best Dog Breeds for Kids",
+      "Smartest Breeds of Dogs"
+    ],
+    "traits": {
+      "adaptabilityLevel": 5,
+      "affectionateWithFamily": 5,
+      "barkingLevel": 3,
+      "coatGroomingFrequency": 2,
+      "coatLength": [
+        "Short"
+      ],
+      "coatType": [
+        "Double"
+      ],
+      "droolingLevel": 2,
+      "energyLevel": 5,
+      "goodWithOtherDogs": 5,
+      "goodWithYoungChildren": 5,
+      "mentalStimulationNeeds": 4,
+      "opennessToStrangers": 5,
+      "playfulnessLevel": 5,
+      "sheddingLevel": 4,
+      "trainabilityLevel": 5,
+      "watchdogProtectiveNature": 3
+    },
+    "sizeCategory": "large",
+    "isFluffy": true
   },
   {
     "akcId": "24894",
@@ -1483,7 +7013,41 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/lagotto-romagnolo/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2017/11/Lagotto-Romagnolo-standing-by-a-pond-400x267.jpg",
     "imageAlt": "Lagotto Romagnolo",
-    "imagePath": "assets/images/lagotto-romagnolo.jpg"
+    "imagePath": "assets/images/lagotto-romagnolo.jpg",
+    "breedGroup": "Sporting Group",
+    "origin": "Italy",
+    "temperament": "affectionate / keen / undemanding",
+    "lifeExpectancy": "15-17 years",
+    "height": "17-19 inches (male), 16-18 inches (female)",
+    "weight": "28.5-35 pounds (male), 24-31 pounds (female)",
+    "relatedCharacteristics": [
+      "Hypoallergenic Dogs"
+    ],
+    "traits": {
+      "adaptabilityLevel": 4,
+      "affectionateWithFamily": 5,
+      "barkingLevel": 2,
+      "coatGroomingFrequency": 2,
+      "coatLength": [
+        "Medium"
+      ],
+      "coatType": [
+        "Curly",
+        "Double"
+      ],
+      "droolingLevel": 2,
+      "energyLevel": 4,
+      "goodWithOtherDogs": 5,
+      "goodWithYoungChildren": 3,
+      "mentalStimulationNeeds": 4,
+      "opennessToStrangers": 4,
+      "playfulnessLevel": 4,
+      "sheddingLevel": 1,
+      "trainabilityLevel": 4,
+      "watchdogProtectiveNature": 3
+    },
+    "sizeCategory": "medium",
+    "isFluffy": true
   },
   {
     "akcId": "24908",
@@ -1492,7 +7056,41 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/lakeland-terrier/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2017/11/Lakeland-Terrier-standing-stacked-outdoors-400x267.jpg",
     "imageAlt": "Lakeland Terrier",
-    "imagePath": "assets/images/lakeland-terrier.jpg"
+    "imagePath": "assets/images/lakeland-terrier.jpg",
+    "breedGroup": "Terrier Group",
+    "origin": "England",
+    "temperament": "friendly / confident / bold",
+    "lifeExpectancy": "12-15 years",
+    "height": "14.5-15 inches (male), slightly smaller (female)",
+    "weight": "17 pounds (male), slightly smaller (female)",
+    "relatedCharacteristics": [
+      "Smallest Dog Breeds"
+    ],
+    "traits": {
+      "adaptabilityLevel": 4,
+      "affectionateWithFamily": 5,
+      "barkingLevel": 3,
+      "coatGroomingFrequency": 2,
+      "coatLength": [
+        "Short"
+      ],
+      "coatType": [
+        "Double",
+        "Wiry"
+      ],
+      "droolingLevel": 1,
+      "energyLevel": 3,
+      "goodWithOtherDogs": 3,
+      "goodWithYoungChildren": 3,
+      "mentalStimulationNeeds": 4,
+      "opennessToStrangers": 3,
+      "playfulnessLevel": 4,
+      "sheddingLevel": 2,
+      "trainabilityLevel": 3,
+      "watchdogProtectiveNature": 3
+    },
+    "sizeCategory": "small",
+    "isFluffy": true
   },
   {
     "akcId": "24923",
@@ -1501,7 +7099,40 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/lancashire-heeler/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2017/11/Lancashire-heeler.1-400x267.jpg",
     "imageAlt": "Lancashire Heeler",
-    "imagePath": "assets/images/lancashire-heeler.jpg"
+    "imagePath": "assets/images/lancashire-heeler.jpg",
+    "breedGroup": "Herding Group",
+    "origin": "Unknown",
+    "temperament": "intelligent / versatile / affectionate",
+    "lifeExpectancy": "12-15 years",
+    "height": "10-12 inches",
+    "weight": "9-17 pounds",
+    "relatedCharacteristics": [
+      "Smallest Dog Breeds"
+    ],
+    "traits": {
+      "adaptabilityLevel": 4,
+      "affectionateWithFamily": 5,
+      "barkingLevel": 4,
+      "coatGroomingFrequency": 1,
+      "coatLength": [
+        "Short"
+      ],
+      "coatType": [
+        "Double"
+      ],
+      "droolingLevel": 1,
+      "energyLevel": 4,
+      "goodWithOtherDogs": 5,
+      "goodWithYoungChildren": 5,
+      "mentalStimulationNeeds": 4,
+      "opennessToStrangers": 4,
+      "playfulnessLevel": 4,
+      "sheddingLevel": 3,
+      "trainabilityLevel": 4,
+      "watchdogProtectiveNature": 3
+    },
+    "sizeCategory": "small",
+    "isFluffy": true
   },
   {
     "akcId": "24925",
@@ -1510,7 +7141,40 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/lapponian-herder/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2017/11/Lapponian-Herders-standing-together-in-the-shallows-400x267.jpg",
     "imageAlt": "Lapponian Herder",
-    "imagePath": "assets/images/lapponian-herder.jpg"
+    "imagePath": "assets/images/lapponian-herder.jpg",
+    "breedGroup": "Foundation Stock Service",
+    "origin": "Finland",
+    "temperament": "intelligent / friendly / energetic",
+    "lifeExpectancy": "10-14 years",
+    "height": "18-20 inches",
+    "weight": "70 pounds",
+    "relatedCharacteristics": [
+      "Medium Dog Breeds"
+    ],
+    "traits": {
+      "adaptabilityLevel": 4,
+      "affectionateWithFamily": 5,
+      "barkingLevel": 4,
+      "coatGroomingFrequency": 2,
+      "coatLength": [
+        "Short"
+      ],
+      "coatType": [
+        "Double"
+      ],
+      "droolingLevel": 2,
+      "energyLevel": 4,
+      "goodWithOtherDogs": 3,
+      "goodWithYoungChildren": 3,
+      "mentalStimulationNeeds": 4,
+      "opennessToStrangers": 3,
+      "playfulnessLevel": 3,
+      "sheddingLevel": 3,
+      "trainabilityLevel": 4,
+      "watchdogProtectiveNature": 4
+    },
+    "sizeCategory": "large",
+    "isFluffy": true
   },
   {
     "akcId": "175442",
@@ -1519,7 +7183,34 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/large-munsterlander/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2023/08/Large-Munsterlander-standing-outdoors-400x267.jpg",
     "imageAlt": "Large Munsterlander",
-    "imagePath": "assets/images/large-munsterlander.jpg"
+    "imagePath": "assets/images/large-munsterlander.jpg",
+    "breedGroup": "Foundation Stock Service",
+    "origin": "Germany",
+    "temperament": "intelligent / affectionate / self-confident",
+    "lifeExpectancy": "12-14 years",
+    "height": "23 - 26.5 inches",
+    "weight": "50 - 70 lbs",
+    "relatedCharacteristics": [],
+    "traits": {
+      "adaptabilityLevel": 3,
+      "affectionateWithFamily": 4,
+      "barkingLevel": 2,
+      "coatGroomingFrequency": 1,
+      "coatLength": [],
+      "coatType": [],
+      "droolingLevel": 2,
+      "energyLevel": 4,
+      "goodWithOtherDogs": 3,
+      "goodWithYoungChildren": 4,
+      "mentalStimulationNeeds": 4,
+      "opennessToStrangers": 4,
+      "playfulnessLevel": 3,
+      "sheddingLevel": 3,
+      "trainabilityLevel": 5,
+      "watchdogProtectiveNature": 3
+    },
+    "sizeCategory": "large",
+    "isFluffy": false
   },
   {
     "akcId": "24927",
@@ -1528,7 +7219,40 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/leonberger/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2017/11/Leonberger-standing-in-a-field-400x267.jpg",
     "imageAlt": "Leonberger",
-    "imagePath": "assets/images/leonberger.jpg"
+    "imagePath": "assets/images/leonberger.jpg",
+    "breedGroup": "Working Group",
+    "origin": "Germany",
+    "temperament": "friendly / playful / gentle",
+    "lifeExpectancy": "7 years",
+    "height": "28-31.5 inches (male), 25.5-29.5 inches (female)",
+    "weight": "110-170 pounds (male), 90-140 pounds (female)",
+    "relatedCharacteristics": [
+      "Largest Dog Breeds"
+    ],
+    "traits": {
+      "adaptabilityLevel": 4,
+      "affectionateWithFamily": 5,
+      "barkingLevel": 3,
+      "coatGroomingFrequency": 4,
+      "coatLength": [
+        "Long"
+      ],
+      "coatType": [
+        "Double"
+      ],
+      "droolingLevel": 3,
+      "energyLevel": 3,
+      "goodWithOtherDogs": 3,
+      "goodWithYoungChildren": 5,
+      "mentalStimulationNeeds": 4,
+      "opennessToStrangers": 5,
+      "playfulnessLevel": 3,
+      "sheddingLevel": 4,
+      "trainabilityLevel": 5,
+      "watchdogProtectiveNature": 4
+    },
+    "sizeCategory": "large",
+    "isFluffy": true
   },
   {
     "akcId": "24942",
@@ -1537,7 +7261,40 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/lhasa-apso/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2017/11/Lhasa-Apso-On-White-01-400x267.jpg",
     "imageAlt": "Lhasa Apso",
-    "imagePath": "assets/images/lhasa-apso.jpg"
+    "imagePath": "assets/images/lhasa-apso.jpg",
+    "breedGroup": "Non-Sporting Group",
+    "origin": "Tibet",
+    "temperament": "confident / smart / comical",
+    "lifeExpectancy": "12-15 years",
+    "height": "10-11 inches (male), slightly smaller (female)",
+    "weight": "12-18 pounds",
+    "relatedCharacteristics": [
+      "Smallest Dog Breeds"
+    ],
+    "traits": {
+      "adaptabilityLevel": 5,
+      "affectionateWithFamily": 5,
+      "barkingLevel": 3,
+      "coatGroomingFrequency": 3,
+      "coatLength": [
+        "Long"
+      ],
+      "coatType": [
+        "Silky"
+      ],
+      "droolingLevel": 1,
+      "energyLevel": 3,
+      "goodWithOtherDogs": 3,
+      "goodWithYoungChildren": 3,
+      "mentalStimulationNeeds": 3,
+      "opennessToStrangers": 3,
+      "playfulnessLevel": 3,
+      "sheddingLevel": 1,
+      "trainabilityLevel": 3,
+      "watchdogProtectiveNature": 5
+    },
+    "sizeCategory": "small",
+    "isFluffy": true
   },
   {
     "akcId": "24956",
@@ -1546,7 +7303,43 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/lowchen/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2017/11/Lowchen-at-the-AKC-National-Championship-presented-by-Royal-Canin-400x267.jpg",
     "imageAlt": "Löwchen",
-    "imagePath": "assets/images/lowchen.jpg"
+    "imagePath": "assets/images/lowchen.jpg",
+    "breedGroup": "Non-Sporting Group",
+    "origin": "Unknown",
+    "temperament": "affectionate / outgoing / positive",
+    "lifeExpectancy": "13-15 years",
+    "height": "12-14 inches",
+    "weight": "15 pounds",
+    "relatedCharacteristics": [
+      "Smallest Dog Breeds",
+      "Best Family Dogs",
+      "Hypoallergenic Dogs",
+      "Best Dogs for Apartment Dwellers"
+    ],
+    "traits": {
+      "adaptabilityLevel": 4,
+      "affectionateWithFamily": 5,
+      "barkingLevel": 3,
+      "coatGroomingFrequency": 2,
+      "coatLength": [
+        "Long"
+      ],
+      "coatType": [
+        "Wavy"
+      ],
+      "droolingLevel": 1,
+      "energyLevel": 3,
+      "goodWithOtherDogs": 3,
+      "goodWithYoungChildren": 5,
+      "mentalStimulationNeeds": 3,
+      "opennessToStrangers": 3,
+      "playfulnessLevel": 4,
+      "sheddingLevel": 2,
+      "trainabilityLevel": 4,
+      "watchdogProtectiveNature": 4
+    },
+    "sizeCategory": "small",
+    "isFluffy": true
   },
   {
     "akcId": "24958",
@@ -1555,7 +7348,42 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/maltese/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2017/11/Maltese-laying-down-in-a-chair-400x267.jpg",
     "imageAlt": "Maltese",
-    "imagePath": "assets/images/maltese.jpg"
+    "imagePath": "assets/images/maltese.jpg",
+    "breedGroup": "Toy Group",
+    "origin": "Malta",
+    "temperament": "playful / charming / gentle",
+    "lifeExpectancy": "12-15 years",
+    "height": "7-9 inches",
+    "weight": "under 7 pounds",
+    "relatedCharacteristics": [
+      "Smallest Dog Breeds",
+      "Hypoallergenic Dogs",
+      "Best Dogs for Apartment Dwellers"
+    ],
+    "traits": {
+      "adaptabilityLevel": 4,
+      "affectionateWithFamily": 5,
+      "barkingLevel": 3,
+      "coatGroomingFrequency": 4,
+      "coatLength": [
+        "Long"
+      ],
+      "coatType": [
+        "Silky"
+      ],
+      "droolingLevel": 1,
+      "energyLevel": 3,
+      "goodWithOtherDogs": 3,
+      "goodWithYoungChildren": 3,
+      "mentalStimulationNeeds": 3,
+      "opennessToStrangers": 3,
+      "playfulnessLevel": 3,
+      "sheddingLevel": 1,
+      "trainabilityLevel": 3,
+      "watchdogProtectiveNature": 4
+    },
+    "sizeCategory": "small",
+    "isFluffy": true
   },
   {
     "akcId": "24973",
@@ -1564,7 +7392,40 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/manchester-terrier-standard/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2017/11/Manchester-Terrier-Standard-on-White-08-400x267.jpg",
     "imageAlt": "Manchester Terrier (Standard)",
-    "imagePath": "assets/images/manchester-terrier-standard.jpg"
+    "imagePath": "assets/images/manchester-terrier-standard.jpg",
+    "breedGroup": "Terrier Group",
+    "origin": "England",
+    "temperament": "bright / spirited / keenly observant",
+    "lifeExpectancy": "15-17 years",
+    "height": "15-16 inches",
+    "weight": "12-22 pounds",
+    "relatedCharacteristics": [
+      "Smallest Dog Breeds"
+    ],
+    "traits": {
+      "adaptabilityLevel": 4,
+      "affectionateWithFamily": 5,
+      "barkingLevel": 4,
+      "coatGroomingFrequency": 2,
+      "coatLength": [
+        "Short"
+      ],
+      "coatType": [
+        "Smooth"
+      ],
+      "droolingLevel": 1,
+      "energyLevel": 4,
+      "goodWithOtherDogs": 3,
+      "goodWithYoungChildren": 4,
+      "mentalStimulationNeeds": 3,
+      "opennessToStrangers": 3,
+      "playfulnessLevel": 4,
+      "sheddingLevel": 2,
+      "trainabilityLevel": 4,
+      "watchdogProtectiveNature": 4
+    },
+    "sizeCategory": "medium",
+    "isFluffy": false
   },
   {
     "akcId": "49157",
@@ -1573,7 +7434,40 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/manchester-terrier-toy/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2018/04/Manchester-Terrier-Slide-01-400x267.jpg",
     "imageAlt": "Manchester Terrier (Toy)",
-    "imagePath": "assets/images/manchester-terrier-toy.jpg"
+    "imagePath": "assets/images/manchester-terrier-toy.jpg",
+    "breedGroup": "Toy Group",
+    "origin": "England",
+    "temperament": "intelligent / agile / spirited",
+    "lifeExpectancy": "15-17 years",
+    "height": "10-12 inches",
+    "weight": "under 12 pounds",
+    "relatedCharacteristics": [
+      "Smallest Dog Breeds"
+    ],
+    "traits": {
+      "adaptabilityLevel": 4,
+      "affectionateWithFamily": 5,
+      "barkingLevel": 4,
+      "coatGroomingFrequency": 2,
+      "coatLength": [
+        "Short"
+      ],
+      "coatType": [
+        "Smooth"
+      ],
+      "droolingLevel": 1,
+      "energyLevel": 4,
+      "goodWithOtherDogs": 3,
+      "goodWithYoungChildren": 4,
+      "mentalStimulationNeeds": 3,
+      "opennessToStrangers": 3,
+      "playfulnessLevel": 4,
+      "sheddingLevel": 2,
+      "trainabilityLevel": 4,
+      "watchdogProtectiveNature": 4
+    },
+    "sizeCategory": "small",
+    "isFluffy": false
   },
   {
     "akcId": "24987",
@@ -1582,7 +7476,40 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/mastiff/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2017/11/Mastiff-On-White-03-400x267.jpg",
     "imageAlt": "Mastiff",
-    "imagePath": "assets/images/mastiff.jpg"
+    "imagePath": "assets/images/mastiff.jpg",
+    "breedGroup": "Working Group",
+    "origin": "England",
+    "temperament": "dignified / good-natured / courageous",
+    "lifeExpectancy": "6-10 years",
+    "height": "30 inches & up (male), 27.5 inches & up (female)",
+    "weight": "160-230 pounds (male), 120-170 pounds (female)",
+    "relatedCharacteristics": [
+      "Largest Dog Breeds"
+    ],
+    "traits": {
+      "adaptabilityLevel": 4,
+      "affectionateWithFamily": 5,
+      "barkingLevel": 1,
+      "coatGroomingFrequency": 1,
+      "coatLength": [
+        "Short"
+      ],
+      "coatType": [
+        "Double"
+      ],
+      "droolingLevel": 4,
+      "energyLevel": 3,
+      "goodWithOtherDogs": 3,
+      "goodWithYoungChildren": 5,
+      "mentalStimulationNeeds": 3,
+      "opennessToStrangers": 3,
+      "playfulnessLevel": 3,
+      "sheddingLevel": 3,
+      "trainabilityLevel": 3,
+      "watchdogProtectiveNature": 5
+    },
+    "sizeCategory": "large",
+    "isFluffy": true
   },
   {
     "akcId": "25002",
@@ -1591,7 +7518,40 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/miniature-american-shepherd/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2017/11/Miniature-American-Shepherd-On-White-01-400x267.jpg",
     "imageAlt": "Miniature American Shepherd",
-    "imagePath": "assets/images/miniature-american-shepherd.jpg"
+    "imagePath": "assets/images/miniature-american-shepherd.jpg",
+    "breedGroup": "Herding Group",
+    "origin": "United States",
+    "temperament": "intelligent / good-natured / devoted",
+    "lifeExpectancy": "12-13 years",
+    "height": "14-18 inches (male), 13-17 inches (female)",
+    "weight": "20-40 pounds",
+    "relatedCharacteristics": [
+      "Medium Dog Breeds"
+    ],
+    "traits": {
+      "adaptabilityLevel": 4,
+      "affectionateWithFamily": 5,
+      "barkingLevel": 3,
+      "coatGroomingFrequency": 3,
+      "coatLength": [
+        "Medium"
+      ],
+      "coatType": [
+        "Double"
+      ],
+      "droolingLevel": 2,
+      "energyLevel": 5,
+      "goodWithOtherDogs": 5,
+      "goodWithYoungChildren": 5,
+      "mentalStimulationNeeds": 5,
+      "opennessToStrangers": 3,
+      "playfulnessLevel": 4,
+      "sheddingLevel": 3,
+      "trainabilityLevel": 5,
+      "watchdogProtectiveNature": 3
+    },
+    "sizeCategory": "medium",
+    "isFluffy": true
   },
   {
     "akcId": "25017",
@@ -1600,7 +7560,40 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/miniature-bull-terrier/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2017/11/Miniature-Bull-Terrier-standing-outdoors-400x267.jpg",
     "imageAlt": "Miniature Bull Terrier",
-    "imagePath": "assets/images/miniature-bull-terrier.jpg"
+    "imagePath": "assets/images/miniature-bull-terrier.jpg",
+    "breedGroup": "Terrier Group",
+    "origin": "England",
+    "temperament": "upbeat / mischievous / comical",
+    "lifeExpectancy": "11-13 years",
+    "height": "10-14 inches",
+    "weight": "18-28 pounds",
+    "relatedCharacteristics": [
+      "Smallest Dog Breeds"
+    ],
+    "traits": {
+      "adaptabilityLevel": 4,
+      "affectionateWithFamily": 5,
+      "barkingLevel": 5,
+      "coatGroomingFrequency": 1,
+      "coatLength": [
+        "Short"
+      ],
+      "coatType": [
+        "Smooth"
+      ],
+      "droolingLevel": 2,
+      "energyLevel": 4,
+      "goodWithOtherDogs": 3,
+      "goodWithYoungChildren": 3,
+      "mentalStimulationNeeds": 4,
+      "opennessToStrangers": 3,
+      "playfulnessLevel": 4,
+      "sheddingLevel": 2,
+      "trainabilityLevel": 3,
+      "watchdogProtectiveNature": 4
+    },
+    "sizeCategory": "medium",
+    "isFluffy": false
   },
   {
     "akcId": "25029",
@@ -1609,7 +7602,40 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/miniature-pinscher/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2017/11/Miniature-Pinscher-standing-in-three-quarter-view-400x267.jpg",
     "imageAlt": "Miniature Pinscher",
-    "imagePath": "assets/images/miniature-pinscher.jpg"
+    "imagePath": "assets/images/miniature-pinscher.jpg",
+    "breedGroup": "Toy Group",
+    "origin": "Germany",
+    "temperament": "fearless / proud / fun-loving",
+    "lifeExpectancy": "12-16 years",
+    "height": "10-12.5 inches",
+    "weight": "8-10 pounds",
+    "relatedCharacteristics": [
+      "Smallest Dog Breeds"
+    ],
+    "traits": {
+      "adaptabilityLevel": 4,
+      "affectionateWithFamily": 5,
+      "barkingLevel": 5,
+      "coatGroomingFrequency": 1,
+      "coatLength": [
+        "Short"
+      ],
+      "coatType": [
+        "Smooth"
+      ],
+      "droolingLevel": 1,
+      "energyLevel": 5,
+      "goodWithOtherDogs": 4,
+      "goodWithYoungChildren": 3,
+      "mentalStimulationNeeds": 5,
+      "opennessToStrangers": 3,
+      "playfulnessLevel": 4,
+      "sheddingLevel": 3,
+      "trainabilityLevel": 3,
+      "watchdogProtectiveNature": 5
+    },
+    "sizeCategory": "small",
+    "isFluffy": false
   },
   {
     "akcId": "25043",
@@ -1618,7 +7644,42 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/miniature-schnauzer/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2017/11/Miniature-Schnauzer-On-White-01-400x267.jpg",
     "imageAlt": "Miniature Schnauzer",
-    "imagePath": "assets/images/miniature-schnauzer.jpg"
+    "imagePath": "assets/images/miniature-schnauzer.jpg",
+    "breedGroup": "Terrier Group",
+    "origin": "Germany",
+    "temperament": "friendly / smart / obedient",
+    "lifeExpectancy": "12-15 years",
+    "height": "12-14 inches",
+    "weight": "11-20 pounds",
+    "relatedCharacteristics": [
+      "Smallest Dog Breeds",
+      "Hypoallergenic Dogs"
+    ],
+    "traits": {
+      "adaptabilityLevel": 5,
+      "affectionateWithFamily": 5,
+      "barkingLevel": 5,
+      "coatGroomingFrequency": 4,
+      "coatLength": [
+        "Medium"
+      ],
+      "coatType": [
+        "Double",
+        "Wiry"
+      ],
+      "droolingLevel": 2,
+      "energyLevel": 3,
+      "goodWithOtherDogs": 3,
+      "goodWithYoungChildren": 5,
+      "mentalStimulationNeeds": 4,
+      "opennessToStrangers": 3,
+      "playfulnessLevel": 4,
+      "sheddingLevel": 3,
+      "trainabilityLevel": 5,
+      "watchdogProtectiveNature": 4
+    },
+    "sizeCategory": "small",
+    "isFluffy": true
   },
   {
     "akcId": "25059",
@@ -1627,7 +7688,40 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/mountain-cur/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2017/11/Mountain-Cur-MP-400x267.jpg",
     "imageAlt": "Mountain Cur",
-    "imagePath": "assets/images/mountain-cur.jpg"
+    "imagePath": "assets/images/mountain-cur.jpg",
+    "breedGroup": "Foundation Stock Service",
+    "origin": "United States",
+    "temperament": "intelligent / reserved with strangers / strong-willed",
+    "lifeExpectancy": "10-13 years",
+    "height": "18 - 26 (males), 16 - 24 (females_",
+    "weight": "30-60 pounds",
+    "relatedCharacteristics": [
+      "Medium Dog Breeds"
+    ],
+    "traits": {
+      "adaptabilityLevel": 3,
+      "affectionateWithFamily": 3,
+      "barkingLevel": 5,
+      "coatGroomingFrequency": 3,
+      "coatLength": [
+        "Short"
+      ],
+      "coatType": [
+        "Smooth"
+      ],
+      "droolingLevel": 1,
+      "energyLevel": 5,
+      "goodWithOtherDogs": 3,
+      "goodWithYoungChildren": 3,
+      "mentalStimulationNeeds": 5,
+      "opennessToStrangers": 1,
+      "playfulnessLevel": 5,
+      "sheddingLevel": 3,
+      "trainabilityLevel": 5,
+      "watchdogProtectiveNature": 5
+    },
+    "sizeCategory": "large",
+    "isFluffy": false
   },
   {
     "akcId": "25061",
@@ -1636,7 +7730,40 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/mudi/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2017/11/Mudi-sitting-outdoors-400x267.jpg",
     "imageAlt": "Mudi",
-    "imagePath": "assets/images/mudi.jpg"
+    "imagePath": "assets/images/mudi.jpg",
+    "breedGroup": "Herding Group",
+    "origin": "Hungary",
+    "temperament": "loyal / intelligent / active",
+    "lifeExpectancy": "12-14 years",
+    "height": "15-18.5 inches",
+    "weight": "18-29 pounds",
+    "relatedCharacteristics": [
+      "Medium Dog Breeds"
+    ],
+    "traits": {
+      "adaptabilityLevel": 4,
+      "affectionateWithFamily": 5,
+      "barkingLevel": 4,
+      "coatGroomingFrequency": 1,
+      "coatLength": [
+        "Medium"
+      ],
+      "coatType": [
+        "Curly"
+      ],
+      "droolingLevel": 2,
+      "energyLevel": 5,
+      "goodWithOtherDogs": 3,
+      "goodWithYoungChildren": 3,
+      "mentalStimulationNeeds": 4,
+      "opennessToStrangers": 3,
+      "playfulnessLevel": 5,
+      "sheddingLevel": 2,
+      "trainabilityLevel": 5,
+      "watchdogProtectiveNature": 4
+    },
+    "sizeCategory": "medium",
+    "isFluffy": true
   },
   {
     "akcId": "25063",
@@ -1645,7 +7772,40 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/neapolitan-mastiff/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2009/01/Neapolitan-Mastiff-on-lead-standing-in-the-grass-outdoors.20190813025752970-400x267.jpg",
     "imageAlt": "Neapolitan Mastiff",
-    "imagePath": "assets/images/neapolitan-mastiff.jpg"
+    "imagePath": "assets/images/neapolitan-mastiff.jpg",
+    "breedGroup": "Working Group",
+    "origin": "Italy",
+    "temperament": "dignified / loyal / watchful",
+    "lifeExpectancy": "7-9 years",
+    "height": "26-31 inches (male), 24-29 inches (female)",
+    "weight": "150 pounds (male), 110 pounds (female)",
+    "relatedCharacteristics": [
+      "Largest Dog Breeds"
+    ],
+    "traits": {
+      "adaptabilityLevel": 3,
+      "affectionateWithFamily": 3,
+      "barkingLevel": 1,
+      "coatGroomingFrequency": 2,
+      "coatLength": [
+        "Short"
+      ],
+      "coatType": [
+        "Smooth"
+      ],
+      "droolingLevel": 5,
+      "energyLevel": 2,
+      "goodWithOtherDogs": 3,
+      "goodWithYoungChildren": 3,
+      "mentalStimulationNeeds": 3,
+      "opennessToStrangers": 3,
+      "playfulnessLevel": 2,
+      "sheddingLevel": 3,
+      "trainabilityLevel": 3,
+      "watchdogProtectiveNature": 5
+    },
+    "sizeCategory": "large",
+    "isFluffy": false
   },
   {
     "akcId": "25078",
@@ -1654,7 +7814,41 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/nederlandse-kooikerhondje/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2018/01/Nederlandse-Kooikerhondje-Field-400x267.jpg",
     "imageAlt": "Nederlandse Kooikerhondje",
-    "imagePath": "assets/images/nederlandse-kooikerhondje.jpg"
+    "imagePath": "assets/images/nederlandse-kooikerhondje.jpg",
+    "breedGroup": "Sporting Group",
+    "origin": "The Netherlands",
+    "temperament": "alert / friendly / quick",
+    "lifeExpectancy": "12-15 years",
+    "height": "Dogs 16\", Females 15\"",
+    "weight": "20 - 30 lbs",
+    "relatedCharacteristics": [
+      "Medium Dog Breeds"
+    ],
+    "traits": {
+      "adaptabilityLevel": 4,
+      "affectionateWithFamily": 5,
+      "barkingLevel": 3,
+      "coatGroomingFrequency": 2,
+      "coatLength": [
+        "Medium"
+      ],
+      "coatType": [
+        "Wavy",
+        "Double"
+      ],
+      "droolingLevel": 2,
+      "energyLevel": 4,
+      "goodWithOtherDogs": 3,
+      "goodWithYoungChildren": 3,
+      "mentalStimulationNeeds": 4,
+      "opennessToStrangers": 4,
+      "playfulnessLevel": 3,
+      "sheddingLevel": 3,
+      "trainabilityLevel": 5,
+      "watchdogProtectiveNature": 3
+    },
+    "sizeCategory": "medium",
+    "isFluffy": true
   },
   {
     "akcId": "25081",
@@ -1663,7 +7857,42 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/newfoundland/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2017/11/Newfoundland-standing-outdoors-400x267.jpg",
     "imageAlt": "Newfoundland",
-    "imagePath": "assets/images/newfoundland.jpg"
+    "imagePath": "assets/images/newfoundland.jpg",
+    "breedGroup": "Working Group",
+    "origin": "Canada",
+    "temperament": "devoted / sweet / patient",
+    "lifeExpectancy": "9-10 years",
+    "height": "28 inches (average male), 26 inches (average female)",
+    "weight": "130-150 pounds (male), 100-120 pounds (female)",
+    "relatedCharacteristics": [
+      "Best Family Dogs",
+      "Best Dog Breeds for Kids",
+      "Largest Dog Breeds"
+    ],
+    "traits": {
+      "adaptabilityLevel": 4,
+      "affectionateWithFamily": 5,
+      "barkingLevel": 1,
+      "coatGroomingFrequency": 2,
+      "coatLength": [
+        "Medium"
+      ],
+      "coatType": [
+        "Double"
+      ],
+      "droolingLevel": 5,
+      "energyLevel": 3,
+      "goodWithOtherDogs": 5,
+      "goodWithYoungChildren": 5,
+      "mentalStimulationNeeds": 3,
+      "opennessToStrangers": 5,
+      "playfulnessLevel": 3,
+      "sheddingLevel": 3,
+      "trainabilityLevel": 3,
+      "watchdogProtectiveNature": 5
+    },
+    "sizeCategory": "large",
+    "isFluffy": true
   },
   {
     "akcId": "25096",
@@ -1672,7 +7901,41 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/norfolk-terrier/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2017/11/Norfolk-Terrier-sitting-in-the-grass.1-400x267.jpg",
     "imageAlt": "Norfolk Terrier",
-    "imagePath": "assets/images/norfolk-terrier.jpg"
+    "imagePath": "assets/images/norfolk-terrier.jpg",
+    "breedGroup": "Terrier Group",
+    "origin": "England",
+    "temperament": "alert / fearless / fun-loving",
+    "lifeExpectancy": "12-16 years",
+    "height": "9-10 inches",
+    "weight": "11-12 pounds",
+    "relatedCharacteristics": [
+      "Smallest Dog Breeds"
+    ],
+    "traits": {
+      "adaptabilityLevel": 4,
+      "affectionateWithFamily": 5,
+      "barkingLevel": 4,
+      "coatGroomingFrequency": 2,
+      "coatLength": [
+        "Short"
+      ],
+      "coatType": [
+        "Double",
+        "Wiry"
+      ],
+      "droolingLevel": 1,
+      "energyLevel": 4,
+      "goodWithOtherDogs": 3,
+      "goodWithYoungChildren": 5,
+      "mentalStimulationNeeds": 4,
+      "opennessToStrangers": 5,
+      "playfulnessLevel": 4,
+      "sheddingLevel": 3,
+      "trainabilityLevel": 3,
+      "watchdogProtectiveNature": 4
+    },
+    "sizeCategory": "small",
+    "isFluffy": true
   },
   {
     "akcId": "25111",
@@ -1681,7 +7944,40 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/norrbottenspets/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2017/11/Norrbottenspets-On-White-01-400x267.jpg",
     "imageAlt": "Norrbottenspets",
-    "imagePath": "assets/images/norrbottenspets.jpg"
+    "imagePath": "assets/images/norrbottenspets.jpg",
+    "breedGroup": "Miscellaneous Class",
+    "origin": "Norway",
+    "temperament": "fearless / agile / attentive",
+    "lifeExpectancy": "14-17 years",
+    "height": "16.5-18 inches",
+    "weight": "20-30 pounds",
+    "relatedCharacteristics": [
+      "Smallest Dog Breeds"
+    ],
+    "traits": {
+      "adaptabilityLevel": 4,
+      "affectionateWithFamily": 5,
+      "barkingLevel": 3,
+      "coatGroomingFrequency": 2,
+      "coatLength": [
+        "Short"
+      ],
+      "coatType": [
+        "Double"
+      ],
+      "droolingLevel": 1,
+      "energyLevel": 4,
+      "goodWithOtherDogs": 3,
+      "goodWithYoungChildren": 3,
+      "mentalStimulationNeeds": 3,
+      "opennessToStrangers": 3,
+      "playfulnessLevel": 3,
+      "sheddingLevel": 3,
+      "trainabilityLevel": 4,
+      "watchdogProtectiveNature": 3
+    },
+    "sizeCategory": "medium",
+    "isFluffy": true
   },
   {
     "akcId": "25114",
@@ -1690,7 +7986,40 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/norwegian-buhund/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2017/11/Norwegian-Buhund-On-White-01-400x267.jpg",
     "imageAlt": "Norwegian Buhund",
-    "imagePath": "assets/images/norwegian-buhund.jpg"
+    "imagePath": "assets/images/norwegian-buhund.jpg",
+    "breedGroup": "Herding Group",
+    "origin": "Norway",
+    "temperament": "confident / smart / perceptive",
+    "lifeExpectancy": "12-15 years",
+    "height": "17-18.5 inches (male), 16-17.5 inches (female)",
+    "weight": "31-40 pounds (male), 26-35 pounds (female)",
+    "relatedCharacteristics": [
+      "Medium Dog Breeds"
+    ],
+    "traits": {
+      "adaptabilityLevel": 4,
+      "affectionateWithFamily": 5,
+      "barkingLevel": 4,
+      "coatGroomingFrequency": 2,
+      "coatLength": [
+        "Medium"
+      ],
+      "coatType": [
+        "Double"
+      ],
+      "droolingLevel": 1,
+      "energyLevel": 4,
+      "goodWithOtherDogs": 3,
+      "goodWithYoungChildren": 3,
+      "mentalStimulationNeeds": 4,
+      "opennessToStrangers": 3,
+      "playfulnessLevel": 3,
+      "sheddingLevel": 3,
+      "trainabilityLevel": 3,
+      "watchdogProtectiveNature": 4
+    },
+    "sizeCategory": "medium",
+    "isFluffy": true
   },
   {
     "akcId": "25129",
@@ -1699,7 +8028,40 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/norwegian-elkhound/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2017/11/Norwegian-Elkhound-sitting-in-the-snow-looking-back-over-its-shoulder-400x267.jpg",
     "imageAlt": "Norwegian Elkhound",
-    "imagePath": "assets/images/norwegian-elkhound.jpg"
+    "imagePath": "assets/images/norwegian-elkhound.jpg",
+    "breedGroup": "Hound Group",
+    "origin": "Norway",
+    "temperament": "friendly / confident / dependable",
+    "lifeExpectancy": "12-15 years",
+    "height": "20.5 inches (male), 19.5 inches (female)",
+    "weight": "55 pounds (male), 48 pounds (female)",
+    "relatedCharacteristics": [
+      "Medium Dog Breeds"
+    ],
+    "traits": {
+      "adaptabilityLevel": 4,
+      "affectionateWithFamily": 5,
+      "barkingLevel": 4,
+      "coatGroomingFrequency": 2,
+      "coatLength": [
+        "Medium"
+      ],
+      "coatType": [
+        "Double"
+      ],
+      "droolingLevel": 2,
+      "energyLevel": 4,
+      "goodWithOtherDogs": 3,
+      "goodWithYoungChildren": 3,
+      "mentalStimulationNeeds": 4,
+      "opennessToStrangers": 4,
+      "playfulnessLevel": 4,
+      "sheddingLevel": 3,
+      "trainabilityLevel": 4,
+      "watchdogProtectiveNature": 5
+    },
+    "sizeCategory": "large",
+    "isFluffy": true
   },
   {
     "akcId": "25139",
@@ -1708,7 +8070,40 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/norwegian-lundehund/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2017/11/Norwegian-Lundehund-standing-in-the-grass-400x267.jpg",
     "imageAlt": "Norwegian Lundehund",
-    "imagePath": "assets/images/norwegian-lundehund.jpg"
+    "imagePath": "assets/images/norwegian-lundehund.jpg",
+    "breedGroup": "Non-Sporting Group",
+    "origin": "Norway",
+    "temperament": "alert / loyal / energetic",
+    "lifeExpectancy": "12-15 years",
+    "height": "13-15 inches (male), 12-14 inches (female)",
+    "weight": "15-18 lbs (male), 12-15 lbs (female)",
+    "relatedCharacteristics": [
+      "Smallest Dog Breeds"
+    ],
+    "traits": {
+      "adaptabilityLevel": 3,
+      "affectionateWithFamily": 5,
+      "barkingLevel": 4,
+      "coatGroomingFrequency": 2,
+      "coatLength": [
+        "Short"
+      ],
+      "coatType": [
+        "Double"
+      ],
+      "droolingLevel": 1,
+      "energyLevel": 3,
+      "goodWithOtherDogs": 3,
+      "goodWithYoungChildren": 3,
+      "mentalStimulationNeeds": 3,
+      "opennessToStrangers": 3,
+      "playfulnessLevel": 3,
+      "sheddingLevel": 3,
+      "trainabilityLevel": 3,
+      "watchdogProtectiveNature": 3
+    },
+    "sizeCategory": "small",
+    "isFluffy": true
   },
   {
     "akcId": "25153",
@@ -1717,7 +8112,41 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/norwich-terrier/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2017/11/Norwich-Terrier-standing-outdoors-400x267.jpg",
     "imageAlt": "Norwich Terrier",
-    "imagePath": "assets/images/norwich-terrier.jpg"
+    "imagePath": "assets/images/norwich-terrier.jpg",
+    "breedGroup": "Terrier Group",
+    "origin": "England",
+    "temperament": "alert / curious / loyal / affectionate / gregarious",
+    "lifeExpectancy": "12-15 years",
+    "height": "10 inches",
+    "weight": "12 pounds",
+    "relatedCharacteristics": [
+      "Smallest Dog Breeds"
+    ],
+    "traits": {
+      "adaptabilityLevel": 4,
+      "affectionateWithFamily": 5,
+      "barkingLevel": 4,
+      "coatGroomingFrequency": 2,
+      "coatLength": [
+        "Short"
+      ],
+      "coatType": [
+        "Double",
+        "Wiry"
+      ],
+      "droolingLevel": 1,
+      "energyLevel": 4,
+      "goodWithOtherDogs": 3,
+      "goodWithYoungChildren": 5,
+      "mentalStimulationNeeds": 4,
+      "opennessToStrangers": 5,
+      "playfulnessLevel": 4,
+      "sheddingLevel": 3,
+      "trainabilityLevel": 3,
+      "watchdogProtectiveNature": 4
+    },
+    "sizeCategory": "small",
+    "isFluffy": true
   },
   {
     "akcId": "25167",
@@ -1726,7 +8155,40 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/nova-scotia-duck-tolling-retriever/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2017/11/Nova-Scotia-Duck-Tolling-Retriever-wading-in-water-400x267.jpg",
     "imageAlt": "Nova Scotia Duck Tolling Retriever",
-    "imagePath": "assets/images/nova-scotia-duck-tolling-retriever.jpg"
+    "imagePath": "assets/images/nova-scotia-duck-tolling-retriever.jpg",
+    "breedGroup": "Sporting Group",
+    "origin": "Canada",
+    "temperament": "intelligent / affectionate / outgoing",
+    "lifeExpectancy": "12-14 years",
+    "height": "18-21 inches (male), 17-20 inches (female)",
+    "weight": "35-50 pounds",
+    "relatedCharacteristics": [
+      "Medium Dog Breeds"
+    ],
+    "traits": {
+      "adaptabilityLevel": 4,
+      "affectionateWithFamily": 5,
+      "barkingLevel": 2,
+      "coatGroomingFrequency": 2,
+      "coatLength": [
+        "Medium"
+      ],
+      "coatType": [
+        "Double"
+      ],
+      "droolingLevel": 2,
+      "energyLevel": 5,
+      "goodWithOtherDogs": 4,
+      "goodWithYoungChildren": 5,
+      "mentalStimulationNeeds": 4,
+      "opennessToStrangers": 3,
+      "playfulnessLevel": 5,
+      "sheddingLevel": 3,
+      "trainabilityLevel": 5,
+      "watchdogProtectiveNature": 3
+    },
+    "sizeCategory": "medium",
+    "isFluffy": true
   },
   {
     "akcId": "25181",
@@ -1735,7 +8197,40 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/old-english-sheepdog/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2017/11/Old-English-Sheepdogs-on-white-02-400x267.jpg",
     "imageAlt": "Old English Sheepdog",
-    "imagePath": "assets/images/old-english-sheepdog.jpg"
+    "imagePath": "assets/images/old-english-sheepdog.jpg",
+    "breedGroup": "Herding Group",
+    "origin": "England",
+    "temperament": "smart / gentle / adaptable",
+    "lifeExpectancy": "10-12 years",
+    "height": "22 inches & up (male), 21 inches & up (female)",
+    "weight": "60-100 pounds",
+    "relatedCharacteristics": [
+      "Largest Dog Breeds"
+    ],
+    "traits": {
+      "adaptabilityLevel": 4,
+      "affectionateWithFamily": 5,
+      "barkingLevel": 3,
+      "coatGroomingFrequency": 4,
+      "coatLength": [
+        "Long"
+      ],
+      "coatType": [
+        "Double"
+      ],
+      "droolingLevel": 3,
+      "energyLevel": 3,
+      "goodWithOtherDogs": 3,
+      "goodWithYoungChildren": 5,
+      "mentalStimulationNeeds": 4,
+      "opennessToStrangers": 3,
+      "playfulnessLevel": 4,
+      "sheddingLevel": 3,
+      "trainabilityLevel": 4,
+      "watchdogProtectiveNature": 4
+    },
+    "sizeCategory": "large",
+    "isFluffy": true
   },
   {
     "akcId": "25195",
@@ -1744,7 +8239,41 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/otterhound/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2017/11/Otterhound-On-White-03-400x267.jpg",
     "imageAlt": "Otterhound",
-    "imagePath": "assets/images/otterhound.jpg"
+    "imagePath": "assets/images/otterhound.jpg",
+    "breedGroup": "Hound Group",
+    "origin": "England",
+    "temperament": "even-tempered / amiable / boisterous",
+    "lifeExpectancy": "10-13 years",
+    "height": "27 inches (male), 24 inches (female)",
+    "weight": "115 pounds (male), 80 pounds (female)",
+    "relatedCharacteristics": [
+      "Largest Dog Breeds"
+    ],
+    "traits": {
+      "adaptabilityLevel": 4,
+      "affectionateWithFamily": 5,
+      "barkingLevel": 5,
+      "coatGroomingFrequency": 2,
+      "coatLength": [
+        "Medium"
+      ],
+      "coatType": [
+        "Double",
+        "Rough"
+      ],
+      "droolingLevel": 3,
+      "energyLevel": 3,
+      "goodWithOtherDogs": 3,
+      "goodWithYoungChildren": 3,
+      "mentalStimulationNeeds": 3,
+      "opennessToStrangers": 4,
+      "playfulnessLevel": 3,
+      "sheddingLevel": 2,
+      "trainabilityLevel": 4,
+      "watchdogProtectiveNature": 3
+    },
+    "sizeCategory": "large",
+    "isFluffy": true
   },
   {
     "akcId": "25210",
@@ -1753,7 +8282,41 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/papillon/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2017/11/Papillon-On-White-01-400x267.jpg",
     "imageAlt": "Papillon",
-    "imagePath": "assets/images/papillon.jpg"
+    "imagePath": "assets/images/papillon.jpg",
+    "breedGroup": "Toy Group",
+    "origin": "France",
+    "temperament": "alert / friendly / happy",
+    "lifeExpectancy": "14-16 years",
+    "height": "8-11 inches",
+    "weight": "5-10 pounds",
+    "relatedCharacteristics": [
+      "Smallest Dog Breeds",
+      "Smartest Breeds of Dogs"
+    ],
+    "traits": {
+      "adaptabilityLevel": 5,
+      "affectionateWithFamily": 5,
+      "barkingLevel": 5,
+      "coatGroomingFrequency": 2,
+      "coatLength": [
+        "Medium"
+      ],
+      "coatType": [
+        "Silky"
+      ],
+      "droolingLevel": 1,
+      "energyLevel": 4,
+      "goodWithOtherDogs": 3,
+      "goodWithYoungChildren": 5,
+      "mentalStimulationNeeds": 5,
+      "opennessToStrangers": 5,
+      "playfulnessLevel": 5,
+      "sheddingLevel": 3,
+      "trainabilityLevel": 5,
+      "watchdogProtectiveNature": 4
+    },
+    "sizeCategory": "small",
+    "isFluffy": false
   },
   {
     "akcId": "25221",
@@ -1762,7 +8325,41 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/parson-russell-terrier/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2017/11/Parson-Russell-Terrier-standing-in-three-quarter-view-on-a-white-background-400x267.jpg",
     "imageAlt": "Parson Russell Terrier",
-    "imagePath": "assets/images/parson-russell-terrier.jpg"
+    "imagePath": "assets/images/parson-russell-terrier.jpg",
+    "breedGroup": "Terrier Group",
+    "origin": "England",
+    "temperament": "friendly / clever / athletic",
+    "lifeExpectancy": "13-15 years",
+    "height": "14 inches (male), 13 inches (female)",
+    "weight": "13-17 pounds",
+    "relatedCharacteristics": [
+      "Smallest Dog Breeds"
+    ],
+    "traits": {
+      "adaptabilityLevel": 4,
+      "affectionateWithFamily": 5,
+      "barkingLevel": 3,
+      "coatGroomingFrequency": 2,
+      "coatLength": [
+        "Short"
+      ],
+      "coatType": [
+        "Double",
+        "Smooth"
+      ],
+      "droolingLevel": 1,
+      "energyLevel": 5,
+      "goodWithOtherDogs": 5,
+      "goodWithYoungChildren": 3,
+      "mentalStimulationNeeds": 4,
+      "opennessToStrangers": 3,
+      "playfulnessLevel": 4,
+      "sheddingLevel": 2,
+      "trainabilityLevel": 4,
+      "watchdogProtectiveNature": 3
+    },
+    "sizeCategory": "small",
+    "isFluffy": true
   },
   {
     "akcId": "25235",
@@ -1771,7 +8368,40 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/pekingese/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2017/11/Pekingese_standing_portrait-400x267.jpg",
     "imageAlt": "Pekingese",
-    "imagePath": "assets/images/pekingese.jpg"
+    "imagePath": "assets/images/pekingese.jpg",
+    "breedGroup": "Toy Group",
+    "origin": "China",
+    "temperament": "loyal / affectionate / regal in manner",
+    "lifeExpectancy": "12-14 years",
+    "height": "6-9 inches",
+    "weight": "up to 14 pounds",
+    "relatedCharacteristics": [
+      "Smallest Dog Breeds"
+    ],
+    "traits": {
+      "adaptabilityLevel": 4,
+      "affectionateWithFamily": 5,
+      "barkingLevel": 1,
+      "coatGroomingFrequency": 3,
+      "coatLength": [
+        "Long"
+      ],
+      "coatType": [
+        "Double"
+      ],
+      "droolingLevel": 1,
+      "energyLevel": 3,
+      "goodWithOtherDogs": 3,
+      "goodWithYoungChildren": 3,
+      "mentalStimulationNeeds": 3,
+      "opennessToStrangers": 3,
+      "playfulnessLevel": 4,
+      "sheddingLevel": 3,
+      "trainabilityLevel": 3,
+      "watchdogProtectiveNature": 4
+    },
+    "sizeCategory": "small",
+    "isFluffy": true
   },
   {
     "akcId": "25249",
@@ -1780,7 +8410,40 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/pembroke-welsh-corgi/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2017/11/Pembroke-Welsh-Corgi-standing-outdoors-in-the-fall-400x267.jpg",
     "imageAlt": "Pembroke Welsh Corgi",
-    "imagePath": "assets/images/pembroke-welsh-corgi.jpg"
+    "imagePath": "assets/images/pembroke-welsh-corgi.jpg",
+    "breedGroup": "Herding Group",
+    "origin": "Wales",
+    "temperament": "alert / affectionate / smart",
+    "lifeExpectancy": "12-13 years",
+    "height": "10-12 inches",
+    "weight": "up to 30 pounds (male), up to 28 pounds (female)",
+    "relatedCharacteristics": [
+      "Smallest Dog Breeds"
+    ],
+    "traits": {
+      "adaptabilityLevel": 4,
+      "affectionateWithFamily": 5,
+      "barkingLevel": 4,
+      "coatGroomingFrequency": 2,
+      "coatLength": [
+        "Short"
+      ],
+      "coatType": [
+        "Double"
+      ],
+      "droolingLevel": 1,
+      "energyLevel": 4,
+      "goodWithOtherDogs": 4,
+      "goodWithYoungChildren": 3,
+      "mentalStimulationNeeds": 4,
+      "opennessToStrangers": 4,
+      "playfulnessLevel": 4,
+      "sheddingLevel": 4,
+      "trainabilityLevel": 4,
+      "watchdogProtectiveNature": 5
+    },
+    "sizeCategory": "medium",
+    "isFluffy": true
   },
   {
     "akcId": "25267",
@@ -1789,7 +8452,43 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/peruvian-inca-orchid/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2017/11/Peruvian-Inca-Orchid-04-400x267.jpg",
     "imageAlt": "Peruvian Inca Orchid",
-    "imagePath": "assets/images/peruvian-inca-orchid.jpg"
+    "imagePath": "assets/images/peruvian-inca-orchid.jpg",
+    "breedGroup": "Miscellaneous Class",
+    "origin": "Peru",
+    "temperament": "loyal / affectionate / noble",
+    "lifeExpectancy": "12-14 years",
+    "height": "9.75-15.75 inches (small) 15.75-19.75 inches (medium) 19.75-25.75 inches (large)",
+    "weight": "8.5-17.5 pounds (small) 17.5-26.5 pounds (medium) 26.5-55 pounds (large)",
+    "relatedCharacteristics": [
+      "Smallest Dog Breeds",
+      "Hypoallergenic Dogs",
+      "Hairless Dog Breeds"
+    ],
+    "traits": {
+      "adaptabilityLevel": 3,
+      "affectionateWithFamily": 5,
+      "barkingLevel": 3,
+      "coatGroomingFrequency": 1,
+      "coatLength": [
+        "Short"
+      ],
+      "coatType": [
+        "Smooth",
+        "Hairless"
+      ],
+      "droolingLevel": 1,
+      "energyLevel": 4,
+      "goodWithOtherDogs": 3,
+      "goodWithYoungChildren": 3,
+      "mentalStimulationNeeds": 4,
+      "opennessToStrangers": 3,
+      "playfulnessLevel": 3,
+      "sheddingLevel": 1,
+      "trainabilityLevel": 3,
+      "watchdogProtectiveNature": 3
+    },
+    "sizeCategory": "large",
+    "isFluffy": false
   },
   {
     "akcId": "25270",
@@ -1798,7 +8497,42 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/petit-basset-griffon-vendeen/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2017/11/Petit-Basset-Griffon-Vendeen-On-White-03-400x267.jpg",
     "imageAlt": "Petit Basset Griffon Vendéen",
-    "imagePath": "assets/images/petit-basset-griffon-vendeen.jpg"
+    "imagePath": "assets/images/petit-basset-griffon-vendeen.jpg",
+    "breedGroup": "Hound Group",
+    "origin": "France",
+    "temperament": "alert / happy / vivacious",
+    "lifeExpectancy": "14-16 years",
+    "height": "13-15 inches",
+    "weight": "25-40 pounds",
+    "relatedCharacteristics": [
+      "Smallest Dog Breeds",
+      "Best Dogs for Apartment Dwellers"
+    ],
+    "traits": {
+      "adaptabilityLevel": 4,
+      "affectionateWithFamily": 4,
+      "barkingLevel": 5,
+      "coatGroomingFrequency": 2,
+      "coatLength": [
+        "Long"
+      ],
+      "coatType": [
+        "Double",
+        "Rough"
+      ],
+      "droolingLevel": 2,
+      "energyLevel": 4,
+      "goodWithOtherDogs": 5,
+      "goodWithYoungChildren": 5,
+      "mentalStimulationNeeds": 4,
+      "opennessToStrangers": 4,
+      "playfulnessLevel": 4,
+      "sheddingLevel": 2,
+      "trainabilityLevel": 3,
+      "watchdogProtectiveNature": 4
+    },
+    "sizeCategory": "medium",
+    "isFluffy": true
   },
   {
     "akcId": "25272",
@@ -1807,7 +8541,40 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/pharaoh-hound/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2017/11/Pharaoh-Hound-laying-down-in-profile-400x267.jpg",
     "imageAlt": "Pharaoh Hound",
-    "imagePath": "assets/images/pharaoh-hound.jpg"
+    "imagePath": "assets/images/pharaoh-hound.jpg",
+    "breedGroup": "Hound Group",
+    "origin": "Malta",
+    "temperament": "friendly / smart / noble",
+    "lifeExpectancy": "12-14 years",
+    "height": "23-25 inches (male), 21-24 inches (female)",
+    "weight": "45-55 pounds",
+    "relatedCharacteristics": [
+      "Medium Dog Breeds"
+    ],
+    "traits": {
+      "adaptabilityLevel": 3,
+      "affectionateWithFamily": 5,
+      "barkingLevel": 3,
+      "coatGroomingFrequency": 2,
+      "coatLength": [
+        "Short"
+      ],
+      "coatType": [
+        "Smooth"
+      ],
+      "droolingLevel": 1,
+      "energyLevel": 4,
+      "goodWithOtherDogs": 5,
+      "goodWithYoungChildren": 3,
+      "mentalStimulationNeeds": 4,
+      "opennessToStrangers": 3,
+      "playfulnessLevel": 3,
+      "sheddingLevel": 3,
+      "trainabilityLevel": 4,
+      "watchdogProtectiveNature": 3
+    },
+    "sizeCategory": "large",
+    "isFluffy": false
   },
   {
     "akcId": "25282",
@@ -1816,7 +8583,40 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/plott-hound/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2017/11/IMG_8947-400x267.jpg",
     "imageAlt": "Plott Hound",
-    "imagePath": "assets/images/plott-hound.jpg"
+    "imagePath": "assets/images/plott-hound.jpg",
+    "breedGroup": "Hound Group",
+    "origin": "United States",
+    "temperament": "Loyal / Alert / Intelligent",
+    "lifeExpectancy": "12-14 years",
+    "height": "20-25 inches (male), 20-23 inches (female)",
+    "weight": "50-60 pounds (male), 40-55 pounds (female)",
+    "relatedCharacteristics": [
+      "Medium Dog Breeds"
+    ],
+    "traits": {
+      "adaptabilityLevel": 4,
+      "affectionateWithFamily": 5,
+      "barkingLevel": 4,
+      "coatGroomingFrequency": 1,
+      "coatLength": [
+        "Short"
+      ],
+      "coatType": [
+        "Smooth"
+      ],
+      "droolingLevel": 2,
+      "energyLevel": 4,
+      "goodWithOtherDogs": 5,
+      "goodWithYoungChildren": 3,
+      "mentalStimulationNeeds": 3,
+      "opennessToStrangers": 4,
+      "playfulnessLevel": 3,
+      "sheddingLevel": 2,
+      "trainabilityLevel": 4,
+      "watchdogProtectiveNature": 4
+    },
+    "sizeCategory": "large",
+    "isFluffy": false
   },
   {
     "akcId": "25297",
@@ -1825,7 +8625,40 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/pointer/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2017/11/Pointer.4-400x267.jpg",
     "imageAlt": "Pointer",
-    "imagePath": "assets/images/pointer.jpg"
+    "imagePath": "assets/images/pointer.jpg",
+    "breedGroup": "Sporting Group",
+    "origin": "England",
+    "temperament": "loyal / hardworking / even-tempered",
+    "lifeExpectancy": "12-15 years",
+    "height": "25-28 inches (male), 23-26 inches (female)",
+    "weight": "55-75 pounds (male), 45-65 pounds (female)",
+    "relatedCharacteristics": [
+      "Largest Dog Breeds"
+    ],
+    "traits": {
+      "adaptabilityLevel": 4,
+      "affectionateWithFamily": 5,
+      "barkingLevel": 3,
+      "coatGroomingFrequency": 2,
+      "coatLength": [
+        "Short"
+      ],
+      "coatType": [
+        "Smooth"
+      ],
+      "droolingLevel": 2,
+      "energyLevel": 4,
+      "goodWithOtherDogs": 5,
+      "goodWithYoungChildren": 3,
+      "mentalStimulationNeeds": 4,
+      "opennessToStrangers": 4,
+      "playfulnessLevel": 4,
+      "sheddingLevel": 3,
+      "trainabilityLevel": 5,
+      "watchdogProtectiveNature": 3
+    },
+    "sizeCategory": "large",
+    "isFluffy": false
   },
   {
     "akcId": "25310",
@@ -1834,7 +8667,40 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/polish-lowland-sheepdog/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2017/11/Polish-Lowland-Sheepdog-On-White-02-400x267.jpg",
     "imageAlt": "Polish Lowland Sheepdog",
-    "imagePath": "assets/images/polish-lowland-sheepdog.jpg"
+    "imagePath": "assets/images/polish-lowland-sheepdog.jpg",
+    "breedGroup": "Herding Group",
+    "origin": "Poland",
+    "temperament": "confident / lively / clever",
+    "lifeExpectancy": "12-14 years",
+    "height": "18-20 inches (male), 17-19 inches (female)",
+    "weight": "30-50 pounds",
+    "relatedCharacteristics": [
+      "Medium Dog Breeds"
+    ],
+    "traits": {
+      "adaptabilityLevel": 5,
+      "affectionateWithFamily": 5,
+      "barkingLevel": 4,
+      "coatGroomingFrequency": 4,
+      "coatLength": [
+        "Long"
+      ],
+      "coatType": [
+        "Double"
+      ],
+      "droolingLevel": 2,
+      "energyLevel": 3,
+      "goodWithOtherDogs": 3,
+      "goodWithYoungChildren": 3,
+      "mentalStimulationNeeds": 4,
+      "opennessToStrangers": 3,
+      "playfulnessLevel": 4,
+      "sheddingLevel": 2,
+      "trainabilityLevel": 4,
+      "watchdogProtectiveNature": 5
+    },
+    "sizeCategory": "medium",
+    "isFluffy": true
   },
   {
     "akcId": "25321",
@@ -1843,7 +8709,40 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/pomeranian/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2017/11/Pomeranian-On-White-01-400x267.jpg",
     "imageAlt": "Pomeranian",
-    "imagePath": "assets/images/pomeranian.jpg"
+    "imagePath": "assets/images/pomeranian.jpg",
+    "breedGroup": "Toy Group",
+    "origin": "Iceland",
+    "temperament": "inquisitive / lively / bold",
+    "lifeExpectancy": "12-16 years",
+    "height": "6-7 inches",
+    "weight": "3-7 pounds",
+    "relatedCharacteristics": [
+      "Smallest Dog Breeds"
+    ],
+    "traits": {
+      "adaptabilityLevel": 4,
+      "affectionateWithFamily": 5,
+      "barkingLevel": 4,
+      "coatGroomingFrequency": 3,
+      "coatLength": [
+        "Long"
+      ],
+      "coatType": [
+        "Double"
+      ],
+      "droolingLevel": 1,
+      "energyLevel": 3,
+      "goodWithOtherDogs": 3,
+      "goodWithYoungChildren": 3,
+      "mentalStimulationNeeds": 3,
+      "opennessToStrangers": 3,
+      "playfulnessLevel": 3,
+      "sheddingLevel": 2,
+      "trainabilityLevel": 3,
+      "watchdogProtectiveNature": 4
+    },
+    "sizeCategory": "small",
+    "isFluffy": true
   },
   {
     "akcId": "173120",
@@ -1852,7 +8751,40 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/pont-audemer-spaniel/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2023/07/Pont-Audemer-Spaniel-on-point-outdoors-while-hunting.1-400x267.jpg",
     "imageAlt": "Pont-Audemer Spaniel",
-    "imagePath": "assets/images/pont-audemer-spaniel.jpg"
+    "imagePath": "assets/images/pont-audemer-spaniel.jpg",
+    "breedGroup": "Foundation Stock Service",
+    "origin": "France",
+    "temperament": "affectionate / gentle / fun-loving",
+    "lifeExpectancy": "12-14 years",
+    "height": "20 - 23 Inches",
+    "weight": "38 - 48 males lbs, 33 - 40 females lbs",
+    "relatedCharacteristics": [
+      "Best Family Dogs",
+      "Best Dog Breeds for Kids",
+      "Medium Dog Breeds"
+    ],
+    "traits": {
+      "adaptabilityLevel": 5,
+      "affectionateWithFamily": 5,
+      "barkingLevel": 1,
+      "coatGroomingFrequency": 3,
+      "coatLength": [
+        "Medium"
+      ],
+      "coatType": [],
+      "droolingLevel": 1,
+      "energyLevel": 3,
+      "goodWithOtherDogs": 5,
+      "goodWithYoungChildren": 4,
+      "mentalStimulationNeeds": 3,
+      "opennessToStrangers": 3,
+      "playfulnessLevel": 4,
+      "sheddingLevel": 3,
+      "trainabilityLevel": 4,
+      "watchdogProtectiveNature": 1
+    },
+    "sizeCategory": "medium",
+    "isFluffy": false
   },
   {
     "akcId": "80441",
@@ -1861,7 +8793,42 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/poodle-miniature/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2017/11/Poodle-On-White-01-400x267.jpg",
     "imageAlt": "Poodle (Miniature)",
-    "imagePath": "assets/images/poodle-miniature.jpg"
+    "imagePath": "assets/images/poodle-miniature.jpg",
+    "breedGroup": "Non-Sporting Group",
+    "origin": "Germany",
+    "temperament": "active / proud / very smart",
+    "lifeExpectancy": "10-18 years",
+    "height": "10-15 inches",
+    "weight": "10-15 pounds",
+    "relatedCharacteristics": [
+      "Smallest Dog Breeds",
+      "Smartest Breeds of Dogs",
+      "Hypoallergenic Dogs"
+    ],
+    "traits": {
+      "adaptabilityLevel": 4,
+      "affectionateWithFamily": 5,
+      "barkingLevel": 4,
+      "coatGroomingFrequency": 4,
+      "coatLength": [
+        "Long"
+      ],
+      "coatType": [
+        "Curly"
+      ],
+      "droolingLevel": 1,
+      "energyLevel": 4,
+      "goodWithOtherDogs": 3,
+      "goodWithYoungChildren": 5,
+      "mentalStimulationNeeds": 5,
+      "opennessToStrangers": 5,
+      "playfulnessLevel": 5,
+      "sheddingLevel": 1,
+      "trainabilityLevel": 5,
+      "watchdogProtectiveNature": 3
+    },
+    "sizeCategory": "small",
+    "isFluffy": true
   },
   {
     "akcId": "25336",
@@ -1870,7 +8837,42 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/poodle-standard/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2017/11/Standard-Poodle-standing-outdoors-at-the-beach-400x267.jpg",
     "imageAlt": "Poodle (Standard)",
-    "imagePath": "assets/images/poodle-standard.jpg"
+    "imagePath": "assets/images/poodle-standard.jpg",
+    "breedGroup": "Non-Sporting Group",
+    "origin": "Germany",
+    "temperament": "active / proud / very smart",
+    "lifeExpectancy": "10-18 years",
+    "height": "over 15 inches (standard)",
+    "weight": "60-70 pounds (male standard), 40-50 pounds (female standard)",
+    "relatedCharacteristics": [
+      "Smartest Breeds of Dogs",
+      "Hypoallergenic Dogs",
+      "Medium Dog Breeds"
+    ],
+    "traits": {
+      "adaptabilityLevel": 4,
+      "affectionateWithFamily": 5,
+      "barkingLevel": 4,
+      "coatGroomingFrequency": 4,
+      "coatLength": [
+        "Long"
+      ],
+      "coatType": [
+        "Curly"
+      ],
+      "droolingLevel": 1,
+      "energyLevel": 4,
+      "goodWithOtherDogs": 3,
+      "goodWithYoungChildren": 5,
+      "mentalStimulationNeeds": 5,
+      "opennessToStrangers": 5,
+      "playfulnessLevel": 5,
+      "sheddingLevel": 1,
+      "trainabilityLevel": 5,
+      "watchdogProtectiveNature": 5
+    },
+    "sizeCategory": "large",
+    "isFluffy": true
   },
   {
     "akcId": "49148",
@@ -1879,7 +8881,42 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/poodle-toy/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2018/04/Toy-Poodle-on-White-02-400x267.jpg",
     "imageAlt": "Poodle (Toy)",
-    "imagePath": "assets/images/poodle-toy.jpg"
+    "imagePath": "assets/images/poodle-toy.jpg",
+    "breedGroup": "Toy Group",
+    "origin": "Germany",
+    "temperament": "intelligent / agile / self-confident",
+    "lifeExpectancy": "10-18 years",
+    "height": "No more than 10 inches",
+    "weight": "4-6 pounds",
+    "relatedCharacteristics": [
+      "Smallest Dog Breeds",
+      "Smartest Breeds of Dogs",
+      "Hypoallergenic Dogs"
+    ],
+    "traits": {
+      "adaptabilityLevel": 4,
+      "affectionateWithFamily": 5,
+      "barkingLevel": 4,
+      "coatGroomingFrequency": 4,
+      "coatLength": [
+        "Long"
+      ],
+      "coatType": [
+        "Curly"
+      ],
+      "droolingLevel": 1,
+      "energyLevel": 4,
+      "goodWithOtherDogs": 3,
+      "goodWithYoungChildren": 5,
+      "mentalStimulationNeeds": 5,
+      "opennessToStrangers": 5,
+      "playfulnessLevel": 5,
+      "sheddingLevel": 1,
+      "trainabilityLevel": 5,
+      "watchdogProtectiveNature": 3
+    },
+    "sizeCategory": "small",
+    "isFluffy": true
   },
   {
     "akcId": "25357",
@@ -1888,7 +8925,40 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/porcelaine/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2017/11/Porcelaine.4-400x267.jpg",
     "imageAlt": "Porcelaine",
-    "imagePath": "assets/images/porcelaine.jpg"
+    "imagePath": "assets/images/porcelaine.jpg",
+    "breedGroup": "Foundation Stock Service",
+    "origin": "France",
+    "temperament": "independent / energetic / powerful",
+    "lifeExpectancy": "12-13 years",
+    "height": "22-23 inches",
+    "weight": "55-62 pounds",
+    "relatedCharacteristics": [
+      "Medium Dog Breeds"
+    ],
+    "traits": {
+      "adaptabilityLevel": 4,
+      "affectionateWithFamily": 5,
+      "barkingLevel": 2,
+      "coatGroomingFrequency": 1,
+      "coatLength": [
+        "Short"
+      ],
+      "coatType": [
+        "Smooth"
+      ],
+      "droolingLevel": 3,
+      "energyLevel": 4,
+      "goodWithOtherDogs": 5,
+      "goodWithYoungChildren": 5,
+      "mentalStimulationNeeds": 4,
+      "opennessToStrangers": 5,
+      "playfulnessLevel": 5,
+      "sheddingLevel": 3,
+      "trainabilityLevel": 5,
+      "watchdogProtectiveNature": 3
+    },
+    "sizeCategory": "large",
+    "isFluffy": false
   },
   {
     "akcId": "25359",
@@ -1897,7 +8967,41 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/portuguese-podengo/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2017/11/Portuguese-Podengo-standing-in-three-quarter-view-400x267.jpg",
     "imageAlt": "Portuguese Podengo",
-    "imagePath": "assets/images/portuguese-podengo.jpg"
+    "imagePath": "assets/images/portuguese-podengo.jpg",
+    "breedGroup": "Miscellaneous Class",
+    "origin": "Portugal",
+    "temperament": "alert / independent / intelligent",
+    "lifeExpectancy": "10-15 years",
+    "height": "22-28 inches (large) 16-22 inches (medium)",
+    "weight": "44-66 pounds (large) 35-44 pounds (medium)",
+    "relatedCharacteristics": [
+      "Medium Dog Breeds"
+    ],
+    "traits": {
+      "adaptabilityLevel": 4,
+      "affectionateWithFamily": 5,
+      "barkingLevel": 3,
+      "coatGroomingFrequency": 2,
+      "coatLength": [
+        "Medium"
+      ],
+      "coatType": [
+        "Smooth",
+        "Wiry"
+      ],
+      "droolingLevel": 1,
+      "energyLevel": 4,
+      "goodWithOtherDogs": 5,
+      "goodWithYoungChildren": 5,
+      "mentalStimulationNeeds": 4,
+      "opennessToStrangers": 3,
+      "playfulnessLevel": 4,
+      "sheddingLevel": 3,
+      "trainabilityLevel": 3,
+      "watchdogProtectiveNature": 3
+    },
+    "sizeCategory": "large",
+    "isFluffy": false
   },
   {
     "akcId": "25367",
@@ -1906,7 +9010,41 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/portuguese-podengo-pequeno/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2017/11/PPP-on-white-400x267.jpg",
     "imageAlt": "Portuguese Podengo Pequeno",
-    "imagePath": "assets/images/portuguese-podengo-pequeno.jpg"
+    "imagePath": "assets/images/portuguese-podengo-pequeno.jpg",
+    "breedGroup": "Hound Group",
+    "origin": "Portugal",
+    "temperament": "playful / charming / lively",
+    "lifeExpectancy": "12-15 years",
+    "height": "8-12 inches",
+    "weight": "9-13 pounds",
+    "relatedCharacteristics": [
+      "Smallest Dog Breeds"
+    ],
+    "traits": {
+      "adaptabilityLevel": 4,
+      "affectionateWithFamily": 5,
+      "barkingLevel": 3,
+      "coatGroomingFrequency": 2,
+      "coatLength": [
+        "Short"
+      ],
+      "coatType": [
+        "Smooth",
+        "Wiry"
+      ],
+      "droolingLevel": 1,
+      "energyLevel": 4,
+      "goodWithOtherDogs": 5,
+      "goodWithYoungChildren": 5,
+      "mentalStimulationNeeds": 4,
+      "opennessToStrangers": 3,
+      "playfulnessLevel": 4,
+      "sheddingLevel": 3,
+      "trainabilityLevel": 3,
+      "watchdogProtectiveNature": 3
+    },
+    "sizeCategory": "small",
+    "isFluffy": false
   },
   {
     "akcId": "25375",
@@ -1915,7 +9053,40 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/portuguese-pointer/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2017/11/Portuguese-Pointer-on-White-01-1-400x267.jpg",
     "imageAlt": "Portuguese Pointer",
-    "imagePath": "assets/images/portuguese-pointer.jpg"
+    "imagePath": "assets/images/portuguese-pointer.jpg",
+    "breedGroup": "Foundation Stock Service",
+    "origin": "Portugal",
+    "temperament": "energetic / affectionate / smart",
+    "lifeExpectancy": "14 years",
+    "height": "20.5-22 inches",
+    "weight": "35-59 pounds",
+    "relatedCharacteristics": [
+      "Medium Dog Breeds"
+    ],
+    "traits": {
+      "adaptabilityLevel": 4,
+      "affectionateWithFamily": 5,
+      "barkingLevel": 3,
+      "coatGroomingFrequency": 1,
+      "coatLength": [
+        "Short"
+      ],
+      "coatType": [
+        "Smooth"
+      ],
+      "droolingLevel": 2,
+      "energyLevel": 5,
+      "goodWithOtherDogs": 3,
+      "goodWithYoungChildren": 5,
+      "mentalStimulationNeeds": 5,
+      "opennessToStrangers": 4,
+      "playfulnessLevel": 4,
+      "sheddingLevel": 3,
+      "trainabilityLevel": 5,
+      "watchdogProtectiveNature": 3
+    },
+    "sizeCategory": "large",
+    "isFluffy": false
   },
   {
     "akcId": "25377",
@@ -1924,7 +9095,40 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/portuguese-sheepdog/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2017/11/Black-Portuguese-Sheepdog-standing-outdoors-in-the-grass-400x267.jpg",
     "imageAlt": "Portuguese Sheepdog",
-    "imagePath": "assets/images/portuguese-sheepdog.jpg"
+    "imagePath": "assets/images/portuguese-sheepdog.jpg",
+    "breedGroup": "Foundation Stock Service",
+    "origin": "Portugal",
+    "temperament": "intelligent / devoted / lively",
+    "lifeExpectancy": "12-13 years",
+    "height": "16.5-21.5 inches",
+    "weight": "37.5-59 pounds",
+    "relatedCharacteristics": [
+      "Medium Dog Breeds"
+    ],
+    "traits": {
+      "adaptabilityLevel": 4,
+      "affectionateWithFamily": 5,
+      "barkingLevel": 3,
+      "coatGroomingFrequency": 2,
+      "coatLength": [
+        "Long"
+      ],
+      "coatType": [
+        "Wavy"
+      ],
+      "droolingLevel": 2,
+      "energyLevel": 4,
+      "goodWithOtherDogs": 3,
+      "goodWithYoungChildren": 3,
+      "mentalStimulationNeeds": 4,
+      "opennessToStrangers": 3,
+      "playfulnessLevel": 3,
+      "sheddingLevel": 2,
+      "trainabilityLevel": 5,
+      "watchdogProtectiveNature": 5
+    },
+    "sizeCategory": "large",
+    "isFluffy": true
   },
   {
     "akcId": "25378",
@@ -1933,7 +9137,41 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/portuguese-water-dog/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2017/11/Portuguese-Water-Dog-standing-in-profile-outdoors-400x267.jpg",
     "imageAlt": "Portuguese Water Dog",
-    "imagePath": "assets/images/portuguese-water-dog.jpg"
+    "imagePath": "assets/images/portuguese-water-dog.jpg",
+    "breedGroup": "Working Group",
+    "origin": "Portugal",
+    "temperament": "affectionate / adventurous / athletic",
+    "lifeExpectancy": "11-13 years",
+    "height": "20-23 inches (male), 17-21 inches (female)",
+    "weight": "42-60 pounds (male), 35-50 pounds (female)",
+    "relatedCharacteristics": [
+      "Hypoallergenic Dogs"
+    ],
+    "traits": {
+      "adaptabilityLevel": 5,
+      "affectionateWithFamily": 5,
+      "barkingLevel": 3,
+      "coatGroomingFrequency": 4,
+      "coatLength": [
+        "Long"
+      ],
+      "coatType": [
+        "Wavy",
+        "Curly"
+      ],
+      "droolingLevel": 2,
+      "energyLevel": 5,
+      "goodWithOtherDogs": 4,
+      "goodWithYoungChildren": 5,
+      "mentalStimulationNeeds": 5,
+      "opennessToStrangers": 4,
+      "playfulnessLevel": 5,
+      "sheddingLevel": 2,
+      "trainabilityLevel": 5,
+      "watchdogProtectiveNature": 4
+    },
+    "sizeCategory": "large",
+    "isFluffy": true
   },
   {
     "akcId": "25265",
@@ -1942,7 +9180,41 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/presa-canario/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2017/11/Perro-de-Presa-Canario.1-400x267.jpg",
     "imageAlt": "Presa Canario",
-    "imagePath": "assets/images/presa-canario.jpg"
+    "imagePath": "assets/images/presa-canario.jpg",
+    "breedGroup": "Foundation Stock Service",
+    "origin": "Spain",
+    "temperament": "strong-willed / confident / calm",
+    "lifeExpectancy": "9-11 years",
+    "height": "22-26 inches",
+    "weight": "84-110 pounds",
+    "relatedCharacteristics": [
+      "Largest Dog Breeds",
+      "Best Guard Dogs"
+    ],
+    "traits": {
+      "adaptabilityLevel": 2,
+      "affectionateWithFamily": 2,
+      "barkingLevel": 3,
+      "coatGroomingFrequency": 1,
+      "coatLength": [
+        "Short"
+      ],
+      "coatType": [
+        "Smooth"
+      ],
+      "droolingLevel": 4,
+      "energyLevel": 2,
+      "goodWithOtherDogs": 1,
+      "goodWithYoungChildren": 1,
+      "mentalStimulationNeeds": 3,
+      "opennessToStrangers": 1,
+      "playfulnessLevel": 1,
+      "sheddingLevel": 3,
+      "trainabilityLevel": 3,
+      "watchdogProtectiveNature": 5
+    },
+    "sizeCategory": "large",
+    "isFluffy": false
   },
   {
     "akcId": "25389",
@@ -1951,7 +9223,42 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/pudelpointer/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2017/11/Pudelpointer-standing-in-a-field-400x267.jpg",
     "imageAlt": "Pudelpointer",
-    "imagePath": "assets/images/pudelpointer.jpg"
+    "imagePath": "assets/images/pudelpointer.jpg",
+    "breedGroup": "Foundation Stock Service",
+    "origin": "Germany",
+    "temperament": "friendly / smart / willing to please",
+    "lifeExpectancy": "14 years",
+    "height": "22-26 inches",
+    "weight": "45-70 pounds",
+    "relatedCharacteristics": [
+      "Medium Dog Breeds"
+    ],
+    "traits": {
+      "adaptabilityLevel": 5,
+      "affectionateWithFamily": 5,
+      "barkingLevel": 3,
+      "coatGroomingFrequency": 1,
+      "coatLength": [
+        "Short"
+      ],
+      "coatType": [
+        "Rough",
+        "Smooth",
+        "Wiry"
+      ],
+      "droolingLevel": 3,
+      "energyLevel": 4,
+      "goodWithOtherDogs": 3,
+      "goodWithYoungChildren": 3,
+      "mentalStimulationNeeds": 4,
+      "opennessToStrangers": 3,
+      "playfulnessLevel": 3,
+      "sheddingLevel": 3,
+      "trainabilityLevel": 5,
+      "watchdogProtectiveNature": 3
+    },
+    "sizeCategory": "large",
+    "isFluffy": false
   },
   {
     "akcId": "25390",
@@ -1960,7 +9267,42 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/pug/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2017/11/Pug-On-White-01-400x267.jpg",
     "imageAlt": "Pug",
-    "imagePath": "assets/images/pug.jpg"
+    "imagePath": "assets/images/pug.jpg",
+    "breedGroup": "Toy Group",
+    "origin": "China",
+    "temperament": "charming / loving / mischievous",
+    "lifeExpectancy": "13-15 years",
+    "height": "10-13 inches",
+    "weight": "14-18 pounds",
+    "relatedCharacteristics": [
+      "Smallest Dog Breeds",
+      "Best Family Dogs",
+      "Best Dogs for Apartment Dwellers"
+    ],
+    "traits": {
+      "adaptabilityLevel": 5,
+      "affectionateWithFamily": 5,
+      "barkingLevel": 1,
+      "coatGroomingFrequency": 2,
+      "coatLength": [
+        "Short"
+      ],
+      "coatType": [
+        "Smooth"
+      ],
+      "droolingLevel": 1,
+      "energyLevel": 3,
+      "goodWithOtherDogs": 4,
+      "goodWithYoungChildren": 5,
+      "mentalStimulationNeeds": 3,
+      "opennessToStrangers": 5,
+      "playfulnessLevel": 5,
+      "sheddingLevel": 4,
+      "trainabilityLevel": 4,
+      "watchdogProtectiveNature": 3
+    },
+    "sizeCategory": "small",
+    "isFluffy": false
   },
   {
     "akcId": "25405",
@@ -1969,7 +9311,41 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/puli/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2017/11/Puli-sitting-in-a-field-400x267.jpg",
     "imageAlt": "Puli",
-    "imagePath": "assets/images/puli.jpg"
+    "imagePath": "assets/images/puli.jpg",
+    "breedGroup": "Herding Group",
+    "origin": "Hungary",
+    "temperament": "loyal / smart / home-loving",
+    "lifeExpectancy": "10-15 years",
+    "height": "17 inches (male), 16 inches (female)",
+    "weight": "25-35 pounds",
+    "relatedCharacteristics": [
+      "Best Guard Dogs"
+    ],
+    "traits": {
+      "adaptabilityLevel": 4,
+      "affectionateWithFamily": 5,
+      "barkingLevel": 3,
+      "coatGroomingFrequency": 5,
+      "coatLength": [
+        "Long"
+      ],
+      "coatType": [
+        "Double",
+        "Corded"
+      ],
+      "droolingLevel": 2,
+      "energyLevel": 3,
+      "goodWithOtherDogs": 3,
+      "goodWithYoungChildren": 3,
+      "mentalStimulationNeeds": 5,
+      "opennessToStrangers": 3,
+      "playfulnessLevel": 3,
+      "sheddingLevel": 1,
+      "trainabilityLevel": 5,
+      "watchdogProtectiveNature": 5
+    },
+    "sizeCategory": "medium",
+    "isFluffy": true
   },
   {
     "akcId": "25420",
@@ -1978,7 +9354,42 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/pumi/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2017/11/Pumi-standing-outdoors-in-the-countryside-400x267.jpg",
     "imageAlt": "Pumi",
-    "imagePath": "assets/images/pumi.jpg"
+    "imagePath": "assets/images/pumi.jpg",
+    "breedGroup": "Herding Group",
+    "origin": "Hungary",
+    "temperament": "energetic / lively / ready to work",
+    "lifeExpectancy": "12-13 years",
+    "height": "16-18.5 inches (male), 15-17.5 inches (female)",
+    "weight": "27-29 pounds (male), 22-24 pounds (female)",
+    "relatedCharacteristics": [
+      "Smallest Dog Breeds",
+      "Best Family Dogs"
+    ],
+    "traits": {
+      "adaptabilityLevel": 4,
+      "affectionateWithFamily": 5,
+      "barkingLevel": 3,
+      "coatGroomingFrequency": 2,
+      "coatLength": [
+        "Medium"
+      ],
+      "coatType": [
+        "Wavy",
+        "Curly"
+      ],
+      "droolingLevel": 2,
+      "energyLevel": 5,
+      "goodWithOtherDogs": 3,
+      "goodWithYoungChildren": 3,
+      "mentalStimulationNeeds": 5,
+      "opennessToStrangers": 3,
+      "playfulnessLevel": 4,
+      "sheddingLevel": 1,
+      "trainabilityLevel": 5,
+      "watchdogProtectiveNature": 4
+    },
+    "sizeCategory": "medium",
+    "isFluffy": true
   },
   {
     "akcId": "25435",
@@ -1987,7 +9398,40 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/pyrenean-mastiff/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2017/11/Pyrenean-Mastiff-On-White-01-400x267.jpg",
     "imageAlt": "Pyrenean Mastiff",
-    "imagePath": "assets/images/pyrenean-mastiff.jpg"
+    "imagePath": "assets/images/pyrenean-mastiff.jpg",
+    "breedGroup": "Miscellaneous Class",
+    "origin": "Spain",
+    "temperament": "gentle / brave / noble",
+    "lifeExpectancy": "10-12 years",
+    "height": "Males 30-31 inches, Females 28-30 inches",
+    "weight": "120-190 pounds",
+    "relatedCharacteristics": [
+      "Largest Dog Breeds"
+    ],
+    "traits": {
+      "adaptabilityLevel": 3,
+      "affectionateWithFamily": 4,
+      "barkingLevel": 4,
+      "coatGroomingFrequency": 3,
+      "coatLength": [
+        "Medium"
+      ],
+      "coatType": [
+        "Double"
+      ],
+      "droolingLevel": 5,
+      "energyLevel": 2,
+      "goodWithOtherDogs": 4,
+      "goodWithYoungChildren": 4,
+      "mentalStimulationNeeds": 2,
+      "opennessToStrangers": 3,
+      "playfulnessLevel": 3,
+      "sheddingLevel": 4,
+      "trainabilityLevel": 2,
+      "watchdogProtectiveNature": 5
+    },
+    "sizeCategory": "large",
+    "isFluffy": true
   },
   {
     "akcId": "25437",
@@ -1996,7 +9440,41 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/pyrenean-shepherd/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2017/11/Pyrenean-Shepherd-standing-in-profile-in-a-field-400x267.jpg",
     "imageAlt": "Pyrenean Shepherd",
-    "imagePath": "assets/images/pyrenean-shepherd.jpg"
+    "imagePath": "assets/images/pyrenean-shepherd.jpg",
+    "breedGroup": "Herding Group",
+    "origin": "France",
+    "temperament": "active / affectionate / enthusiastic",
+    "lifeExpectancy": "17-19 years",
+    "height": "15.5-18.5 inches (male rough-faced), 15-18 inches (female rough-faced), 15.5-21 inches (male smooth-faced), 15.5-20.5 inches (female smooth-faced)",
+    "weight": "15-30 pounds",
+    "relatedCharacteristics": [
+      "Medium Dog Breeds"
+    ],
+    "traits": {
+      "adaptabilityLevel": 4,
+      "affectionateWithFamily": 5,
+      "barkingLevel": 4,
+      "coatGroomingFrequency": 2,
+      "coatLength": [
+        "Medium"
+      ],
+      "coatType": [
+        "Rough",
+        "Smooth"
+      ],
+      "droolingLevel": 2,
+      "energyLevel": 5,
+      "goodWithOtherDogs": 3,
+      "goodWithYoungChildren": 3,
+      "mentalStimulationNeeds": 5,
+      "opennessToStrangers": 3,
+      "playfulnessLevel": 5,
+      "sheddingLevel": 3,
+      "trainabilityLevel": 5,
+      "watchdogProtectiveNature": 5
+    },
+    "sizeCategory": "medium",
+    "isFluffy": true
   },
   {
     "akcId": "25452",
@@ -2005,7 +9483,40 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/rafeiro-do-alentejo/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2017/11/Rafeiro-do-Alentejo-standing-outdoors-in-a-field-1-400x267.jpg",
     "imageAlt": "Rafeiro do Alentejo",
-    "imagePath": "assets/images/rafeiro-do-alentejo.jpg"
+    "imagePath": "assets/images/rafeiro-do-alentejo.jpg",
+    "breedGroup": "Foundation Stock Service",
+    "origin": "Portugal",
+    "temperament": "confident / calm / powerful",
+    "lifeExpectancy": "12-14 years",
+    "height": "25-29 inches",
+    "weight": "77-132 pounds",
+    "relatedCharacteristics": [
+      "Largest Dog Breeds"
+    ],
+    "traits": {
+      "adaptabilityLevel": 5,
+      "affectionateWithFamily": 5,
+      "barkingLevel": 2,
+      "coatGroomingFrequency": 2,
+      "coatLength": [
+        "Short"
+      ],
+      "coatType": [
+        "Double"
+      ],
+      "droolingLevel": 3,
+      "energyLevel": 3,
+      "goodWithOtherDogs": 3,
+      "goodWithYoungChildren": 3,
+      "mentalStimulationNeeds": 3,
+      "opennessToStrangers": 3,
+      "playfulnessLevel": 3,
+      "sheddingLevel": 3,
+      "trainabilityLevel": 5,
+      "watchdogProtectiveNature": 5
+    },
+    "sizeCategory": "large",
+    "isFluffy": true
   },
   {
     "akcId": "25453",
@@ -2014,7 +9525,40 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/rat-terrier/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2017/11/Rat-Terrier-On-White-01-400x267.jpg",
     "imageAlt": "Rat Terrier",
-    "imagePath": "assets/images/rat-terrier.jpg"
+    "imagePath": "assets/images/rat-terrier.jpg",
+    "breedGroup": "Terrier Group",
+    "origin": "United States",
+    "temperament": "friendly / inquisitive / lovable",
+    "lifeExpectancy": "12-18 years",
+    "height": "10-13 inches (miniature), 13-18 inches (standard)",
+    "weight": "10-25 pounds",
+    "relatedCharacteristics": [
+      "Smallest Dog Breeds"
+    ],
+    "traits": {
+      "adaptabilityLevel": 4,
+      "affectionateWithFamily": 5,
+      "barkingLevel": 3,
+      "coatGroomingFrequency": 2,
+      "coatLength": [
+        "Short"
+      ],
+      "coatType": [
+        "Smooth"
+      ],
+      "droolingLevel": 1,
+      "energyLevel": 4,
+      "goodWithOtherDogs": 3,
+      "goodWithYoungChildren": 5,
+      "mentalStimulationNeeds": 5,
+      "opennessToStrangers": 5,
+      "playfulnessLevel": 5,
+      "sheddingLevel": 3,
+      "trainabilityLevel": 5,
+      "watchdogProtectiveNature": 4
+    },
+    "sizeCategory": "medium",
+    "isFluffy": false
   },
   {
     "akcId": "25467",
@@ -2023,7 +9567,40 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/redbone-coonhound/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2017/11/Redbone-Coonhound-400x267.jpg",
     "imageAlt": "Redbone Coonhound",
-    "imagePath": "assets/images/redbone-coonhound.jpg"
+    "imagePath": "assets/images/redbone-coonhound.jpg",
+    "breedGroup": "Hound Group",
+    "origin": "United States",
+    "temperament": "eager to please / even-tempered / amiable",
+    "lifeExpectancy": "12-15 years",
+    "height": "22-27 inches (male), 21-26 inches (female)",
+    "weight": "45-70 pounds",
+    "relatedCharacteristics": [
+      "Largest Dog Breeds"
+    ],
+    "traits": {
+      "adaptabilityLevel": 4,
+      "affectionateWithFamily": 5,
+      "barkingLevel": 4,
+      "coatGroomingFrequency": 2,
+      "coatLength": [
+        "Short"
+      ],
+      "coatType": [
+        "Smooth"
+      ],
+      "droolingLevel": 3,
+      "energyLevel": 3,
+      "goodWithOtherDogs": 5,
+      "goodWithYoungChildren": 5,
+      "mentalStimulationNeeds": 4,
+      "opennessToStrangers": 3,
+      "playfulnessLevel": 3,
+      "sheddingLevel": 3,
+      "trainabilityLevel": 3,
+      "watchdogProtectiveNature": 3
+    },
+    "sizeCategory": "large",
+    "isFluffy": false
   },
   {
     "akcId": "25476",
@@ -2032,7 +9609,40 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/rhodesian-ridgeback/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2017/11/Rhodesian-Ridgeback-standing-in-profile-outdoors-400x267.jpg",
     "imageAlt": "Rhodesian Ridgeback",
-    "imagePath": "assets/images/rhodesian-ridgeback.jpg"
+    "imagePath": "assets/images/rhodesian-ridgeback.jpg",
+    "breedGroup": "Hound Group",
+    "origin": "Zambia/Zimbabwe (formerly Rhodesia)",
+    "temperament": "dignified / affectionate / even-tempered",
+    "lifeExpectancy": "10-12 years",
+    "height": "25-27 inches (male), 24-26 inches (female)",
+    "weight": "85 pounds (male), 70 pounds (female)",
+    "relatedCharacteristics": [
+      "Best Family Dogs"
+    ],
+    "traits": {
+      "adaptabilityLevel": 4,
+      "affectionateWithFamily": 5,
+      "barkingLevel": 2,
+      "coatGroomingFrequency": 2,
+      "coatLength": [
+        "Short"
+      ],
+      "coatType": [
+        "Smooth"
+      ],
+      "droolingLevel": 2,
+      "energyLevel": 3,
+      "goodWithOtherDogs": 3,
+      "goodWithYoungChildren": 5,
+      "mentalStimulationNeeds": 4,
+      "opennessToStrangers": 3,
+      "playfulnessLevel": 3,
+      "sheddingLevel": 3,
+      "trainabilityLevel": 4,
+      "watchdogProtectiveNature": 5
+    },
+    "sizeCategory": "large",
+    "isFluffy": false
   },
   {
     "akcId": "141646",
@@ -2041,7 +9651,34 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/romanian-carpathian-shepherd/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2022/01/Romanian-Carpathian-Shepherd-standing-with-a-shepherd-in-a-field-copy-400x267.jpg",
     "imageAlt": "Romanian Carpathian Shepherd",
-    "imagePath": "assets/images/romanian-carpathian-shepherd.jpg"
+    "imagePath": "assets/images/romanian-carpathian-shepherd.jpg",
+    "breedGroup": "Foundation Stock Service",
+    "origin": "Romania",
+    "temperament": "loyal / brave",
+    "lifeExpectancy": "12-14 years",
+    "height": "26-29 Males, 23 - 26 Females",
+    "weight": "70 - 100 lbs",
+    "relatedCharacteristics": [],
+    "traits": {
+      "adaptabilityLevel": 3,
+      "affectionateWithFamily": 3,
+      "barkingLevel": 3,
+      "coatGroomingFrequency": 2,
+      "coatLength": [],
+      "coatType": [],
+      "droolingLevel": 1,
+      "energyLevel": 2,
+      "goodWithOtherDogs": 3,
+      "goodWithYoungChildren": 4,
+      "mentalStimulationNeeds": 5,
+      "opennessToStrangers": 3,
+      "playfulnessLevel": 3,
+      "sheddingLevel": 3,
+      "trainabilityLevel": 1,
+      "watchdogProtectiveNature": 5
+    },
+    "sizeCategory": "large",
+    "isFluffy": false
   },
   {
     "akcId": "57357",
@@ -2050,7 +9687,41 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/romanian-mioritic-shepherd-dog/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2018/07/Romanian-Mioritic-Shepherd-Dog-laying-in-a-field-in-a-mountainous-landscape-400x267.jpg",
     "imageAlt": "Romanian Mioritic Shepherd Dog",
-    "imagePath": "assets/images/romanian-mioritic-shepherd-dog.jpg"
+    "imagePath": "assets/images/romanian-mioritic-shepherd-dog.jpg",
+    "breedGroup": "Foundation Stock Service",
+    "origin": "Romania",
+    "temperament": "independent / loyal / confident guardian",
+    "lifeExpectancy": "12-14 years",
+    "height": "27-29 inches (males), 22.5-28 inches (females)",
+    "weight": "100-130 lbs",
+    "relatedCharacteristics": [
+      "Largest Dog Breeds",
+      "Best Guard Dogs"
+    ],
+    "traits": {
+      "adaptabilityLevel": 3,
+      "affectionateWithFamily": 5,
+      "barkingLevel": 1,
+      "coatGroomingFrequency": 2,
+      "coatLength": [
+        "Medium"
+      ],
+      "coatType": [
+        "Double"
+      ],
+      "droolingLevel": 3,
+      "energyLevel": 3,
+      "goodWithOtherDogs": 3,
+      "goodWithYoungChildren": 5,
+      "mentalStimulationNeeds": 3,
+      "opennessToStrangers": 1,
+      "playfulnessLevel": 3,
+      "sheddingLevel": 2,
+      "trainabilityLevel": 3,
+      "watchdogProtectiveNature": 5
+    },
+    "sizeCategory": "large",
+    "isFluffy": true
   },
   {
     "akcId": "25491",
@@ -2059,7 +9730,41 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/rottweiler/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2017/11/Rottweiler-On-White-10-400x267.jpg",
     "imageAlt": "Rottweiler",
-    "imagePath": "assets/images/rottweiler.jpg"
+    "imagePath": "assets/images/rottweiler.jpg",
+    "breedGroup": "Working Group",
+    "origin": "Germany",
+    "temperament": "loyal / loving / confident guardian",
+    "lifeExpectancy": "9-10 years",
+    "height": "24-27 inches (male), 22-25 inches (female)",
+    "weight": "95-135 pounds (male), 80-100 pounds (female)",
+    "relatedCharacteristics": [
+      "Smartest Breeds of Dogs",
+      "Best Guard Dogs"
+    ],
+    "traits": {
+      "adaptabilityLevel": 4,
+      "affectionateWithFamily": 5,
+      "barkingLevel": 1,
+      "coatGroomingFrequency": 1,
+      "coatLength": [
+        "Short"
+      ],
+      "coatType": [
+        "Smooth"
+      ],
+      "droolingLevel": 3,
+      "energyLevel": 3,
+      "goodWithOtherDogs": 3,
+      "goodWithYoungChildren": 3,
+      "mentalStimulationNeeds": 5,
+      "opennessToStrangers": 3,
+      "playfulnessLevel": 4,
+      "sheddingLevel": 3,
+      "trainabilityLevel": 5,
+      "watchdogProtectiveNature": 5
+    },
+    "sizeCategory": "large",
+    "isFluffy": false
   },
   {
     "akcId": "25511",
@@ -2068,7 +9773,41 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/russell-terrier/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2017/11/Russell-Terrier-On-White-03-400x267.jpg",
     "imageAlt": "Russell Terrier",
-    "imagePath": "assets/images/russell-terrier.jpg"
+    "imagePath": "assets/images/russell-terrier.jpg",
+    "breedGroup": "Terrier Group",
+    "origin": "England",
+    "temperament": "alert / inquisitive / lively",
+    "lifeExpectancy": "12-14 years",
+    "height": "10-12 inches",
+    "weight": "9-15 pounds",
+    "relatedCharacteristics": [
+      "Smallest Dog Breeds"
+    ],
+    "traits": {
+      "adaptabilityLevel": 4,
+      "affectionateWithFamily": 5,
+      "barkingLevel": 4,
+      "coatGroomingFrequency": 2,
+      "coatLength": [
+        "Short"
+      ],
+      "coatType": [
+        "Smooth",
+        "Wiry"
+      ],
+      "droolingLevel": 1,
+      "energyLevel": 5,
+      "goodWithOtherDogs": 5,
+      "goodWithYoungChildren": 3,
+      "mentalStimulationNeeds": 5,
+      "opennessToStrangers": 5,
+      "playfulnessLevel": 5,
+      "sheddingLevel": 3,
+      "trainabilityLevel": 3,
+      "watchdogProtectiveNature": 4
+    },
+    "sizeCategory": "small",
+    "isFluffy": false
   },
   {
     "akcId": "25525",
@@ -2077,7 +9816,41 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/russian-toy/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2017/11/Russian-Toy.4-400x267.jpg",
     "imageAlt": "Russian Toy",
-    "imagePath": "assets/images/russian-toy.jpg"
+    "imagePath": "assets/images/russian-toy.jpg",
+    "breedGroup": "Toy Group",
+    "origin": "Russia",
+    "temperament": "loyal / charming / smart",
+    "lifeExpectancy": "12-14 years",
+    "height": "8-11 inches",
+    "weight": "Up to 6.5 pounds",
+    "relatedCharacteristics": [
+      "Smallest Dog Breeds",
+      "Best Dogs for Apartment Dwellers"
+    ],
+    "traits": {
+      "adaptabilityLevel": 4,
+      "affectionateWithFamily": 5,
+      "barkingLevel": 4,
+      "coatGroomingFrequency": 2,
+      "coatLength": [
+        "Short"
+      ],
+      "coatType": [
+        "Double"
+      ],
+      "droolingLevel": 1,
+      "energyLevel": 3,
+      "goodWithOtherDogs": 3,
+      "goodWithYoungChildren": 3,
+      "mentalStimulationNeeds": 3,
+      "opennessToStrangers": 3,
+      "playfulnessLevel": 4,
+      "sheddingLevel": 3,
+      "trainabilityLevel": 4,
+      "watchdogProtectiveNature": 4
+    },
+    "sizeCategory": "small",
+    "isFluffy": true
   },
   {
     "akcId": "25527",
@@ -2086,7 +9859,45 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/russian-tsvetnaya-bolonka/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2017/11/Russian-Tsvetnaya-Bolonka-standing-on-a-white-background-400x267.jpg",
     "imageAlt": "Russian Tsvetnaya Bolonka",
-    "imagePath": "assets/images/russian-tsvetnaya-bolonka.jpg"
+    "imagePath": "assets/images/russian-tsvetnaya-bolonka.jpg",
+    "breedGroup": "Toy Group",
+    "origin": "Russia",
+    "temperament": "playful / charming / inquisitive",
+    "lifeExpectancy": "14-20 years",
+    "height": "11 inches",
+    "weight": "6 - 9 pounds",
+    "relatedCharacteristics": [
+      "Smallest Dog Breeds",
+      "Best Family Dogs",
+      "Best Dog Breeds for Kids",
+      "Smartest Breeds of Dogs",
+      "Hypoallergenic Dogs",
+      "Best Dogs for Apartment Dwellers"
+    ],
+    "traits": {
+      "adaptabilityLevel": 5,
+      "affectionateWithFamily": 5,
+      "barkingLevel": 1,
+      "coatGroomingFrequency": 3,
+      "coatLength": [
+        "Medium"
+      ],
+      "coatType": [
+        "Wavy"
+      ],
+      "droolingLevel": 1,
+      "energyLevel": 3,
+      "goodWithOtherDogs": 5,
+      "goodWithYoungChildren": 5,
+      "mentalStimulationNeeds": 1,
+      "opennessToStrangers": 3,
+      "playfulnessLevel": 3,
+      "sheddingLevel": 3,
+      "trainabilityLevel": 5,
+      "watchdogProtectiveNature": 1
+    },
+    "sizeCategory": "small",
+    "isFluffy": true
   },
   {
     "akcId": "25529",
@@ -2095,7 +9906,42 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/st-bernard/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2017/11/Saint-Bernard-standing-in-profile-outdoors-400x267.jpg",
     "imageAlt": "Saint Bernard",
-    "imagePath": "assets/images/st-bernard.jpg"
+    "imagePath": "assets/images/st-bernard.jpg",
+    "breedGroup": "Working Group",
+    "origin": "Switzerland",
+    "temperament": "playful / charming / inquisitive",
+    "lifeExpectancy": "8-10 years",
+    "height": "28-30 inches (males), 26-28 inches (female)",
+    "weight": "140-180 pounds (male), 120-140 pounds (female)",
+    "relatedCharacteristics": [
+      "Largest Dog Breeds"
+    ],
+    "traits": {
+      "adaptabilityLevel": 4,
+      "affectionateWithFamily": 5,
+      "barkingLevel": 1,
+      "coatGroomingFrequency": 2,
+      "coatLength": [
+        "Short"
+      ],
+      "coatType": [
+        "Double",
+        "Rough",
+        "Smooth"
+      ],
+      "droolingLevel": 5,
+      "energyLevel": 3,
+      "goodWithOtherDogs": 3,
+      "goodWithYoungChildren": 5,
+      "mentalStimulationNeeds": 3,
+      "opennessToStrangers": 3,
+      "playfulnessLevel": 3,
+      "sheddingLevel": 3,
+      "trainabilityLevel": 3,
+      "watchdogProtectiveNature": 5
+    },
+    "sizeCategory": "large",
+    "isFluffy": true
   },
   {
     "akcId": "25544",
@@ -2104,7 +9950,40 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/saluki/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2017/11/AKC-121716-139-400x267.jpg",
     "imageAlt": "Saluki",
-    "imagePath": "assets/images/saluki.jpg"
+    "imagePath": "assets/images/saluki.jpg",
+    "breedGroup": "Hound Group",
+    "origin": "Middle East",
+    "temperament": "dignified / gentle / independent-minded",
+    "lifeExpectancy": "10-17 years",
+    "height": "23-28 inches (male), considerably smaller (female)",
+    "weight": "40-65 pounds",
+    "relatedCharacteristics": [
+      "Medium Dog Breeds"
+    ],
+    "traits": {
+      "adaptabilityLevel": 3,
+      "affectionateWithFamily": 5,
+      "barkingLevel": 3,
+      "coatGroomingFrequency": 1,
+      "coatLength": [
+        "Short"
+      ],
+      "coatType": [
+        "Smooth"
+      ],
+      "droolingLevel": 1,
+      "energyLevel": 4,
+      "goodWithOtherDogs": 3,
+      "goodWithYoungChildren": 3,
+      "mentalStimulationNeeds": 5,
+      "opennessToStrangers": 3,
+      "playfulnessLevel": 3,
+      "sheddingLevel": 2,
+      "trainabilityLevel": 3,
+      "watchdogProtectiveNature": 1
+    },
+    "sizeCategory": "large",
+    "isFluffy": false
   },
   {
     "akcId": "25559",
@@ -2113,7 +9992,38 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/samoyed/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2017/11/Samoyed-standing-in-the-forest-400x267.jpg",
     "imageAlt": "Samoyed",
-    "imagePath": "assets/images/samoyed.jpg"
+    "imagePath": "assets/images/samoyed.jpg",
+    "breedGroup": "Working Group",
+    "origin": "Siberia",
+    "temperament": "friendly / gentle / adaptable",
+    "lifeExpectancy": "12-14 years",
+    "height": "21-23.5 inches (male), 19-21 inches (female)",
+    "weight": "45-65 pounds (male), 35-50 pounds (female)",
+    "relatedCharacteristics": [],
+    "traits": {
+      "adaptabilityLevel": 4,
+      "affectionateWithFamily": 5,
+      "barkingLevel": 5,
+      "coatGroomingFrequency": 3,
+      "coatLength": [
+        "Long"
+      ],
+      "coatType": [
+        "Double"
+      ],
+      "droolingLevel": 1,
+      "energyLevel": 4,
+      "goodWithOtherDogs": 3,
+      "goodWithYoungChildren": 5,
+      "mentalStimulationNeeds": 4,
+      "opennessToStrangers": 5,
+      "playfulnessLevel": 5,
+      "sheddingLevel": 3,
+      "trainabilityLevel": 4,
+      "watchdogProtectiveNature": 4
+    },
+    "sizeCategory": "large",
+    "isFluffy": true
   },
   {
     "akcId": "25573",
@@ -2122,7 +10032,40 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/schapendoes/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2017/11/Schapendoes-On-White-01-400x267.jpg",
     "imageAlt": "Schapendoes",
-    "imagePath": "assets/images/schapendoes.jpg"
+    "imagePath": "assets/images/schapendoes.jpg",
+    "breedGroup": "Foundation Stock Service",
+    "origin": "The Netherlands",
+    "temperament": "friendly / watchful / lively",
+    "lifeExpectancy": "12-15 years",
+    "height": "16-20 inches",
+    "weight": "26-55 pounds",
+    "relatedCharacteristics": [
+      "Medium Dog Breeds"
+    ],
+    "traits": {
+      "adaptabilityLevel": 4,
+      "affectionateWithFamily": 5,
+      "barkingLevel": 3,
+      "coatGroomingFrequency": 3,
+      "coatLength": [
+        "Long"
+      ],
+      "coatType": [
+        "Double"
+      ],
+      "droolingLevel": 2,
+      "energyLevel": 4,
+      "goodWithOtherDogs": 5,
+      "goodWithYoungChildren": 3,
+      "mentalStimulationNeeds": 4,
+      "opennessToStrangers": 3,
+      "playfulnessLevel": 4,
+      "sheddingLevel": 2,
+      "trainabilityLevel": 5,
+      "watchdogProtectiveNature": 5
+    },
+    "sizeCategory": "large",
+    "isFluffy": true
   },
   {
     "akcId": "25575",
@@ -2131,7 +10074,40 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/schipperke/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2022/11/Schipperke-standing-in-a-field-400x267.jpg",
     "imageAlt": "Schipperke",
-    "imagePath": "assets/images/schipperke.jpg"
+    "imagePath": "assets/images/schipperke.jpg",
+    "breedGroup": "Non-Sporting Group",
+    "origin": "Belgium",
+    "temperament": "alert / curious / confident",
+    "lifeExpectancy": "12-16 years",
+    "height": "11-13 inches (male), 10-12 inches (female)",
+    "weight": "10-16 pounds",
+    "relatedCharacteristics": [
+      "Smallest Dog Breeds"
+    ],
+    "traits": {
+      "adaptabilityLevel": 4,
+      "affectionateWithFamily": 5,
+      "barkingLevel": 4,
+      "coatGroomingFrequency": 2,
+      "coatLength": [
+        "Short"
+      ],
+      "coatType": [
+        "Double"
+      ],
+      "droolingLevel": 1,
+      "energyLevel": 3,
+      "goodWithOtherDogs": 3,
+      "goodWithYoungChildren": 3,
+      "mentalStimulationNeeds": 3,
+      "opennessToStrangers": 3,
+      "playfulnessLevel": 4,
+      "sheddingLevel": 3,
+      "trainabilityLevel": 4,
+      "watchdogProtectiveNature": 5
+    },
+    "sizeCategory": "small",
+    "isFluffy": true
   },
   {
     "akcId": "25590",
@@ -2140,7 +10116,41 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/scottish-deerhound/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2017/11/Scottish-Deerhound-standing-in-the-woods-400x267.jpg",
     "imageAlt": "Scottish Deerhound",
-    "imagePath": "assets/images/scottish-deerhound.jpg"
+    "imagePath": "assets/images/scottish-deerhound.jpg",
+    "breedGroup": "Hound Group",
+    "origin": "Scotland",
+    "temperament": "dignified / gentle / polite",
+    "lifeExpectancy": "8-11 years",
+    "height": "30-32 inches (male), 28 inches & up (female)",
+    "weight": "85-110 pounds (male), 75-95 pounds (female)",
+    "relatedCharacteristics": [
+      "Largest Dog Breeds"
+    ],
+    "traits": {
+      "adaptabilityLevel": 3,
+      "affectionateWithFamily": 5,
+      "barkingLevel": 1,
+      "coatGroomingFrequency": 1,
+      "coatLength": [
+        "Medium"
+      ],
+      "coatType": [
+        "Double",
+        "Wiry"
+      ],
+      "droolingLevel": 1,
+      "energyLevel": 3,
+      "goodWithOtherDogs": 5,
+      "goodWithYoungChildren": 3,
+      "mentalStimulationNeeds": 3,
+      "opennessToStrangers": 3,
+      "playfulnessLevel": 3,
+      "sheddingLevel": 3,
+      "trainabilityLevel": 3,
+      "watchdogProtectiveNature": 3
+    },
+    "sizeCategory": "large",
+    "isFluffy": true
   },
   {
     "akcId": "25604",
@@ -2149,7 +10159,41 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/scottish-terrier/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2017/11/Scottish-Terrier-On-White-02-400x267.jpg",
     "imageAlt": "Scottish Terrier",
-    "imagePath": "assets/images/scottish-terrier.jpg"
+    "imagePath": "assets/images/scottish-terrier.jpg",
+    "breedGroup": "Terrier Group",
+    "origin": "Scotland",
+    "temperament": "independent / confident / spirited",
+    "lifeExpectancy": "12 years",
+    "height": "10 inches",
+    "weight": "19-22 pounds (male), 18-21 pounds (female)",
+    "relatedCharacteristics": [
+      "Smallest Dog Breeds"
+    ],
+    "traits": {
+      "adaptabilityLevel": 4,
+      "affectionateWithFamily": 5,
+      "barkingLevel": 4,
+      "coatGroomingFrequency": 3,
+      "coatLength": [
+        "Medium"
+      ],
+      "coatType": [
+        "Double",
+        "Wiry"
+      ],
+      "droolingLevel": 2,
+      "energyLevel": 3,
+      "goodWithOtherDogs": 2,
+      "goodWithYoungChildren": 3,
+      "mentalStimulationNeeds": 4,
+      "opennessToStrangers": 3,
+      "playfulnessLevel": 4,
+      "sheddingLevel": 2,
+      "trainabilityLevel": 3,
+      "watchdogProtectiveNature": 5
+    },
+    "sizeCategory": "medium",
+    "isFluffy": true
   },
   {
     "akcId": "25619",
@@ -2158,7 +10202,39 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/sealyham-terrier/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2017/11/Sealyham-Terrier-standing-in-three-quarter-view.1-400x267.jpg",
     "imageAlt": "Sealyham Terrier",
-    "imagePath": "assets/images/sealyham-terrier.jpg"
+    "imagePath": "assets/images/sealyham-terrier.jpg",
+    "breedGroup": "Terrier Group",
+    "origin": "Wales",
+    "temperament": "alert / outgoing / sense of humor",
+    "lifeExpectancy": "12-14 years",
+    "height": "10.5 inches",
+    "weight": "23-24 pounds (male), slightly less (females)",
+    "relatedCharacteristics": [],
+    "traits": {
+      "adaptabilityLevel": 4,
+      "affectionateWithFamily": 5,
+      "barkingLevel": 4,
+      "coatGroomingFrequency": 3,
+      "coatLength": [
+        "Medium"
+      ],
+      "coatType": [
+        "Double",
+        "Wiry"
+      ],
+      "droolingLevel": 1,
+      "energyLevel": 3,
+      "goodWithOtherDogs": 3,
+      "goodWithYoungChildren": 3,
+      "mentalStimulationNeeds": 4,
+      "opennessToStrangers": 4,
+      "playfulnessLevel": 3,
+      "sheddingLevel": 3,
+      "trainabilityLevel": 4,
+      "watchdogProtectiveNature": 5
+    },
+    "sizeCategory": "medium",
+    "isFluffy": true
   },
   {
     "akcId": "59390",
@@ -2167,7 +10243,39 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/segugio-italiano/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2018/08/Segugio-Italiano-slideshow-08-400x267.jpg",
     "imageAlt": "Segugio Italiano",
-    "imagePath": "assets/images/segugio-italiano.jpg"
+    "imagePath": "assets/images/segugio-italiano.jpg",
+    "breedGroup": "Foundation Stock Service",
+    "origin": "Italy",
+    "temperament": "intelligent / friendly / eager to please",
+    "lifeExpectancy": "11-13 years",
+    "height": "19.5 - 24.5 inches males, 19 - 24 inches females",
+    "weight": "39 - 62 lbs",
+    "relatedCharacteristics": [
+      "Smallest Dog Breeds",
+      "Best Family Dogs",
+      "Best Dog Breeds for Kids",
+      "Medium Dog Breeds"
+    ],
+    "traits": {
+      "adaptabilityLevel": 3,
+      "affectionateWithFamily": 3,
+      "barkingLevel": 3,
+      "coatGroomingFrequency": 1,
+      "coatLength": [],
+      "coatType": [],
+      "droolingLevel": 1,
+      "energyLevel": 3,
+      "goodWithOtherDogs": 5,
+      "goodWithYoungChildren": 5,
+      "mentalStimulationNeeds": 1,
+      "opennessToStrangers": 1,
+      "playfulnessLevel": 1,
+      "sheddingLevel": 3,
+      "trainabilityLevel": 5,
+      "watchdogProtectiveNature": 5
+    },
+    "sizeCategory": "large",
+    "isFluffy": false
   },
   {
     "akcId": "25634",
@@ -2176,7 +10284,41 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/shetland-sheepdog/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2017/11/Shetland-Sheepdog-On-White-01-400x267.jpg",
     "imageAlt": "Shetland Sheepdog",
-    "imagePath": "assets/images/shetland-sheepdog.jpg"
+    "imagePath": "assets/images/shetland-sheepdog.jpg",
+    "breedGroup": "Herding Group",
+    "origin": "Scotland",
+    "temperament": "playful / energetic / bright",
+    "lifeExpectancy": "12-14 years",
+    "height": "13-16 inches",
+    "weight": "15-25 pounds",
+    "relatedCharacteristics": [
+      "Smallest Dog Breeds",
+      "Smartest Breeds of Dogs"
+    ],
+    "traits": {
+      "adaptabilityLevel": 5,
+      "affectionateWithFamily": 5,
+      "barkingLevel": 5,
+      "coatGroomingFrequency": 3,
+      "coatLength": [
+        "Long"
+      ],
+      "coatType": [
+        "Double"
+      ],
+      "droolingLevel": 1,
+      "energyLevel": 4,
+      "goodWithOtherDogs": 5,
+      "goodWithYoungChildren": 5,
+      "mentalStimulationNeeds": 4,
+      "opennessToStrangers": 2,
+      "playfulnessLevel": 5,
+      "sheddingLevel": 3,
+      "trainabilityLevel": 5,
+      "watchdogProtectiveNature": 5
+    },
+    "sizeCategory": "medium",
+    "isFluffy": true
   },
   {
     "akcId": "25649",
@@ -2185,7 +10327,40 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/shiba-inu/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2017/11/Shiba-Inu-standing-in-profile-outdoors-400x267.jpg",
     "imageAlt": "Shiba Inu",
-    "imagePath": "assets/images/shiba-inu.jpg"
+    "imagePath": "assets/images/shiba-inu.jpg",
+    "breedGroup": "Non-Sporting Group",
+    "origin": "Japan",
+    "temperament": "alert / active / attentive",
+    "lifeExpectancy": "13-16 years",
+    "height": "14.5-16.5 inches (male), 13.5-15.5 inches (female)",
+    "weight": "23 pounds (male), 17 pounds (female)",
+    "relatedCharacteristics": [
+      "Smallest Dog Breeds"
+    ],
+    "traits": {
+      "adaptabilityLevel": 3,
+      "affectionateWithFamily": 5,
+      "barkingLevel": 3,
+      "coatGroomingFrequency": 2,
+      "coatLength": [
+        "Short"
+      ],
+      "coatType": [
+        "Double"
+      ],
+      "droolingLevel": 1,
+      "energyLevel": 3,
+      "goodWithOtherDogs": 3,
+      "goodWithYoungChildren": 3,
+      "mentalStimulationNeeds": 4,
+      "opennessToStrangers": 3,
+      "playfulnessLevel": 3,
+      "sheddingLevel": 3,
+      "trainabilityLevel": 2,
+      "watchdogProtectiveNature": 5
+    },
+    "sizeCategory": "medium",
+    "isFluffy": true
   },
   {
     "akcId": "25664",
@@ -2194,7 +10369,41 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/shih-tzu/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2017/11/Shih-Tzu-On-White-01-400x267.jpg",
     "imageAlt": "Shih Tzu",
-    "imagePath": "assets/images/shih-tzu.jpg"
+    "imagePath": "assets/images/shih-tzu.jpg",
+    "breedGroup": "Toy Group",
+    "origin": "China",
+    "temperament": "playful / affectionate / outgoing",
+    "lifeExpectancy": "10-18 years",
+    "height": "9-10.5 inches",
+    "weight": "9-16 pounds",
+    "relatedCharacteristics": [
+      "Smallest Dog Breeds",
+      "Best Dogs for Apartment Dwellers"
+    ],
+    "traits": {
+      "adaptabilityLevel": 5,
+      "affectionateWithFamily": 5,
+      "barkingLevel": 3,
+      "coatGroomingFrequency": 4,
+      "coatLength": [
+        "Long"
+      ],
+      "coatType": [
+        "Double"
+      ],
+      "droolingLevel": 1,
+      "energyLevel": 3,
+      "goodWithOtherDogs": 5,
+      "goodWithYoungChildren": 5,
+      "mentalStimulationNeeds": 3,
+      "opennessToStrangers": 3,
+      "playfulnessLevel": 3,
+      "sheddingLevel": 1,
+      "trainabilityLevel": 4,
+      "watchdogProtectiveNature": 3
+    },
+    "sizeCategory": "small",
+    "isFluffy": true
   },
   {
     "akcId": "25685",
@@ -2203,7 +10412,40 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/shikoku-ken/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2017/11/Shikoku-standing-outdoors-400x267.jpg",
     "imageAlt": "Shikoku Ken",
-    "imagePath": "assets/images/shikoku-ken.jpg"
+    "imagePath": "assets/images/shikoku-ken.jpg",
+    "breedGroup": "Foundation Stock Service",
+    "origin": "Japan",
+    "temperament": "alert / energetic / enthusiastic",
+    "lifeExpectancy": "10-12 years",
+    "height": "17-22 inches",
+    "weight": "35-55 pounds",
+    "relatedCharacteristics": [
+      "Medium Dog Breeds"
+    ],
+    "traits": {
+      "adaptabilityLevel": 3,
+      "affectionateWithFamily": 3,
+      "barkingLevel": 3,
+      "coatGroomingFrequency": 3,
+      "coatLength": [
+        "Short"
+      ],
+      "coatType": [
+        "Double"
+      ],
+      "droolingLevel": 1,
+      "energyLevel": 3,
+      "goodWithOtherDogs": 3,
+      "goodWithYoungChildren": 3,
+      "mentalStimulationNeeds": 3,
+      "opennessToStrangers": 3,
+      "playfulnessLevel": 3,
+      "sheddingLevel": 3,
+      "trainabilityLevel": 3,
+      "watchdogProtectiveNature": 3
+    },
+    "sizeCategory": "large",
+    "isFluffy": true
   },
   {
     "akcId": "25687",
@@ -2212,7 +10454,40 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/siberian-husky/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2017/11/Siberian-Husky-standing-outdoors-in-the-winter-400x267.jpg",
     "imageAlt": "Siberian Husky",
-    "imagePath": "assets/images/siberian-husky.jpg"
+    "imagePath": "assets/images/siberian-husky.jpg",
+    "breedGroup": "Working Group",
+    "origin": "Siberia",
+    "temperament": "Loyal / Outgoing / mischievous",
+    "lifeExpectancy": "12-14 years",
+    "height": "21-23.5 inches (male), 20-22 inches (female)",
+    "weight": "45-60 pounds (male), 35-50 pounds (female)",
+    "relatedCharacteristics": [
+      "Largest Dog Breeds"
+    ],
+    "traits": {
+      "adaptabilityLevel": 4,
+      "affectionateWithFamily": 5,
+      "barkingLevel": 5,
+      "coatGroomingFrequency": 2,
+      "coatLength": [
+        "Medium"
+      ],
+      "coatType": [
+        "Double"
+      ],
+      "droolingLevel": 1,
+      "energyLevel": 5,
+      "goodWithOtherDogs": 5,
+      "goodWithYoungChildren": 5,
+      "mentalStimulationNeeds": 4,
+      "opennessToStrangers": 5,
+      "playfulnessLevel": 5,
+      "sheddingLevel": 4,
+      "trainabilityLevel": 3,
+      "watchdogProtectiveNature": 1
+    },
+    "sizeCategory": "large",
+    "isFluffy": true
   },
   {
     "akcId": "25707",
@@ -2221,7 +10496,41 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/silky-terrier/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2017/11/Silky-Terrier-On-White-01-400x267.jpg",
     "imageAlt": "Silky Terrier",
-    "imagePath": "assets/images/silky-terrier.jpg"
+    "imagePath": "assets/images/silky-terrier.jpg",
+    "breedGroup": "Toy Group",
+    "origin": "Australia",
+    "temperament": "friendly / quick / keenly alert",
+    "lifeExpectancy": "13-15 years",
+    "height": "9-10 inches",
+    "weight": "around 10 pounds",
+    "relatedCharacteristics": [
+      "Smallest Dog Breeds",
+      "Best Dogs for Apartment Dwellers"
+    ],
+    "traits": {
+      "adaptabilityLevel": 4,
+      "affectionateWithFamily": 5,
+      "barkingLevel": 4,
+      "coatGroomingFrequency": 3,
+      "coatLength": [
+        "Long"
+      ],
+      "coatType": [
+        "Silky"
+      ],
+      "droolingLevel": 1,
+      "energyLevel": 3,
+      "goodWithOtherDogs": 3,
+      "goodWithYoungChildren": 3,
+      "mentalStimulationNeeds": 3,
+      "opennessToStrangers": 4,
+      "playfulnessLevel": 4,
+      "sheddingLevel": 2,
+      "trainabilityLevel": 4,
+      "watchdogProtectiveNature": 5
+    },
+    "sizeCategory": "small",
+    "isFluffy": true
   },
   {
     "akcId": "25721",
@@ -2230,7 +10539,38 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/skye-terrier/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2017/11/Skye-Terrier-standing-outdoors-in-profile-400x267.jpg",
     "imageAlt": "Skye Terrier",
-    "imagePath": "assets/images/skye-terrier.jpg"
+    "imagePath": "assets/images/skye-terrier.jpg",
+    "breedGroup": "Terrier Group",
+    "origin": "Scotland",
+    "temperament": "courageous / good-tempered / canny",
+    "lifeExpectancy": "12-14 years",
+    "height": "10 inches (male), 9.5 inches (female)",
+    "weight": "35-45 pounds (male), slightly lighter (female)",
+    "relatedCharacteristics": [],
+    "traits": {
+      "adaptabilityLevel": 3,
+      "affectionateWithFamily": 5,
+      "barkingLevel": 3,
+      "coatGroomingFrequency": 3,
+      "coatLength": [
+        "Long"
+      ],
+      "coatType": [
+        "Double"
+      ],
+      "droolingLevel": 1,
+      "energyLevel": 3,
+      "goodWithOtherDogs": 3,
+      "goodWithYoungChildren": 3,
+      "mentalStimulationNeeds": 3,
+      "opennessToStrangers": 3,
+      "playfulnessLevel": 3,
+      "sheddingLevel": 3,
+      "trainabilityLevel": 3,
+      "watchdogProtectiveNature": 3
+    },
+    "sizeCategory": "medium",
+    "isFluffy": true
   },
   {
     "akcId": "25735",
@@ -2239,7 +10579,40 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/sloughi/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2017/11/Sloughi-in-the-desert-400x267.jpg",
     "imageAlt": "Sloughi",
-    "imagePath": "assets/images/sloughi.jpg"
+    "imagePath": "assets/images/sloughi.jpg",
+    "breedGroup": "Hound Group",
+    "origin": "Arabian Greyhound",
+    "temperament": "reserved / graceful / noble",
+    "lifeExpectancy": "10-15 years",
+    "height": "26-29 inches (male), 24-27 inches (female)",
+    "weight": "40 -65  pounds",
+    "relatedCharacteristics": [
+      "Largest Dog Breeds"
+    ],
+    "traits": {
+      "adaptabilityLevel": 3,
+      "affectionateWithFamily": 4,
+      "barkingLevel": 2,
+      "coatGroomingFrequency": 1,
+      "coatLength": [
+        "Short"
+      ],
+      "coatType": [
+        "Smooth"
+      ],
+      "droolingLevel": 1,
+      "energyLevel": 4,
+      "goodWithOtherDogs": 3,
+      "goodWithYoungChildren": 3,
+      "mentalStimulationNeeds": 3,
+      "opennessToStrangers": 2,
+      "playfulnessLevel": 3,
+      "sheddingLevel": 3,
+      "trainabilityLevel": 3,
+      "watchdogProtectiveNature": 2
+    },
+    "sizeCategory": "large",
+    "isFluffy": false
   },
   {
     "akcId": "57382",
@@ -2248,7 +10621,40 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/slovakian-wirehaired-pointer/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2018/07/Slovakian-Wirehaired-Pointer-laying-down-outdoors-400x267.jpg",
     "imageAlt": "Slovakian Wirehaired Pointer",
-    "imagePath": "assets/images/slovakian-wirehaired-pointer.jpg"
+    "imagePath": "assets/images/slovakian-wirehaired-pointer.jpg",
+    "breedGroup": "Foundation Stock Service",
+    "origin": "Czechoslovakia",
+    "temperament": "",
+    "lifeExpectancy": "12-15 years",
+    "height": "24.5-26.5 in (male), 22.5-26 in (female)",
+    "weight": "50-65 lbs",
+    "relatedCharacteristics": [
+      "Medium Dog Breeds"
+    ],
+    "traits": {
+      "adaptabilityLevel": 3,
+      "affectionateWithFamily": 5,
+      "barkingLevel": 3,
+      "coatGroomingFrequency": 1,
+      "coatLength": [
+        "Short"
+      ],
+      "coatType": [
+        "Wiry"
+      ],
+      "droolingLevel": 2,
+      "energyLevel": 4,
+      "goodWithOtherDogs": 4,
+      "goodWithYoungChildren": 3,
+      "mentalStimulationNeeds": 3,
+      "opennessToStrangers": 3,
+      "playfulnessLevel": 3,
+      "sheddingLevel": 2,
+      "trainabilityLevel": 5,
+      "watchdogProtectiveNature": 3
+    },
+    "sizeCategory": "large",
+    "isFluffy": false
   },
   {
     "akcId": "25748",
@@ -2257,7 +10663,40 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/slovensky-cuvac/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2017/11/Slovensky-Cuvac-standing-outdoors-400x267.jpg",
     "imageAlt": "Slovensky Cuvac",
-    "imagePath": "assets/images/slovensky-cuvac.jpg"
+    "imagePath": "assets/images/slovensky-cuvac.jpg",
+    "breedGroup": "Foundation Stock Service",
+    "origin": "Slovakia",
+    "temperament": "alert / courageous / faithful",
+    "lifeExpectancy": "11-13 years",
+    "height": "23-27.5 inches",
+    "weight": "68-97 pounds",
+    "relatedCharacteristics": [
+      "Largest Dog Breeds"
+    ],
+    "traits": {
+      "adaptabilityLevel": 3,
+      "affectionateWithFamily": 5,
+      "barkingLevel": 1,
+      "coatGroomingFrequency": 2,
+      "coatLength": [
+        "Medium"
+      ],
+      "coatType": [
+        "Double"
+      ],
+      "droolingLevel": 3,
+      "energyLevel": 3,
+      "goodWithOtherDogs": 3,
+      "goodWithYoungChildren": 3,
+      "mentalStimulationNeeds": 3,
+      "opennessToStrangers": 2,
+      "playfulnessLevel": 3,
+      "sheddingLevel": 4,
+      "trainabilityLevel": 3,
+      "watchdogProtectiveNature": 5
+    },
+    "sizeCategory": "large",
+    "isFluffy": true
   },
   {
     "akcId": "25750",
@@ -2266,7 +10705,40 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/slovensky-kopov/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2017/11/Slovensky-Kopov-On-White-01-400x267.jpg",
     "imageAlt": "Slovensky Kopov",
-    "imagePath": "assets/images/slovensky-kopov.jpg"
+    "imagePath": "assets/images/slovensky-kopov.jpg",
+    "breedGroup": "Foundation Stock Service",
+    "origin": "Slovakia",
+    "temperament": "alert / courageous / determined",
+    "lifeExpectancy": "12-13 years",
+    "height": "16-20 inches",
+    "weight": "33-44 pounds",
+    "relatedCharacteristics": [
+      "Medium Dog Breeds"
+    ],
+    "traits": {
+      "adaptabilityLevel": 3,
+      "affectionateWithFamily": 5,
+      "barkingLevel": 3,
+      "coatGroomingFrequency": 1,
+      "coatLength": [
+        "Short"
+      ],
+      "coatType": [
+        "Rough"
+      ],
+      "droolingLevel": 2,
+      "energyLevel": 3,
+      "goodWithOtherDogs": 4,
+      "goodWithYoungChildren": 3,
+      "mentalStimulationNeeds": 3,
+      "opennessToStrangers": 3,
+      "playfulnessLevel": 3,
+      "sheddingLevel": 3,
+      "trainabilityLevel": 4,
+      "watchdogProtectiveNature": 3
+    },
+    "sizeCategory": "medium",
+    "isFluffy": false
   },
   {
     "akcId": "25752",
@@ -2275,7 +10747,40 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/small-munsterlander/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2017/11/Munsterlander.5-400x267.jpg",
     "imageAlt": "Small Munsterlander",
-    "imagePath": "assets/images/small-munsterlander.jpg"
+    "imagePath": "assets/images/small-munsterlander.jpg",
+    "breedGroup": "Miscellaneous Class",
+    "origin": "Germany",
+    "temperament": "intelligent / devoted / self-confident",
+    "lifeExpectancy": "12-14 years",
+    "height": "20.5-21 inches",
+    "weight": "40-60 pounds",
+    "relatedCharacteristics": [
+      "Medium Dog Breeds"
+    ],
+    "traits": {
+      "adaptabilityLevel": 3,
+      "affectionateWithFamily": 5,
+      "barkingLevel": 1,
+      "coatGroomingFrequency": 1,
+      "coatLength": [
+        "Medium"
+      ],
+      "coatType": [
+        "Double"
+      ],
+      "droolingLevel": 2,
+      "energyLevel": 4,
+      "goodWithOtherDogs": 3,
+      "goodWithYoungChildren": 4,
+      "mentalStimulationNeeds": 4,
+      "opennessToStrangers": 3,
+      "playfulnessLevel": 3,
+      "sheddingLevel": 3,
+      "trainabilityLevel": 5,
+      "watchdogProtectiveNature": 3
+    },
+    "sizeCategory": "large",
+    "isFluffy": true
   },
   {
     "akcId": "25754",
@@ -2284,7 +10789,40 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/smooth-fox-terrier/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2017/11/Smooth-Fox-Terrier-standing-in-a-field-in-winter-400x267.jpg",
     "imageAlt": "Smooth Fox Terrier",
-    "imagePath": "assets/images/smooth-fox-terrier.jpg"
+    "imagePath": "assets/images/smooth-fox-terrier.jpg",
+    "breedGroup": "Terrier Group",
+    "origin": "England",
+    "temperament": "independent / friendly / amusing",
+    "lifeExpectancy": "12-15 years",
+    "height": "15½ inches",
+    "weight": "18 pounds (male), 15-17 (female)",
+    "relatedCharacteristics": [
+      "Smallest Dog Breeds"
+    ],
+    "traits": {
+      "adaptabilityLevel": 4,
+      "affectionateWithFamily": 5,
+      "barkingLevel": 5,
+      "coatGroomingFrequency": 2,
+      "coatLength": [
+        "Short"
+      ],
+      "coatType": [
+        "Smooth"
+      ],
+      "droolingLevel": 1,
+      "energyLevel": 4,
+      "goodWithOtherDogs": 3,
+      "goodWithYoungChildren": 3,
+      "mentalStimulationNeeds": 3,
+      "opennessToStrangers": 3,
+      "playfulnessLevel": 4,
+      "sheddingLevel": 3,
+      "trainabilityLevel": 3,
+      "watchdogProtectiveNature": 5
+    },
+    "sizeCategory": "small",
+    "isFluffy": false
   },
   {
     "akcId": "25767",
@@ -2293,7 +10831,42 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/soft-coated-wheaten-terrier/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2017/11/Soft-Coated-Wheaten-Terrier-sitting-in-a-field-of-wildflowers-400x267.jpg",
     "imageAlt": "Soft Coated Wheaten Terrier",
-    "imagePath": "assets/images/soft-coated-wheaten-terrier.jpg"
+    "imagePath": "assets/images/soft-coated-wheaten-terrier.jpg",
+    "breedGroup": "Terrier Group",
+    "origin": "Ireland",
+    "temperament": "friendly / happy / deeply devoted",
+    "lifeExpectancy": "12-14 years",
+    "height": "18-19 inches (male), 17-18 inches (female)",
+    "weight": "35-40 pounds (male), 30-35 pounds (female)",
+    "relatedCharacteristics": [
+      "Best Dog Breeds for Kids",
+      "Hypoallergenic Dogs"
+    ],
+    "traits": {
+      "adaptabilityLevel": 3,
+      "affectionateWithFamily": 5,
+      "barkingLevel": 3,
+      "coatGroomingFrequency": 4,
+      "coatLength": [
+        "Medium"
+      ],
+      "coatType": [
+        "Silky",
+        "Wavy"
+      ],
+      "droolingLevel": 2,
+      "energyLevel": 4,
+      "goodWithOtherDogs": 3,
+      "goodWithYoungChildren": 5,
+      "mentalStimulationNeeds": 3,
+      "opennessToStrangers": 3,
+      "playfulnessLevel": 3,
+      "sheddingLevel": 1,
+      "trainabilityLevel": 3,
+      "watchdogProtectiveNature": 3
+    },
+    "sizeCategory": "medium",
+    "isFluffy": true
   },
   {
     "akcId": "25779",
@@ -2302,7 +10875,42 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/spanish-mastiff/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2017/11/Spanish-Mastiff-400x267.jpg",
     "imageAlt": "Spanish Mastiff",
-    "imagePath": "assets/images/spanish-mastiff.jpg"
+    "imagePath": "assets/images/spanish-mastiff.jpg",
+    "breedGroup": "Foundation Stock Service",
+    "origin": "Spain",
+    "temperament": "intelligent / affectionate / kind",
+    "lifeExpectancy": "10-12 years",
+    "height": "Minimum 28-35 inches",
+    "weight": "140-200 pounds",
+    "relatedCharacteristics": [
+      "Best Dog Breeds for Kids",
+      "Largest Dog Breeds"
+    ],
+    "traits": {
+      "adaptabilityLevel": 3,
+      "affectionateWithFamily": 5,
+      "barkingLevel": 1,
+      "coatGroomingFrequency": 1,
+      "coatLength": [
+        "Short"
+      ],
+      "coatType": [
+        "Double",
+        "Smooth"
+      ],
+      "droolingLevel": 5,
+      "energyLevel": 3,
+      "goodWithOtherDogs": 3,
+      "goodWithYoungChildren": 3,
+      "mentalStimulationNeeds": 3,
+      "opennessToStrangers": 3,
+      "playfulnessLevel": 2,
+      "sheddingLevel": 3,
+      "trainabilityLevel": 3,
+      "watchdogProtectiveNature": 5
+    },
+    "sizeCategory": "large",
+    "isFluffy": true
   },
   {
     "akcId": "25780",
@@ -2311,7 +10919,42 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/spanish-water-dog/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2017/11/Spanish-Water-Dog-400x267.jpg",
     "imageAlt": "Spanish Water Dog",
-    "imagePath": "assets/images/spanish-water-dog.jpg"
+    "imagePath": "assets/images/spanish-water-dog.jpg",
+    "breedGroup": "Herding Group",
+    "origin": "Spain",
+    "temperament": "Upbeat / Playful but also work-oriented / Very Active",
+    "lifeExpectancy": "12-14 years",
+    "height": "17.5-19.75 inches (male), 15.75-18 inches (female)",
+    "weight": "40-49 pounds (male), 31-40 pounds (female)",
+    "relatedCharacteristics": [
+      "Medium Dog Breeds",
+      "Best Guard Dogs"
+    ],
+    "traits": {
+      "adaptabilityLevel": 3,
+      "affectionateWithFamily": 5,
+      "barkingLevel": 3,
+      "coatGroomingFrequency": 4,
+      "coatLength": [
+        "Medium"
+      ],
+      "coatType": [
+        "Curly",
+        "Corded"
+      ],
+      "droolingLevel": 2,
+      "energyLevel": 4,
+      "goodWithOtherDogs": 3,
+      "goodWithYoungChildren": 4,
+      "mentalStimulationNeeds": 5,
+      "opennessToStrangers": 3,
+      "playfulnessLevel": 4,
+      "sheddingLevel": 1,
+      "trainabilityLevel": 4,
+      "watchdogProtectiveNature": 3
+    },
+    "sizeCategory": "medium",
+    "isFluffy": true
   },
   {
     "akcId": "25794",
@@ -2320,7 +10963,38 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/spinone-italiano/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2017/11/Spinone-Italiano-On-White-03-400x267.jpg",
     "imageAlt": "Spinone Italiano",
-    "imagePath": "assets/images/spinone-italiano.jpg"
+    "imagePath": "assets/images/spinone-italiano.jpg",
+    "breedGroup": "Sporting Group",
+    "origin": "Italy",
+    "temperament": "sociable / patient / docile",
+    "lifeExpectancy": "10-12 years",
+    "height": "23-27 inches (male), 22-25 inches (female)",
+    "weight": "In direct proportion to size and structure of a dog",
+    "relatedCharacteristics": [],
+    "traits": {
+      "adaptabilityLevel": 3,
+      "affectionateWithFamily": 5,
+      "barkingLevel": 2,
+      "coatGroomingFrequency": 2,
+      "coatLength": [
+        "Medium"
+      ],
+      "coatType": [
+        "Wiry"
+      ],
+      "droolingLevel": 3,
+      "energyLevel": 3,
+      "goodWithOtherDogs": 4,
+      "goodWithYoungChildren": 3,
+      "mentalStimulationNeeds": 3,
+      "opennessToStrangers": 3,
+      "playfulnessLevel": 3,
+      "sheddingLevel": 3,
+      "trainabilityLevel": 4,
+      "watchdogProtectiveNature": 3
+    },
+    "sizeCategory": "unknown",
+    "isFluffy": false
   },
   {
     "akcId": "25808",
@@ -2329,7 +11003,41 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/stabyhoun/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2017/11/AdobeStock_62619970-400x267.jpg",
     "imageAlt": "Stabyhoun",
-    "imagePath": "assets/images/stabyhoun.jpg"
+    "imagePath": "assets/images/stabyhoun.jpg",
+    "breedGroup": "Foundation Stock Service",
+    "origin": "The Netherlands",
+    "temperament": "intelligent / loving / responsive",
+    "lifeExpectancy": "13-15 years",
+    "height": "19-21 inches",
+    "weight": "40-60 pounds",
+    "relatedCharacteristics": [
+      "Medium Dog Breeds"
+    ],
+    "traits": {
+      "adaptabilityLevel": 3,
+      "affectionateWithFamily": 5,
+      "barkingLevel": 3,
+      "coatGroomingFrequency": 1,
+      "coatLength": [
+        "Short"
+      ],
+      "coatType": [
+        "Double",
+        "Smooth"
+      ],
+      "droolingLevel": 2,
+      "energyLevel": 4,
+      "goodWithOtherDogs": 4,
+      "goodWithYoungChildren": 5,
+      "mentalStimulationNeeds": 4,
+      "opennessToStrangers": 3,
+      "playfulnessLevel": 3,
+      "sheddingLevel": 3,
+      "trainabilityLevel": 5,
+      "watchdogProtectiveNature": 3
+    },
+    "sizeCategory": "large",
+    "isFluffy": true
   },
   {
     "akcId": "25810",
@@ -2338,7 +11046,40 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/staffordshire-bull-terrier/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2017/11/Staffordshire-Bull-Terrier-On-White-01-400x267.jpg",
     "imageAlt": "Staffordshire Bull Terrier",
-    "imagePath": "assets/images/staffordshire-bull-terrier.jpg"
+    "imagePath": "assets/images/staffordshire-bull-terrier.jpg",
+    "breedGroup": "Terrier Group",
+    "origin": "England",
+    "temperament": "clever / brave / tenacious",
+    "lifeExpectancy": "12-15 years",
+    "height": "14-16 inches",
+    "weight": "28-38 pounds (male), 24-34 pounds (female)",
+    "relatedCharacteristics": [
+      "Best Guard Dogs"
+    ],
+    "traits": {
+      "adaptabilityLevel": 5,
+      "affectionateWithFamily": 5,
+      "barkingLevel": 3,
+      "coatGroomingFrequency": 2,
+      "coatLength": [
+        "Short"
+      ],
+      "coatType": [
+        "Smooth"
+      ],
+      "droolingLevel": 2,
+      "energyLevel": 5,
+      "goodWithOtherDogs": 3,
+      "goodWithYoungChildren": 5,
+      "mentalStimulationNeeds": 4,
+      "opennessToStrangers": 4,
+      "playfulnessLevel": 4,
+      "sheddingLevel": 3,
+      "trainabilityLevel": 5,
+      "watchdogProtectiveNature": 3
+    },
+    "sizeCategory": "medium",
+    "isFluffy": false
   },
   {
     "akcId": "25825",
@@ -2347,7 +11088,41 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/standard-schnauzer/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2017/11/Standard-Schnauzer-standing-outdoors-400x267.jpg",
     "imageAlt": "Standard Schnauzer",
-    "imagePath": "assets/images/standard-schnauzer.jpg"
+    "imagePath": "assets/images/standard-schnauzer.jpg",
+    "breedGroup": "Working Group",
+    "origin": "Germany",
+    "temperament": "fearless / smart / spirited",
+    "lifeExpectancy": "13-16 years",
+    "height": "18.5-19.5 inches (male), 17.5-18.5 inches (female)",
+    "weight": "35-50 pounds (male), 30-45 pounds (female)",
+    "relatedCharacteristics": [
+      "Hypoallergenic Dogs"
+    ],
+    "traits": {
+      "adaptabilityLevel": 4,
+      "affectionateWithFamily": 5,
+      "barkingLevel": 3,
+      "coatGroomingFrequency": 3,
+      "coatLength": [
+        "Medium"
+      ],
+      "coatType": [
+        "Double",
+        "Wiry"
+      ],
+      "droolingLevel": 3,
+      "energyLevel": 3,
+      "goodWithOtherDogs": 3,
+      "goodWithYoungChildren": 5,
+      "mentalStimulationNeeds": 5,
+      "opennessToStrangers": 3,
+      "playfulnessLevel": 4,
+      "sheddingLevel": 1,
+      "trainabilityLevel": 5,
+      "watchdogProtectiveNature": 5
+    },
+    "sizeCategory": "medium",
+    "isFluffy": true
   },
   {
     "akcId": "25839",
@@ -2356,7 +11131,38 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/sussex-spaniel/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2017/11/Sussex-Spaniel-On-White-01-400x267.jpg",
     "imageAlt": "Sussex Spaniel",
-    "imagePath": "assets/images/sussex-spaniel.jpg"
+    "imagePath": "assets/images/sussex-spaniel.jpg",
+    "breedGroup": "Sporting Group",
+    "origin": "England",
+    "temperament": "Affectionate / Loyal",
+    "lifeExpectancy": "13-15 years",
+    "height": "13-15 inches",
+    "weight": "35-45 pounds",
+    "relatedCharacteristics": [],
+    "traits": {
+      "adaptabilityLevel": 2,
+      "affectionateWithFamily": 5,
+      "barkingLevel": 4,
+      "coatGroomingFrequency": 3,
+      "coatLength": [
+        "Medium"
+      ],
+      "coatType": [
+        "Double"
+      ],
+      "droolingLevel": 3,
+      "energyLevel": 3,
+      "goodWithOtherDogs": 3,
+      "goodWithYoungChildren": 3,
+      "mentalStimulationNeeds": 3,
+      "opennessToStrangers": 3,
+      "playfulnessLevel": 4,
+      "sheddingLevel": 3,
+      "trainabilityLevel": 3,
+      "watchdogProtectiveNature": 3
+    },
+    "sizeCategory": "medium",
+    "isFluffy": true
   },
   {
     "akcId": "25849",
@@ -2365,7 +11171,40 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/swedish-lapphund/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2017/11/Swedish-Lapphund-On-White-01-400x267.jpg",
     "imageAlt": "Swedish Lapphund",
-    "imagePath": "assets/images/swedish-lapphund.jpg"
+    "imagePath": "assets/images/swedish-lapphund.jpg",
+    "breedGroup": "Foundation Stock Service",
+    "origin": "Sweden",
+    "temperament": "intelligent / playful / lively",
+    "lifeExpectancy": "12-14 years",
+    "height": "16-20 inches",
+    "weight": "30-45 pounds",
+    "relatedCharacteristics": [
+      "Medium Dog Breeds"
+    ],
+    "traits": {
+      "adaptabilityLevel": 4,
+      "affectionateWithFamily": 5,
+      "barkingLevel": 4,
+      "coatGroomingFrequency": 2,
+      "coatLength": [
+        "Long"
+      ],
+      "coatType": [
+        "Double"
+      ],
+      "droolingLevel": 2,
+      "energyLevel": 4,
+      "goodWithOtherDogs": 3,
+      "goodWithYoungChildren": 3,
+      "mentalStimulationNeeds": 4,
+      "opennessToStrangers": 4,
+      "playfulnessLevel": 4,
+      "sheddingLevel": 3,
+      "trainabilityLevel": 5,
+      "watchdogProtectiveNature": 4
+    },
+    "sizeCategory": "medium",
+    "isFluffy": true
   },
   {
     "akcId": "25851",
@@ -2374,7 +11213,40 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/swedish-vallhund/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2017/11/Swedish-Vallhund-running-in-the-grass-400x267.jpg",
     "imageAlt": "Swedish Vallhund",
-    "imagePath": "assets/images/swedish-vallhund.jpg"
+    "imagePath": "assets/images/swedish-vallhund.jpg",
+    "breedGroup": "Herding Group",
+    "origin": "Sweden",
+    "temperament": "friendly / energetic / watchful",
+    "lifeExpectancy": "12-15 years",
+    "height": "12.5-13.75 inches (male), 11.5-12.75 inches (female)",
+    "weight": "20-35 pounds",
+    "relatedCharacteristics": [
+      "Smallest Dog Breeds"
+    ],
+    "traits": {
+      "adaptabilityLevel": 4,
+      "affectionateWithFamily": 5,
+      "barkingLevel": 3,
+      "coatGroomingFrequency": 2,
+      "coatLength": [
+        "Short"
+      ],
+      "coatType": [
+        "Double"
+      ],
+      "droolingLevel": 2,
+      "energyLevel": 4,
+      "goodWithOtherDogs": 3,
+      "goodWithYoungChildren": 5,
+      "mentalStimulationNeeds": 4,
+      "opennessToStrangers": 3,
+      "playfulnessLevel": 4,
+      "sheddingLevel": 4,
+      "trainabilityLevel": 4,
+      "watchdogProtectiveNature": 3
+    },
+    "sizeCategory": "medium",
+    "isFluffy": true
   },
   {
     "akcId": "25860",
@@ -2383,7 +11255,40 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/taiwan-dog/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2017/11/Taiwan-Dog-sitting-in-the-park-400x267.jpg",
     "imageAlt": "Taiwan Dog",
-    "imagePath": "assets/images/taiwan-dog.jpg"
+    "imagePath": "assets/images/taiwan-dog.jpg",
+    "breedGroup": "Foundation Stock Service",
+    "origin": "Taiwan",
+    "temperament": "loyal / intelligent / versatile",
+    "lifeExpectancy": "9-13 years",
+    "height": "17-20 inches",
+    "weight": "26-40 pounds",
+    "relatedCharacteristics": [
+      "Medium Dog Breeds"
+    ],
+    "traits": {
+      "adaptabilityLevel": 4,
+      "affectionateWithFamily": 5,
+      "barkingLevel": 3,
+      "coatGroomingFrequency": 2,
+      "coatLength": [
+        "Short"
+      ],
+      "coatType": [
+        "Smooth"
+      ],
+      "droolingLevel": 2,
+      "energyLevel": 5,
+      "goodWithOtherDogs": 3,
+      "goodWithYoungChildren": 3,
+      "mentalStimulationNeeds": 4,
+      "opennessToStrangers": 3,
+      "playfulnessLevel": 3,
+      "sheddingLevel": 3,
+      "trainabilityLevel": 4,
+      "watchdogProtectiveNature": 5
+    },
+    "sizeCategory": "medium",
+    "isFluffy": false
   },
   {
     "akcId": "25862",
@@ -2392,7 +11297,43 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/teddy-roosevelt-terrier/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2017/11/TRT-walk-yard-400x267.jpg",
     "imageAlt": "Teddy Roosevelt Terrier",
-    "imagePath": "assets/images/teddy-roosevelt-terrier.jpg"
+    "imagePath": "assets/images/teddy-roosevelt-terrier.jpg",
+    "breedGroup": "Terrier Group",
+    "origin": "United States",
+    "temperament": "intelligent / playful / versatile",
+    "lifeExpectancy": "14-16 years",
+    "height": "8-14 inches",
+    "weight": "8-25 pounds",
+    "relatedCharacteristics": [
+      "Smallest Dog Breeds",
+      "Best Family Dogs",
+      "Best Dog Breeds for Kids",
+      "Best Dogs for Apartment Dwellers"
+    ],
+    "traits": {
+      "adaptabilityLevel": 5,
+      "affectionateWithFamily": 5,
+      "barkingLevel": 3,
+      "coatGroomingFrequency": 1,
+      "coatLength": [
+        "Short"
+      ],
+      "coatType": [
+        "Smooth"
+      ],
+      "droolingLevel": 1,
+      "energyLevel": 3,
+      "goodWithOtherDogs": 5,
+      "goodWithYoungChildren": 5,
+      "mentalStimulationNeeds": 3,
+      "opennessToStrangers": 1,
+      "playfulnessLevel": 3,
+      "sheddingLevel": 3,
+      "trainabilityLevel": 3,
+      "watchdogProtectiveNature": 3
+    },
+    "sizeCategory": "medium",
+    "isFluffy": false
   },
   {
     "akcId": "175445",
@@ -2401,7 +11342,36 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/thai-bangkaew/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2023/08/Thai-Bangkaew-standing-in-profile-outdoors.1-400x267.jpg",
     "imageAlt": "Thai Bangkaew",
-    "imagePath": "assets/images/thai-bangkaew.jpg"
+    "imagePath": "assets/images/thai-bangkaew.jpg",
+    "breedGroup": "Foundation Stock Service",
+    "origin": "Thailand",
+    "temperament": "Loyal / Alert / Intelligent",
+    "lifeExpectancy": "14-17 years",
+    "height": "18-21 inches males, 16-19 inches females",
+    "weight": "40-43 males, 35-40 females",
+    "relatedCharacteristics": [
+      "Medium Dog Breeds"
+    ],
+    "traits": {
+      "adaptabilityLevel": 1,
+      "affectionateWithFamily": 5,
+      "barkingLevel": 1,
+      "coatGroomingFrequency": 3,
+      "coatLength": [],
+      "coatType": [],
+      "droolingLevel": 1,
+      "energyLevel": 3,
+      "goodWithOtherDogs": 3,
+      "goodWithYoungChildren": 3,
+      "mentalStimulationNeeds": 3,
+      "opennessToStrangers": 1,
+      "playfulnessLevel": 3,
+      "sheddingLevel": 3,
+      "trainabilityLevel": 3,
+      "watchdogProtectiveNature": 5
+    },
+    "sizeCategory": "medium",
+    "isFluffy": false
   },
   {
     "akcId": "25864",
@@ -2410,7 +11380,37 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/thai-ridgeback/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2017/11/Thai-Ridgeback.4-400x267.jpg",
     "imageAlt": "Thai Ridgeback",
-    "imagePath": "assets/images/thai-ridgeback.jpg"
+    "imagePath": "assets/images/thai-ridgeback.jpg",
+    "breedGroup": "Foundation Stock Service",
+    "origin": "Thailand",
+    "temperament": "Loyal / Alert / Intelligent",
+    "lifeExpectancy": "14-15 years",
+    "height": "20-24 inches",
+    "weight": "35-75 pounds",
+    "relatedCharacteristics": [
+      "Medium Dog Breeds",
+      "Best Guard Dogs"
+    ],
+    "traits": {
+      "adaptabilityLevel": 1,
+      "affectionateWithFamily": 5,
+      "barkingLevel": 1,
+      "coatGroomingFrequency": 3,
+      "coatLength": [],
+      "coatType": [],
+      "droolingLevel": 1,
+      "energyLevel": 3,
+      "goodWithOtherDogs": 3,
+      "goodWithYoungChildren": 3,
+      "mentalStimulationNeeds": 4,
+      "opennessToStrangers": 1,
+      "playfulnessLevel": 3,
+      "sheddingLevel": 3,
+      "trainabilityLevel": 3,
+      "watchdogProtectiveNature": 5
+    },
+    "sizeCategory": "large",
+    "isFluffy": false
   },
   {
     "akcId": "25866",
@@ -2419,7 +11419,41 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/tibetan-mastiff/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2017/11/Tibetan-Mastiff-laying-down-outdoors-400x267.jpg",
     "imageAlt": "Tibetan Mastiff",
-    "imagePath": "assets/images/tibetan-mastiff.jpg"
+    "imagePath": "assets/images/tibetan-mastiff.jpg",
+    "breedGroup": "Working Group",
+    "origin": "Tibet",
+    "temperament": "reserved / independent / intelligent",
+    "lifeExpectancy": "10-12 years",
+    "height": "minimum 26 inches (male), minimum 24 inches (female)",
+    "weight": "90-150 pounds (male), 70-120 pounds (female)",
+    "relatedCharacteristics": [
+      "Largest Dog Breeds",
+      "Best Guard Dogs"
+    ],
+    "traits": {
+      "adaptabilityLevel": 3,
+      "affectionateWithFamily": 4,
+      "barkingLevel": 3,
+      "coatGroomingFrequency": 3,
+      "coatLength": [
+        "Medium"
+      ],
+      "coatType": [
+        "Double"
+      ],
+      "droolingLevel": 3,
+      "energyLevel": 3,
+      "goodWithOtherDogs": 3,
+      "goodWithYoungChildren": 3,
+      "mentalStimulationNeeds": 4,
+      "opennessToStrangers": 1,
+      "playfulnessLevel": 3,
+      "sheddingLevel": 4,
+      "trainabilityLevel": 3,
+      "watchdogProtectiveNature": 5
+    },
+    "sizeCategory": "large",
+    "isFluffy": true
   },
   {
     "akcId": "25880",
@@ -2428,7 +11462,38 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/tibetan-spaniel/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2017/11/Tibetan-Spaniel-laying-down-outdoors-400x267.jpg",
     "imageAlt": "Tibetan Spaniel",
-    "imagePath": "assets/images/tibetan-spaniel.jpg"
+    "imagePath": "assets/images/tibetan-spaniel.jpg",
+    "breedGroup": "Non-Sporting Group",
+    "origin": "Tibet",
+    "temperament": "playful / bright / self-confident",
+    "lifeExpectancy": "12-15 years",
+    "height": "10 inches",
+    "weight": "9-15 pounds",
+    "relatedCharacteristics": [],
+    "traits": {
+      "adaptabilityLevel": 4,
+      "affectionateWithFamily": 5,
+      "barkingLevel": 3,
+      "coatGroomingFrequency": 2,
+      "coatLength": [
+        "Medium"
+      ],
+      "coatType": [
+        "Double"
+      ],
+      "droolingLevel": 2,
+      "energyLevel": 3,
+      "goodWithOtherDogs": 3,
+      "goodWithYoungChildren": 5,
+      "mentalStimulationNeeds": 3,
+      "opennessToStrangers": 4,
+      "playfulnessLevel": 4,
+      "sheddingLevel": 3,
+      "trainabilityLevel": 3,
+      "watchdogProtectiveNature": 4
+    },
+    "sizeCategory": "small",
+    "isFluffy": true
   },
   {
     "akcId": "25894",
@@ -2437,7 +11502,40 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/tibetan-terrier/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2017/11/Tibetan-Terrier-On-White-01-400x267.jpg",
     "imageAlt": "Tibetan Terrier",
-    "imagePath": "assets/images/tibetan-terrier.jpg"
+    "imagePath": "assets/images/tibetan-terrier.jpg",
+    "breedGroup": "Non-Sporting Group",
+    "origin": "Tibet",
+    "temperament": "loyal / affectionate / sensitive",
+    "lifeExpectancy": "15-16 years",
+    "height": "14-17 inches",
+    "weight": "18-30 pounds (male), slightly smaller (female)",
+    "relatedCharacteristics": [
+      "Smallest Dog Breeds"
+    ],
+    "traits": {
+      "adaptabilityLevel": 4,
+      "affectionateWithFamily": 5,
+      "barkingLevel": 3,
+      "coatGroomingFrequency": 3,
+      "coatLength": [
+        "Long"
+      ],
+      "coatType": [
+        "Double"
+      ],
+      "droolingLevel": 2,
+      "energyLevel": 4,
+      "goodWithOtherDogs": 3,
+      "goodWithYoungChildren": 3,
+      "mentalStimulationNeeds": 4,
+      "opennessToStrangers": 3,
+      "playfulnessLevel": 3,
+      "sheddingLevel": 3,
+      "trainabilityLevel": 3,
+      "watchdogProtectiveNature": 4
+    },
+    "sizeCategory": "medium",
+    "isFluffy": true
   },
   {
     "akcId": "25909",
@@ -2446,7 +11544,41 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/tornjak/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2017/11/Tornjak-standing-in-the-woods-400x267.jpg",
     "imageAlt": "Tornjak",
-    "imagePath": "assets/images/tornjak.jpg"
+    "imagePath": "assets/images/tornjak.jpg",
+    "breedGroup": "Foundation Stock Service",
+    "origin": "Croatia/Bosnia and Herzegovina",
+    "temperament": "intelligent / friendly / courageous",
+    "lifeExpectancy": "12-14 years",
+    "height": "23-28 inches",
+    "weight": "62-110 pounds",
+    "relatedCharacteristics": [
+      "Largest Dog Breeds",
+      "Best Guard Dogs"
+    ],
+    "traits": {
+      "adaptabilityLevel": 3,
+      "affectionateWithFamily": 5,
+      "barkingLevel": 3,
+      "coatGroomingFrequency": 2,
+      "coatLength": [
+        "Medium"
+      ],
+      "coatType": [
+        "Double"
+      ],
+      "droolingLevel": 3,
+      "energyLevel": 3,
+      "goodWithOtherDogs": 1,
+      "goodWithYoungChildren": 3,
+      "mentalStimulationNeeds": 3,
+      "opennessToStrangers": 3,
+      "playfulnessLevel": 3,
+      "sheddingLevel": 4,
+      "trainabilityLevel": 3,
+      "watchdogProtectiveNature": 5
+    },
+    "sizeCategory": "large",
+    "isFluffy": true
   },
   {
     "akcId": "25911",
@@ -2455,7 +11587,41 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/tosa/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2017/11/Tosa-on-White-01-400x267.jpg",
     "imageAlt": "Tosa",
-    "imagePath": "assets/images/tosa.jpg"
+    "imagePath": "assets/images/tosa.jpg",
+    "breedGroup": "Foundation Stock Service",
+    "origin": "Japan",
+    "temperament": "vigilant / fearless / patient",
+    "lifeExpectancy": "10-12 years",
+    "height": "Minimum 21.5-23.5 inches",
+    "weight": "100-200 pounds",
+    "relatedCharacteristics": [
+      "Largest Dog Breeds"
+    ],
+    "traits": {
+      "adaptabilityLevel": 3,
+      "affectionateWithFamily": 5,
+      "barkingLevel": 3,
+      "coatGroomingFrequency": 1,
+      "coatLength": [
+        "Short"
+      ],
+      "coatType": [
+        "Double",
+        "Smooth"
+      ],
+      "droolingLevel": 3,
+      "energyLevel": 3,
+      "goodWithOtherDogs": 1,
+      "goodWithYoungChildren": 3,
+      "mentalStimulationNeeds": 4,
+      "opennessToStrangers": 1,
+      "playfulnessLevel": 3,
+      "sheddingLevel": 2,
+      "trainabilityLevel": 3,
+      "watchdogProtectiveNature": 5
+    },
+    "sizeCategory": "large",
+    "isFluffy": true
   },
   {
     "akcId": "25912",
@@ -2464,7 +11630,40 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/toy-fox-terrier/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2017/11/Toy-Fox-Terrier-standing-portrait-400x267.jpg",
     "imageAlt": "Toy Fox Terrier",
-    "imagePath": "assets/images/toy-fox-terrier.jpg"
+    "imagePath": "assets/images/toy-fox-terrier.jpg",
+    "breedGroup": "Toy Group",
+    "origin": "United States",
+    "temperament": "alert / intelligent / friendly",
+    "lifeExpectancy": "13-15 years",
+    "height": "8.5-11.5 inches",
+    "weight": "4 - 9 lbs",
+    "relatedCharacteristics": [
+      "Smallest Dog Breeds"
+    ],
+    "traits": {
+      "adaptabilityLevel": 4,
+      "affectionateWithFamily": 5,
+      "barkingLevel": 4,
+      "coatGroomingFrequency": 2,
+      "coatLength": [
+        "Short"
+      ],
+      "coatType": [
+        "Smooth"
+      ],
+      "droolingLevel": 1,
+      "energyLevel": 4,
+      "goodWithOtherDogs": 3,
+      "goodWithYoungChildren": 3,
+      "mentalStimulationNeeds": 4,
+      "opennessToStrangers": 5,
+      "playfulnessLevel": 4,
+      "sheddingLevel": 3,
+      "trainabilityLevel": 5,
+      "watchdogProtectiveNature": 5
+    },
+    "sizeCategory": "small",
+    "isFluffy": false
   },
   {
     "akcId": "25926",
@@ -2473,7 +11672,40 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/transylvanian-hound/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2017/11/Transylvanian-Hound-On-White-01-400x267.jpg",
     "imageAlt": "Transylvanian Hound",
-    "imagePath": "assets/images/transylvanian-hound.jpg"
+    "imagePath": "assets/images/transylvanian-hound.jpg",
+    "breedGroup": "Foundation Stock Service",
+    "origin": "Hungary",
+    "temperament": "good-natured / courageous / determined",
+    "lifeExpectancy": "10-14 years",
+    "height": "22-26 inches",
+    "weight": "Minimum 55 pounds",
+    "relatedCharacteristics": [
+      "Medium Dog Breeds"
+    ],
+    "traits": {
+      "adaptabilityLevel": 4,
+      "affectionateWithFamily": 5,
+      "barkingLevel": 4,
+      "coatGroomingFrequency": 2,
+      "coatLength": [
+        "Short"
+      ],
+      "coatType": [
+        "Smooth"
+      ],
+      "droolingLevel": 3,
+      "energyLevel": 5,
+      "goodWithOtherDogs": 5,
+      "goodWithYoungChildren": 5,
+      "mentalStimulationNeeds": 5,
+      "opennessToStrangers": 4,
+      "playfulnessLevel": 5,
+      "sheddingLevel": 3,
+      "trainabilityLevel": 4,
+      "watchdogProtectiveNature": 5
+    },
+    "sizeCategory": "large",
+    "isFluffy": false
   },
   {
     "akcId": "25928",
@@ -2482,7 +11714,40 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/treeing-tennessee-brindle/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2017/11/Treeing-Tennessee-Brindle-on-White-01-400x267.jpg",
     "imageAlt": "Treeing Tennessee Brindle",
-    "imagePath": "assets/images/treeing-tennessee-brindle.jpg"
+    "imagePath": "assets/images/treeing-tennessee-brindle.jpg",
+    "breedGroup": "Foundation Stock Service",
+    "origin": "United States",
+    "temperament": "alert / intelligent / friendly",
+    "lifeExpectancy": "10-12 years",
+    "height": "16-24 inches",
+    "weight": "30-50 pounds",
+    "relatedCharacteristics": [
+      "Medium Dog Breeds"
+    ],
+    "traits": {
+      "adaptabilityLevel": 3,
+      "affectionateWithFamily": 5,
+      "barkingLevel": 5,
+      "coatGroomingFrequency": 2,
+      "coatLength": [
+        "Short"
+      ],
+      "coatType": [
+        "Smooth"
+      ],
+      "droolingLevel": 3,
+      "energyLevel": 3,
+      "goodWithOtherDogs": 5,
+      "goodWithYoungChildren": 3,
+      "mentalStimulationNeeds": 4,
+      "opennessToStrangers": 3,
+      "playfulnessLevel": 3,
+      "sheddingLevel": 2,
+      "trainabilityLevel": 3,
+      "watchdogProtectiveNature": 3
+    },
+    "sizeCategory": "medium",
+    "isFluffy": false
   },
   {
     "akcId": "25930",
@@ -2491,7 +11756,38 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/treeing-walker-coonhound/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2017/11/Treeing-Walker-Coonhound-400x267.jpg",
     "imageAlt": "Treeing Walker Coonhound",
-    "imagePath": "assets/images/treeing-walker-coonhound.jpg"
+    "imagePath": "assets/images/treeing-walker-coonhound.jpg",
+    "breedGroup": "Hound Group",
+    "origin": "United States",
+    "temperament": "smart / brave / courteous",
+    "lifeExpectancy": "12-13 years",
+    "height": "22-27 inches (male), 20-25 inches (female)",
+    "weight": "50-70 pounds",
+    "relatedCharacteristics": [],
+    "traits": {
+      "adaptabilityLevel": 4,
+      "affectionateWithFamily": 5,
+      "barkingLevel": 4,
+      "coatGroomingFrequency": 1,
+      "coatLength": [
+        "Short"
+      ],
+      "coatType": [
+        "Smooth"
+      ],
+      "droolingLevel": 3,
+      "energyLevel": 5,
+      "goodWithOtherDogs": 5,
+      "goodWithYoungChildren": 5,
+      "mentalStimulationNeeds": 5,
+      "opennessToStrangers": 3,
+      "playfulnessLevel": 4,
+      "sheddingLevel": 3,
+      "trainabilityLevel": 5,
+      "watchdogProtectiveNature": 3
+    },
+    "sizeCategory": "large",
+    "isFluffy": false
   },
   {
     "akcId": "25939",
@@ -2500,7 +11796,40 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/vizsla/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2017/11/Vizsla-On-White-01-400x267.jpg",
     "imageAlt": "Vizsla",
-    "imagePath": "assets/images/vizsla.jpg"
+    "imagePath": "assets/images/vizsla.jpg",
+    "breedGroup": "Sporting Group",
+    "origin": "Hungary",
+    "temperament": "energetic / affectionate / gentle",
+    "lifeExpectancy": "12-14 years",
+    "height": "22-24 inches (male), 21-23 inches (female)",
+    "weight": "55-60 pounds (male), 44-55 pounds (female)",
+    "relatedCharacteristics": [
+      "Medium Dog Breeds"
+    ],
+    "traits": {
+      "adaptabilityLevel": 5,
+      "affectionateWithFamily": 5,
+      "barkingLevel": 3,
+      "coatGroomingFrequency": 2,
+      "coatLength": [
+        "Short"
+      ],
+      "coatType": [
+        "Smooth"
+      ],
+      "droolingLevel": 2,
+      "energyLevel": 5,
+      "goodWithOtherDogs": 4,
+      "goodWithYoungChildren": 5,
+      "mentalStimulationNeeds": 5,
+      "opennessToStrangers": 4,
+      "playfulnessLevel": 5,
+      "sheddingLevel": 3,
+      "trainabilityLevel": 5,
+      "watchdogProtectiveNature": 3
+    },
+    "sizeCategory": "large",
+    "isFluffy": false
   },
   {
     "akcId": "125262",
@@ -2509,7 +11838,40 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/volpino-italiano/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2021/03/Volpino-Italiano-standing-in-profile-in-the-grass-400x267.jpg",
     "imageAlt": "Volpino Italiano",
-    "imagePath": "assets/images/volpino-italiano.jpg"
+    "imagePath": "assets/images/volpino-italiano.jpg",
+    "breedGroup": "Foundation Stock Service",
+    "origin": "Italy",
+    "temperament": "loyal / energetic / loving",
+    "lifeExpectancy": "12-15 years",
+    "height": "10.5-12 inches",
+    "weight": "10-16 pounds (males), 8-12 pounds (females)",
+    "relatedCharacteristics": [
+      "Smallest Dog Breeds",
+      "Medium Dog Breeds",
+      "Best Guard Dogs"
+    ],
+    "traits": {
+      "adaptabilityLevel": 1,
+      "affectionateWithFamily": 5,
+      "barkingLevel": 1,
+      "coatGroomingFrequency": 1,
+      "coatLength": [
+        "Long"
+      ],
+      "coatType": [],
+      "droolingLevel": 1,
+      "energyLevel": 3,
+      "goodWithOtherDogs": 3,
+      "goodWithYoungChildren": 3,
+      "mentalStimulationNeeds": 5,
+      "opennessToStrangers": 1,
+      "playfulnessLevel": 3,
+      "sheddingLevel": 2,
+      "trainabilityLevel": 3,
+      "watchdogProtectiveNature": 3
+    },
+    "sizeCategory": "small",
+    "isFluffy": true
   },
   {
     "akcId": "25953",
@@ -2518,7 +11880,41 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/weimaraner/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2017/11/Weimaraner-running-into-water-400x267.jpg",
     "imageAlt": "Weimaraner",
-    "imagePath": "assets/images/weimaraner.jpg"
+    "imagePath": "assets/images/weimaraner.jpg",
+    "breedGroup": "Sporting Group",
+    "origin": "Germany",
+    "temperament": "friendly / fearless / obedient",
+    "lifeExpectancy": "10-13 years",
+    "height": "25-27 inches (male), 23-25 inches (female)",
+    "weight": "70-90 pounds (male), 55-75 pounds (female)",
+    "relatedCharacteristics": [
+      "Best Dog Breeds for Kids",
+      "Largest Dog Breeds"
+    ],
+    "traits": {
+      "adaptabilityLevel": 4,
+      "affectionateWithFamily": 5,
+      "barkingLevel": 3,
+      "coatGroomingFrequency": 2,
+      "coatLength": [
+        "Short"
+      ],
+      "coatType": [
+        "Smooth"
+      ],
+      "droolingLevel": 2,
+      "energyLevel": 5,
+      "goodWithOtherDogs": 3,
+      "goodWithYoungChildren": 5,
+      "mentalStimulationNeeds": 5,
+      "opennessToStrangers": 3,
+      "playfulnessLevel": 5,
+      "sheddingLevel": 3,
+      "trainabilityLevel": 5,
+      "watchdogProtectiveNature": 5
+    },
+    "sizeCategory": "large",
+    "isFluffy": false
   },
   {
     "akcId": "25967",
@@ -2527,7 +11923,38 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/welsh-springer-spaniel/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2017/11/Welsh-Springer-Spaniel-head-portrait-outdoors-400x267.jpg",
     "imageAlt": "Welsh Springer Spaniel",
-    "imagePath": "assets/images/welsh-springer-spaniel.jpg"
+    "imagePath": "assets/images/welsh-springer-spaniel.jpg",
+    "breedGroup": "Sporting Group",
+    "origin": "Wales",
+    "temperament": "reserved / happy / upbeat",
+    "lifeExpectancy": "12-15 years",
+    "height": "18-19 inches (male), 17-18 inches (female)",
+    "weight": "40-55 pounds (male), 35-50 pounds (female)",
+    "relatedCharacteristics": [],
+    "traits": {
+      "adaptabilityLevel": 4,
+      "affectionateWithFamily": 5,
+      "barkingLevel": 3,
+      "coatGroomingFrequency": 2,
+      "coatLength": [
+        "Medium"
+      ],
+      "coatType": [
+        "Double"
+      ],
+      "droolingLevel": 2,
+      "energyLevel": 4,
+      "goodWithOtherDogs": 4,
+      "goodWithYoungChildren": 5,
+      "mentalStimulationNeeds": 4,
+      "opennessToStrangers": 1,
+      "playfulnessLevel": 3,
+      "sheddingLevel": 3,
+      "trainabilityLevel": 5,
+      "watchdogProtectiveNature": 3
+    },
+    "sizeCategory": "large",
+    "isFluffy": true
   },
   {
     "akcId": "25977",
@@ -2536,7 +11963,39 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/welsh-terrier/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2017/11/Welsh-Terrier-standing-stacked-in-the-grass-400x267.jpg",
     "imageAlt": "Welsh Terrier",
-    "imagePath": "assets/images/welsh-terrier.jpg"
+    "imagePath": "assets/images/welsh-terrier.jpg",
+    "breedGroup": "Terrier Group",
+    "origin": "Wales",
+    "temperament": "intelligent / friendly / spirited",
+    "lifeExpectancy": "12-15 years",
+    "height": "15 inches (male), porportionally smaller (female)",
+    "weight": "20 pounds (male), proportionally smaller (female)",
+    "relatedCharacteristics": [],
+    "traits": {
+      "adaptabilityLevel": 4,
+      "affectionateWithFamily": 5,
+      "barkingLevel": 4,
+      "coatGroomingFrequency": 3,
+      "coatLength": [
+        "Medium"
+      ],
+      "coatType": [
+        "Double",
+        "Wiry"
+      ],
+      "droolingLevel": 2,
+      "energyLevel": 4,
+      "goodWithOtherDogs": 3,
+      "goodWithYoungChildren": 5,
+      "mentalStimulationNeeds": 4,
+      "opennessToStrangers": 5,
+      "playfulnessLevel": 4,
+      "sheddingLevel": 2,
+      "trainabilityLevel": 4,
+      "watchdogProtectiveNature": 4
+    },
+    "sizeCategory": "small",
+    "isFluffy": true
   },
   {
     "akcId": "25991",
@@ -2545,7 +12004,38 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/west-highland-white-terrier/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2017/11/West-Highland-White-Terrier-laying-down-in-the-grass-400x267.jpg",
     "imageAlt": "West Highland White Terrier",
-    "imagePath": "assets/images/west-highland-white-terrier.jpg"
+    "imagePath": "assets/images/west-highland-white-terrier.jpg",
+    "breedGroup": "Terrier Group",
+    "origin": "Scotland",
+    "temperament": "loyal / happy / entertaining",
+    "lifeExpectancy": "13-15 years",
+    "height": "11 inches (male), 10 inches (female)",
+    "weight": "15-20 pounds",
+    "relatedCharacteristics": [],
+    "traits": {
+      "adaptabilityLevel": 4,
+      "affectionateWithFamily": 5,
+      "barkingLevel": 5,
+      "coatGroomingFrequency": 3,
+      "coatLength": [
+        "Medium"
+      ],
+      "coatType": [
+        "Double"
+      ],
+      "droolingLevel": 1,
+      "energyLevel": 4,
+      "goodWithOtherDogs": 3,
+      "goodWithYoungChildren": 5,
+      "mentalStimulationNeeds": 4,
+      "opennessToStrangers": 4,
+      "playfulnessLevel": 5,
+      "sheddingLevel": 3,
+      "trainabilityLevel": 3,
+      "watchdogProtectiveNature": 5
+    },
+    "sizeCategory": "small",
+    "isFluffy": true
   },
   {
     "akcId": "96258",
@@ -2554,7 +12044,40 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/wetterhoun/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2020/01/Wetterhoun-black-400x267.jpg",
     "imageAlt": "Wetterhoun",
-    "imagePath": "assets/images/wetterhoun.jpg"
+    "imagePath": "assets/images/wetterhoun.jpg",
+    "breedGroup": "Foundation Stock Service",
+    "origin": "Netherlands",
+    "temperament": "loyal / intelligent / good-natured",
+    "lifeExpectancy": "13 years",
+    "height": "23 inches (male), 21.5 inches (female)",
+    "weight": "50-75 pounds",
+    "relatedCharacteristics": [
+      "Medium Dog Breeds"
+    ],
+    "traits": {
+      "adaptabilityLevel": 0,
+      "affectionateWithFamily": 0,
+      "barkingLevel": 0,
+      "coatGroomingFrequency": 0,
+      "coatLength": [
+        "Medium"
+      ],
+      "coatType": [
+        "Curly"
+      ],
+      "droolingLevel": 0,
+      "energyLevel": 0,
+      "goodWithOtherDogs": 0,
+      "goodWithYoungChildren": 0,
+      "mentalStimulationNeeds": 0,
+      "opennessToStrangers": 0,
+      "playfulnessLevel": 0,
+      "sheddingLevel": 0,
+      "trainabilityLevel": 0,
+      "watchdogProtectiveNature": 0
+    },
+    "sizeCategory": "large",
+    "isFluffy": true
   },
   {
     "akcId": "26002",
@@ -2563,7 +12086,40 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/whippet/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2017/11/Whippet-On-White-01-400x267.jpg",
     "imageAlt": "Whippet",
-    "imagePath": "assets/images/whippet.jpg"
+    "imagePath": "assets/images/whippet.jpg",
+    "breedGroup": "Hound Group",
+    "origin": "England",
+    "temperament": "playful / affectionate / calm",
+    "lifeExpectancy": "12-15 years",
+    "height": "19-22 inches (male), 18-21 inches (female)",
+    "weight": "25-40 pounds",
+    "relatedCharacteristics": [
+      "Medium Dog Breeds"
+    ],
+    "traits": {
+      "adaptabilityLevel": 3,
+      "affectionateWithFamily": 5,
+      "barkingLevel": 1,
+      "coatGroomingFrequency": 1,
+      "coatLength": [
+        "Short"
+      ],
+      "coatType": [
+        "Smooth"
+      ],
+      "droolingLevel": 1,
+      "energyLevel": 4,
+      "goodWithOtherDogs": 5,
+      "goodWithYoungChildren": 5,
+      "mentalStimulationNeeds": 4,
+      "opennessToStrangers": 3,
+      "playfulnessLevel": 4,
+      "sheddingLevel": 2,
+      "trainabilityLevel": 3,
+      "watchdogProtectiveNature": 3
+    },
+    "sizeCategory": "medium",
+    "isFluffy": false
   },
   {
     "akcId": "26018",
@@ -2572,7 +12128,41 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/wire-fox-terrier/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2017/11/Wire-Fox-Terrier.1-400x267.jpg",
     "imageAlt": "Wire Fox Terrier",
-    "imagePath": "assets/images/wire-fox-terrier.jpg"
+    "imagePath": "assets/images/wire-fox-terrier.jpg",
+    "breedGroup": "Terrier Group",
+    "origin": "England",
+    "temperament": "alert / confident / gregarious",
+    "lifeExpectancy": "12-15 years",
+    "height": "15½ inches",
+    "weight": "18 pounds (male), 15-17 (female)",
+    "relatedCharacteristics": [
+      "Smallest Dog Breeds"
+    ],
+    "traits": {
+      "adaptabilityLevel": 4,
+      "affectionateWithFamily": 5,
+      "barkingLevel": 4,
+      "coatGroomingFrequency": 3,
+      "coatLength": [
+        "Medium"
+      ],
+      "coatType": [
+        "Double",
+        "Wiry"
+      ],
+      "droolingLevel": 2,
+      "energyLevel": 4,
+      "goodWithOtherDogs": 3,
+      "goodWithYoungChildren": 5,
+      "mentalStimulationNeeds": 4,
+      "opennessToStrangers": 5,
+      "playfulnessLevel": 4,
+      "sheddingLevel": 2,
+      "trainabilityLevel": 4,
+      "watchdogProtectiveNature": 4
+    },
+    "sizeCategory": "small",
+    "isFluffy": true
   },
   {
     "akcId": "26043",
@@ -2581,7 +12171,41 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/wirehaired-pointing-griffon/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2017/11/Wirehaired-Pointing-Griffon-laying-in-a-field-400x267.jpg",
     "imageAlt": "Wirehaired Pointing Griffon",
-    "imagePath": "assets/images/wirehaired-pointing-griffon.jpg"
+    "imagePath": "assets/images/wirehaired-pointing-griffon.jpg",
+    "breedGroup": "Sporting Group",
+    "origin": "Continental Europe",
+    "temperament": "friendly / devoted / trainable",
+    "lifeExpectancy": "12-15 years",
+    "height": "22-24 inches (male), 20-22 inches (female)",
+    "weight": "50-70 pounds (male), 35-50 pounds (female)",
+    "relatedCharacteristics": [
+      "Medium Dog Breeds"
+    ],
+    "traits": {
+      "adaptabilityLevel": 4,
+      "affectionateWithFamily": 5,
+      "barkingLevel": 3,
+      "coatGroomingFrequency": 2,
+      "coatLength": [
+        "Medium"
+      ],
+      "coatType": [
+        "Double",
+        "Wiry"
+      ],
+      "droolingLevel": 3,
+      "energyLevel": 5,
+      "goodWithOtherDogs": 3,
+      "goodWithYoungChildren": 5,
+      "mentalStimulationNeeds": 5,
+      "opennessToStrangers": 5,
+      "playfulnessLevel": 4,
+      "sheddingLevel": 3,
+      "trainabilityLevel": 5,
+      "watchdogProtectiveNature": 3
+    },
+    "sizeCategory": "large",
+    "isFluffy": true
   },
   {
     "akcId": "26058",
@@ -2590,7 +12214,40 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/wirehaired-vizsla/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2017/11/Wirehaired-Vizsla-wading-into-a-lake-400x267.jpg",
     "imageAlt": "Wirehaired Vizsla",
-    "imagePath": "assets/images/wirehaired-vizsla.jpg"
+    "imagePath": "assets/images/wirehaired-vizsla.jpg",
+    "breedGroup": "Sporting Group",
+    "origin": "Hungary",
+    "temperament": "loyal / gentle / trainable",
+    "lifeExpectancy": "12-14 years",
+    "height": "23-25 inches (male), 21.5-23 inches (female)",
+    "weight": "55-65 pounds (male), 45-55 pounds (female)",
+    "relatedCharacteristics": [
+      "Medium Dog Breeds"
+    ],
+    "traits": {
+      "adaptabilityLevel": 4,
+      "affectionateWithFamily": 5,
+      "barkingLevel": 3,
+      "coatGroomingFrequency": 1,
+      "coatLength": [
+        "Short"
+      ],
+      "coatType": [
+        "Wiry"
+      ],
+      "droolingLevel": 2,
+      "energyLevel": 5,
+      "goodWithOtherDogs": 3,
+      "goodWithYoungChildren": 5,
+      "mentalStimulationNeeds": 5,
+      "opennessToStrangers": 5,
+      "playfulnessLevel": 5,
+      "sheddingLevel": 3,
+      "trainabilityLevel": 5,
+      "watchdogProtectiveNature": 3
+    },
+    "sizeCategory": "large",
+    "isFluffy": false
   },
   {
     "akcId": "26073",
@@ -2599,7 +12256,40 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/working-kelpie/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2017/11/Working-Kelpie.2-400x267.jpg",
     "imageAlt": "Working Kelpie",
-    "imagePath": "assets/images/working-kelpie.jpg"
+    "imagePath": "assets/images/working-kelpie.jpg",
+    "breedGroup": "Foundation Stock Service",
+    "origin": "Australia",
+    "temperament": "alert / intelligent / eager",
+    "lifeExpectancy": "12-15 years",
+    "height": "19-25 inches",
+    "weight": "28-60 pounds",
+    "relatedCharacteristics": [
+      "Medium Dog Breeds"
+    ],
+    "traits": {
+      "adaptabilityLevel": 4,
+      "affectionateWithFamily": 5,
+      "barkingLevel": 3,
+      "coatGroomingFrequency": 1,
+      "coatLength": [
+        "Short"
+      ],
+      "coatType": [
+        "Smooth"
+      ],
+      "droolingLevel": 2,
+      "energyLevel": 5,
+      "goodWithOtherDogs": 3,
+      "goodWithYoungChildren": 5,
+      "mentalStimulationNeeds": 5,
+      "opennessToStrangers": 5,
+      "playfulnessLevel": 5,
+      "sheddingLevel": 3,
+      "trainabilityLevel": 5,
+      "watchdogProtectiveNature": 4
+    },
+    "sizeCategory": "large",
+    "isFluffy": false
   },
   {
     "akcId": "26075",
@@ -2608,7 +12298,42 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/xoloitzcuintli/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2017/11/Xoloitzcuintli-On-White-01-400x267.jpg",
     "imageAlt": "Xoloitzcuintli",
-    "imagePath": "assets/images/xoloitzcuintli.jpg"
+    "imagePath": "assets/images/xoloitzcuintli.jpg",
+    "breedGroup": "Non-Sporting Group",
+    "origin": "Mexico",
+    "temperament": "alert / loyal / calm",
+    "lifeExpectancy": "13-18 years",
+    "height": "10-14 inches (toy), 14-18 inches (miniature), 18-23 inches (standard)",
+    "weight": "10-15 pounds (toy), 15-30 pounds (miniature), 30-55 pounds (standard)",
+    "relatedCharacteristics": [
+      "Hypoallergenic Dogs",
+      "Hairless Dog Breeds"
+    ],
+    "traits": {
+      "adaptabilityLevel": 4,
+      "affectionateWithFamily": 5,
+      "barkingLevel": 3,
+      "coatGroomingFrequency": 1,
+      "coatLength": [
+        "Short"
+      ],
+      "coatType": [
+        "Smooth",
+        "Hairless"
+      ],
+      "droolingLevel": 1,
+      "energyLevel": 4,
+      "goodWithOtherDogs": 3,
+      "goodWithYoungChildren": 3,
+      "mentalStimulationNeeds": 4,
+      "opennessToStrangers": 3,
+      "playfulnessLevel": 4,
+      "sheddingLevel": 1,
+      "trainabilityLevel": 4,
+      "watchdogProtectiveNature": 3
+    },
+    "sizeCategory": "large",
+    "isFluffy": false
   },
   {
     "akcId": "26089",
@@ -2617,7 +12342,40 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/yakutian-laika/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2017/11/Yakutian-Laika1-400x267.jpg",
     "imageAlt": "Yakutian Laika",
-    "imagePath": "assets/images/yakutian-laika.jpg"
+    "imagePath": "assets/images/yakutian-laika.jpg",
+    "breedGroup": "Miscellaneous Class",
+    "origin": "Yakutia",
+    "temperament": "intelligent / active / affectionate",
+    "lifeExpectancy": "10-12 years",
+    "height": "21-23 inches",
+    "weight": "40-55 pounds",
+    "relatedCharacteristics": [
+      "Medium Dog Breeds"
+    ],
+    "traits": {
+      "adaptabilityLevel": 4,
+      "affectionateWithFamily": 5,
+      "barkingLevel": 4,
+      "coatGroomingFrequency": 2,
+      "coatLength": [
+        "Medium"
+      ],
+      "coatType": [
+        "Double"
+      ],
+      "droolingLevel": 3,
+      "energyLevel": 5,
+      "goodWithOtherDogs": 4,
+      "goodWithYoungChildren": 5,
+      "mentalStimulationNeeds": 5,
+      "opennessToStrangers": 1,
+      "playfulnessLevel": 4,
+      "sheddingLevel": 4,
+      "trainabilityLevel": 3,
+      "watchdogProtectiveNature": 5
+    },
+    "sizeCategory": "large",
+    "isFluffy": true
   },
   {
     "akcId": "26092",
@@ -2626,6 +12384,41 @@ window.BREEDS = [
     "breedUrl": "https://www.akc.org/dog-breeds/yorkshire-terrier/",
     "imageUrl": "https://www.akc.org/wp-content/uploads/2017/11/Yorkshire-Terrier-standing-outdoors-on-a-sunny-day-400x267.jpg",
     "imageAlt": "Yorkshire Terrier",
-    "imagePath": "assets/images/yorkshire-terrier.jpg"
+    "imagePath": "assets/images/yorkshire-terrier.jpg",
+    "breedGroup": "Toy Group",
+    "origin": "England",
+    "temperament": "affectionate / sprightly / tomboyish",
+    "lifeExpectancy": "11-15 years",
+    "height": "7-8 inches",
+    "weight": "7 pounds",
+    "relatedCharacteristics": [
+      "Smallest Dog Breeds",
+      "Hypoallergenic Dogs",
+      "Best Dogs for Apartment Dwellers"
+    ],
+    "traits": {
+      "adaptabilityLevel": 5,
+      "affectionateWithFamily": 5,
+      "barkingLevel": 4,
+      "coatGroomingFrequency": 5,
+      "coatLength": [
+        "Long"
+      ],
+      "coatType": [
+        "Silky"
+      ],
+      "droolingLevel": 1,
+      "energyLevel": 4,
+      "goodWithOtherDogs": 3,
+      "goodWithYoungChildren": 5,
+      "mentalStimulationNeeds": 4,
+      "opennessToStrangers": 5,
+      "playfulnessLevel": 4,
+      "sheddingLevel": 1,
+      "trainabilityLevel": 4,
+      "watchdogProtectiveNature": 5
+    },
+    "sizeCategory": "small",
+    "isFluffy": true
   }
 ];
